@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 from flask import Flask, render_template, request, redirect, url_for, session, jsonify
 from model import predict_price
@@ -75,6 +76,18 @@ def logout():
     return redirect(url_for('login'))
 
 
+# Curated Vadodara PINs for the app's dropdown areas that have few or no
+# scraped listings; used only when the dataset has no match at all.
+FALLBACK_AREA_ZIPS = {
+    "Fatehgunj": [390002], "Nizampura": [390002], "Diwalipura": [390002],
+    "Vasna": [390007], "Alkapuri": [390007], "Sama": [390024], "Tarsali": [390009],
+    "Makarpura": [390010], "Manjalpur": [390011], "Karelibaug": [390018],
+    "Waghodia Road": [390025], "Akota": [390020], "Gotri": [390021],
+    "Harni": [390022], "New VIP Road": [390018], "Amit Nagar": [390023],
+    "Bhayli": [391410],
+}
+
+
 @app.route("/api/area_lookup")
 def area_lookup():
     """Map pincode -> areas (or area -> pincodes) from the live dataset."""
@@ -83,8 +96,16 @@ def area_lookup():
     area = request.args.get("area")
     if area:
         zips = df[df["area_name"] == area]["zip code"].dropna().unique()
+        if len(zips) == 0:
+            # Dropdown names may differ from dataset names ("Vasna" vs
+            # "Vasna Road"): fall back to a case-insensitive substring match.
+            zips = df[df["area_name"].str.contains(re.escape(area), case=False, na=False)]["zip code"].dropna().unique()
+        if len(zips) == 0:
+            # No real listings at all (e.g. Amit Nagar): use the curated PIN.
+            zips = FALLBACK_AREA_ZIPS.get(area, [])
         zips = sorted(int(z) for z in zips)
         return jsonify({"found": len(zips) > 0, "areas": [], "zips": zips})
+
     try:
         zipcode = int(request.args.get("zip", ""))
     except (TypeError, ValueError):
