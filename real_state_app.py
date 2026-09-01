@@ -20,7 +20,7 @@ users_collection = db['users']
 bcrypt = Bcrypt(app)
 
 # Load dataset for locating nearest houses
-df = pd.read_csv("real_state_dataset_vadodara_random.csv")
+df = pd.read_csv("real_state_dataset_vadodara.csv")
 
 
 @app.route("/")
@@ -83,6 +83,8 @@ def predict():
         zipcode = int(request.form["zipcode"])
         bathroom = int(request.form["bathroom"])
         bedroom = int(request.form["bedroom"])
+        property_type = request.form.get("property_type", "Flat")
+        furnishing = request.form.get("furnishing", "Unknown")
     except (KeyError, ValueError):
         return render_template(
             "index.html",
@@ -95,7 +97,9 @@ def predict():
         "area_name": area_name,
         "zip code": zipcode,
         "No Bathroom": bathroom,
-        "No bedroom": bedroom
+        "No bedroom": bedroom,
+        "property type": property_type,
+        "furnishing": furnishing,
     }
 
     # Predict price

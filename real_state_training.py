@@ -8,7 +8,7 @@ from sklearn.metrics import r2_score, mean_absolute_error
 from preprocessing import load_dataset, clean_data, split_features_target, build_preprocessor
 
 RANDOM_STATE = 42
-DATASET_PATH = "real_state_dataset_vadodara_random.csv"
+DATASET_PATH = "real_state_dataset_vadodara.csv"
 
 data = load_dataset(DATASET_PATH)
 data = clean_data(data)

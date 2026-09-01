@@ -1,0 +1,1997 @@
+sr no,city,zip code,No Bathroom,No bedroom,price  per squrefoot,area_name,property type,furnishing
+1,Vadodara,390022,3,3,7173,Aanta Swagtam Atladra,Villa,Furnished
+2,Vadodara,390022,1,1,4214,Ajwa Road,House,Unfurnished
+3,Vadodara,390022,1,1,11333,Ajwa Road,House,Unfurnished
+4,Vadodara,390022,2,1,6352,Ajwa Road,House,Furnished
+5,Vadodara,390022,2,2,2593,Ajwa Road,Flat,Unfurnished
+6,Vadodara,390022,1,2,2577,Ajwa Road,Flat,Unfurnished
+7,Vadodara,390022,2,2,3525,Ajwa Road,Flat,Furnished
+8,Vadodara,390022,2,2,6196,Ajwa Road,House,Furnished
+9,Vadodara,390022,2,2,2383,Ajwa Road,Flat,Furnished
+10,Vadodara,390022,3,2,3500,Ajwa Road,House,Furnished
+11,Vadodara,390022,2,2,2632,Ajwa Road,Flat,Unfurnished
+12,Vadodara,390022,2,2,4000,Ajwa Road,Flat,Unfurnished
+13,Vadodara,390022,3,3,4444,Ajwa Road,Villa,Unfurnished
+14,Vadodara,390022,3,3,4286,Ajwa Road,Flat,Unfurnished
+15,Vadodara,390022,3,3,3529,Ajwa Road,Flat,Unfurnished
+16,Vadodara,390022,2,3,2839,Ajwa Road,Flat,Furnished
+17,Vadodara,390022,3,4,4375,Ajwa Road,House,Furnished
+18,Vadodara,390022,4,4,2292,Ajwa Road,House,Unfurnished
+19,Vadodara,390022,4,4,3084,Ajwa Road,House,Unfurnished
+20,Vadodara,390022,2,2,7407,Akhanksha Duplex Laxmipura,House,Furnished
+21,Vadodara,390020,1,1,3246,Akota,Flat,Furnished
+22,Vadodara,390020,1,1,3200,Akota,Flat,Unfurnished
+23,Vadodara,390020,2,2,4500,Akota,Flat,Furnished
+24,Vadodara,390020,2,2,4464,Akota,Flat,Furnished
+25,Vadodara,390020,2,2,6000,Akota,House,Unfurnished
+26,Vadodara,390020,2,2,4000,Akota,Builder Floor,Furnished
+27,Vadodara,390020,2,2,8125,Akota,Flat,Furnished
+28,Vadodara,390020,2,2,3714,Akota,Flat,Unfurnished
+29,Vadodara,390020,2,2,3714,Akota,Flat,Furnished
+30,Vadodara,390020,2,2,3070,Akota,Flat,Furnished
+31,Vadodara,390020,2,2,5000,Akota,Builder Floor,Furnished
+32,Vadodara,390020,2,2,3500,Akota,Flat,Furnished
+33,Vadodara,390020,2,2,4583,Akota,Builder Floor,Unfurnished
+34,Vadodara,390020,2,2,4615,Akota,Flat,Furnished
+35,Vadodara,390020,1,2,4167,Akota,Flat,Unfurnished
+36,Vadodara,390020,2,2,4459,Akota,Flat,Furnished
+37,Vadodara,390020,2,2,4167,Akota,Flat,Furnished
+38,Vadodara,390020,2,3,8125,Akota,Villa,Unfurnished
+39,Vadodara,390020,3,3,8021,Akota,House,Furnished
+40,Vadodara,390020,3,3,4483,Akota,Flat,Unfurnished
+41,Vadodara,390020,3,3,6240,Akota,Flat,Furnished
+42,Vadodara,390020,3,3,2727,Akota,Flat,Furnished
+43,Vadodara,390020,2,3,4762,Akota,Flat,Unfurnished
+44,Vadodara,390020,3,3,7075,Akota,Villa,Unknown
+45,Vadodara,390020,2,3,4125,Akota,Builder Floor,Furnished
+46,Vadodara,390020,3,3,5938,Akota,Flat,Furnished
+47,Vadodara,390020,3,3,4593,Akota,Flat,Furnished
+48,Vadodara,390020,3,3,5000,Akota,Flat,Furnished
+49,Vadodara,390020,3,3,3636,Akota,Builder Floor,Furnished
+50,Vadodara,390020,2,3,7826,Akota,House,Unfurnished
+51,Vadodara,390020,3,3,5500,Akota,Flat,Unfurnished
+52,Vadodara,390020,3,3,6684,Akota,House,Furnished
+53,Vadodara,390020,3,3,5534,Akota,Flat,Unfurnished
+54,Vadodara,390020,2,3,7027,Akota,Flat,Furnished
+55,Vadodara,390020,3,3,3143,Akota,Flat,Unfurnished
+56,Vadodara,390020,2,3,4910,Akota,Flat,Furnished
+57,Vadodara,390020,3,3,5399,Akota,Flat,Unfurnished
+58,Vadodara,390020,3,3,4133,Akota,House,Furnished
+59,Vadodara,390020,3,3,4031,Akota,Flat,Unfurnished
+60,Vadodara,390020,3,3,7778,Akota,Flat,Furnished
+61,Vadodara,390020,4,4,10000,Akota,Flat,Furnished
+62,Vadodara,390020,4,4,10605,Akota,Flat,Furnished
+63,Vadodara,390020,2,4,3864,Akota,Flat,Furnished
+64,Vadodara,390020,4,4,12273,Akota,House,Furnished
+65,Vadodara,390020,4,4,5952,Akota,Flat,Furnished
+66,Vadodara,390020,4,4,10000,Akota,House,Furnished
+67,Vadodara,390020,2,4,7261,Akota,House,Furnished
+68,Vadodara,390020,4,4,7182,Akota,Flat,Unfurnished
+69,Vadodara,390020,4,4,7500,Akota,Flat,Unfurnished
+70,Vadodara,390020,5,5,10000,Akota,Villa,Furnished
+71,Vadodara,390020,4,5,7828,Akota,House,Furnished
+72,Vadodara,390020,4,5,5435,Akota,House,Furnished
+73,Vadodara,390022,2,3,4667,Akota Road,House,Furnished
+74,Vadodara,390022,4,5,6038,Akota Road,House,Furnished
+75,Vadodara,390022,4,4,7941,Aksharvilla,House,Furnished
+76,Vadodara,390007,2,2,6780,Alkapuri,Flat,Furnished
+77,Vadodara,390007,2,2,5294,Alkapuri,Flat,Unfurnished
+78,Vadodara,390007,1,2,3737,Alkapuri,Flat,Furnished
+79,Vadodara,390007,3,3,4114,Alkapuri,Flat,Unfurnished
+80,Vadodara,390007,3,3,5000,Alkapuri,Flat,Unfurnished
+81,Vadodara,390007,3,3,6400,Alkapuri,House,Furnished
+82,Vadodara,390007,3,3,8636,Alkapuri,Flat,Furnished
+83,Vadodara,390007,3,3,5351,Alkapuri,Flat,Furnished
+84,Vadodara,390007,4,4,9697,Alkapuri,Flat,Furnished
+85,Vadodara,390007,4,4,9359,Alkapuri,Flat,Unfurnished
+86,Vadodara,390007,4,4,9929,Alkapuri,Flat,Unfurnished
+87,Vadodara,390007,4,8,10417,Alkapuri,Flat,Furnished
+88,Vadodara,390022,3,3,2569,Amodar,House,Furnished
+89,Vadodara,390022,3,3,2565,Amodar,House,Unfurnished
+90,Vadodara,390022,2,4,4545,Anandpura,House,Furnished
+91,Vadodara,390022,3,3,6087,Ananta Shubhlabh,House,Unfurnished
+92,Vadodara,390022,3,3,7699,Ankhol,House,Unfurnished
+93,Vadodara,390022,3,3,7089,Ankhol,House,Unfurnished
+94,Vadodara,390022,5,4,6651,Ankhol,Villa,Unfurnished
+95,Vadodara,390022,3,3,4096,Ashwamegh Nagar,Flat,Unfurnished
+96,Vadodara,390022,2,2,3397,Atladara Bill Canal Road,Flat,Furnished
+97,Vadodara,390022,1,1,3956,Atladra,Flat,Furnished
+98,Vadodara,390022,1,1,3636,Atladra,Flat,Furnished
+99,Vadodara,390012,2,2,3347,Atladra,Flat,Unfurnished
+100,Vadodara,390022,2,2,4222,Atladra,Flat,Furnished
+101,Vadodara,390022,2,2,2762,Atladra,Flat,Furnished
+102,Vadodara,390012,2,2,5206,Atladra,Flat,Unfurnished
+103,Vadodara,390022,2,2,4308,Atladra,Flat,Furnished
+104,Vadodara,390022,2,2,2348,Atladra,Flat,Unfurnished
+105,Vadodara,390022,2,2,4194,Atladra,Flat,Furnished
+106,Vadodara,390022,2,2,3820,Atladra,Flat,Furnished
+107,Vadodara,390022,2,2,5241,Atladra,Flat,Furnished
+108,Vadodara,390022,2,2,3435,Atladra,Flat,Unfurnished
+109,Vadodara,390022,2,2,3190,Atladra,Builder Floor,Unfurnished
+110,Vadodara,390012,2,2,5294,Atladra,Flat,Furnished
+111,Vadodara,390022,2,2,3766,Atladra,Flat,Unfurnished
+112,Vadodara,390022,2,2,5469,Atladra,Flat,Furnished
+113,Vadodara,390022,2,2,2486,Atladra,Flat,Unfurnished
+114,Vadodara,390022,2,2,2947,Atladra,Builder Floor,Furnished
+115,Vadodara,390022,2,2,3556,Atladra,Flat,Unfurnished
+116,Vadodara,390022,2,2,3400,Atladra,Flat,Furnished
+117,Vadodara,390022,2,2,3754,Atladra,Flat,Unfurnished
+118,Vadodara,390022,2,2,4528,Atladra,Flat,Furnished
+119,Vadodara,390022,2,2,2950,Atladra,Flat,Furnished
+120,Vadodara,390022,2,2,3351,Atladra,Flat,Unfurnished
+121,Vadodara,390012,2,2,3819,Atladra,Flat,Unfurnished
+122,Vadodara,390012,2,2,3571,Atladra,Flat,Furnished
+123,Vadodara,390012,2,2,2737,Atladra,Flat,Furnished
+124,Vadodara,390012,2,2,5289,Atladra,Flat,Unfurnished
+125,Vadodara,390012,1,3,2427,Atladra,Flat,Unknown
+126,Vadodara,390022,3,3,8299,Atladra,Villa,Furnished
+127,Vadodara,390022,3,3,5333,Atladra,Flat,Unfurnished
+128,Vadodara,390012,3,3,6224,Atladra,Flat,Unfurnished
+129,Vadodara,390022,2,3,2948,Atladra,Flat,Furnished
+130,Vadodara,390022,3,3,2824,Atladra,Flat,Furnished
+131,Vadodara,390022,3,3,10651,Atladra,House,Unfurnished
+132,Vadodara,390022,2,3,2356,Atladra,Flat,Unfurnished
+133,Vadodara,390022,3,3,4400,Atladra,Flat,Furnished
+134,Vadodara,390022,3,3,4456,Atladra,Flat,Furnished
+135,Vadodara,390022,3,3,8383,Atladra,Flat,Furnished
+136,Vadodara,390022,3,3,4222,Atladra,Flat,Furnished
+137,Vadodara,390022,3,3,3103,Atladra,Flat,Furnished
+138,Vadodara,390012,3,3,4909,Atladra,House,Furnished
+139,Vadodara,390022,3,3,5500,Atladra,Flat,Unfurnished
+140,Vadodara,390022,3,3,4167,Atladra,Flat,Furnished
+141,Vadodara,390022,2,3,2786,Atladra,Flat,Furnished
+142,Vadodara,390022,2,3,4000,Atladra,Flat,Unfurnished
+143,Vadodara,390012,3,3,3500,Atladra,Flat,Furnished
+144,Vadodara,390022,3,3,4688,Atladra,House,Furnished
+145,Vadodara,390022,3,3,5151,Atladra,Flat,Furnished
+146,Vadodara,390022,2,3,3636,Atladra,Flat,Unfurnished
+147,Vadodara,390022,3,3,6727,Atladra,Flat,Furnished
+148,Vadodara,390022,2,3,4565,Atladra,Flat,Unfurnished
+149,Vadodara,390022,3,3,5926,Atladra,House,Unfurnished
+150,Vadodara,390022,3,3,3140,Atladra,Flat,Furnished
+151,Vadodara,390012,3,3,3429,Atladra,Flat,Furnished
+152,Vadodara,390012,3,3,6840,Atladra,House,Unfurnished
+153,Vadodara,390012,3,3,2971,Atladra,House,Unfurnished
+154,Vadodara,390012,3,3,11600,Atladra,House,Furnished
+155,Vadodara,390012,3,3,6084,Atladra,Flat,Unfurnished
+156,Vadodara,390012,3,3,6131,Atladra,Flat,Unfurnished
+157,Vadodara,390012,3,3,6196,Atladra,Flat,Unfurnished
+158,Vadodara,390012,3,3,5386,Atladra,Flat,Unfurnished
+159,Vadodara,390012,3,3,6290,Atladra,Flat,Unfurnished
+160,Vadodara,390012,3,3,5505,Atladra,Flat,Unfurnished
+161,Vadodara,390012,3,3,6028,Atladra,Flat,Unfurnished
+162,Vadodara,390022,4,4,10479,Atladra,Villa,Furnished
+163,Vadodara,390012,4,4,3814,Atladra,Builder Floor,Furnished
+164,Vadodara,390022,4,4,3000,Atladra,Flat,Furnished
+165,Vadodara,390022,4,4,7115,Atladra,House,Furnished
+166,Vadodara,390012,5,4,4269,Atladra,House,Unfurnished
+167,Vadodara,390022,4,4,5500,Atladra,Flat,Furnished
+168,Vadodara,390012,4,4,5111,Atladra,House,Unfurnished
+169,Vadodara,390022,4,4,3111,Atladra,Flat,Furnished
+170,Vadodara,390022,4,4,7222,Atladra,Flat,Furnished
+171,Vadodara,390012,4,4,3750,Atladra,Villa,Unfurnished
+172,Vadodara,390012,3,4,5556,Atladra,House,Furnished
+173,Vadodara,390012,6,5,4000,Atladra,House,Furnished
+174,Vadodara,390012,3,5,6197,Atladra,House,Furnished
+175,Vadodara,390022,3,3,9000,Ayodhya Nagar,House,Furnished
+176,Vadodara,390022,2,2,6667,Ayodhya Township,House,Furnished
+177,Vadodara,390022,1,1,2400,Babajipura,Builder Floor,Unfurnished
+178,Vadodara,390022,3,3,3571,Babajipura,Flat,Furnished
+179,Vadodara,390022,3,1,6958,Bahar Colony,House,Unfurnished
+180,Vadodara,390022,2,3,3571,Bansidhar Complex,Flat,Furnished
+181,Vadodara,390022,2,3,5053,Bapod,House,Unfurnished
+182,Vadodara,390022,2,2,4385,Baroda Heights Manjalpur,Flat,Furnished
+183,Vadodara,390022,3,3,7363,Behind Bankers Heart Institute,Flat,Furnished
+184,Vadodara,390022,5,5,8000,Bhakti Nagar,House,Furnished
+185,Vadodara,390022,3,3,9444,Bhakti Nagar-Makarpura,House,Furnished
+186,Vadodara,391410,1,1,5273,Bhayli,Flat,Furnished
+187,Vadodara,391410,2,2,5556,Bhayli,Flat,Furnished
+188,Vadodara,391410,2,2,3600,Bhayli,Flat,Furnished
+189,Vadodara,391410,2,2,2419,Bhayli,Flat,Furnished
+190,Vadodara,391410,2,2,6250,Bhayli,Flat,Unfurnished
+191,Vadodara,391410,2,2,4286,Bhayli,Flat,Unfurnished
+192,Vadodara,391410,2,2,5806,Bhayli,Flat,Unfurnished
+193,Vadodara,391410,2,2,4103,Bhayli,Flat,Furnished
+194,Vadodara,391410,2,2,2938,Bhayli,Flat,Furnished
+195,Vadodara,391410,2,2,2361,Bhayli,Flat,Furnished
+196,Vadodara,391410,2,2,3765,Bhayli,Flat,Furnished
+197,Vadodara,391410,2,2,2778,Bhayli,Flat,Unfurnished
+198,Vadodara,391410,2,2,3404,Bhayli,Flat,Furnished
+199,Vadodara,391410,2,2,2667,Bhayli,Flat,Unfurnished
+200,Vadodara,391410,2,2,2545,Bhayli,Flat,Furnished
+201,Vadodara,391410,2,2,2857,Bhayli,Flat,Furnished
+202,Vadodara,391410,2,2,4915,Bhayli,Flat,Furnished
+203,Vadodara,391410,2,2,4471,Bhayli,Flat,Furnished
+204,Vadodara,391410,2,2,3077,Bhayli,Flat,Unfurnished
+205,Vadodara,391410,2,2,4308,Bhayli,Builder Floor,Furnished
+206,Vadodara,391410,2,2,5000,Bhayli,Flat,Furnished
+207,Vadodara,391410,2,2,4400,Bhayli,Flat,Furnished
+208,Vadodara,391410,2,2,3226,Bhayli,Flat,Furnished
+209,Vadodara,391410,2,2,3333,Bhayli,Builder Floor,Furnished
+210,Vadodara,391410,2,2,12121,Bhayli,Flat,Unfurnished
+211,Vadodara,391410,2,2,5319,Bhayli,Flat,Furnished
+212,Vadodara,391410,2,2,5811,Bhayli,Flat,Furnished
+213,Vadodara,391410,2,2,6694,Bhayli,Flat,Furnished
+214,Vadodara,391410,2,2,4429,Bhayli,Flat,Furnished
+215,Vadodara,391410,2,2,4286,Bhayli,Flat,Furnished
+216,Vadodara,391410,2,2,5357,Bhayli,Flat,Furnished
+217,Vadodara,391410,2,2,4333,Bhayli,Flat,Unfurnished
+218,Vadodara,391410,2,3,5424,Bhayli,Flat,Furnished
+219,Vadodara,391410,3,3,4505,Bhayli,Flat,Furnished
+220,Vadodara,391410,3,3,7353,Bhayli,Flat,Furnished
+221,Vadodara,391410,3,3,5143,Bhayli,Flat,Furnished
+222,Vadodara,391410,3,3,6282,Bhayli,Flat,Unfurnished
+223,Vadodara,391410,3,3,8294,Bhayli,Flat,Unfurnished
+224,Vadodara,391410,3,3,3158,Bhayli,Flat,Furnished
+225,Vadodara,391410,3,3,3111,Bhayli,House,Unknown
+226,Vadodara,391410,3,3,6926,Bhayli,Flat,Unfurnished
+227,Vadodara,391410,3,3,3684,Bhayli,Flat,Furnished
+228,Vadodara,391410,3,3,4396,Bhayli,Flat,Furnished
+229,Vadodara,391410,3,3,3103,Bhayli,House,Unfurnished
+230,Vadodara,391410,3,3,4164,Bhayli,House,Furnished
+231,Vadodara,391410,3,3,5333,Bhayli,Flat,Furnished
+232,Vadodara,391410,3,3,5783,Bhayli,Flat,Furnished
+233,Vadodara,391410,3,3,2745,Bhayli,Builder Floor,Furnished
+234,Vadodara,391410,2,3,3733,Bhayli,Flat,Unfurnished
+235,Vadodara,391410,3,3,6904,Bhayli,Flat,Furnished
+236,Vadodara,391410,3,3,7336,Bhayli,Flat,Furnished
+237,Vadodara,391410,3,3,3750,Bhayli,House,Unfurnished
+238,Vadodara,391410,3,3,4444,Bhayli,Flat,Furnished
+239,Vadodara,391410,3,3,6667,Bhayli,Flat,Furnished
+240,Vadodara,391410,3,3,3778,Bhayli,Flat,Furnished
+241,Vadodara,391410,3,3,6245,Bhayli,Flat,Unfurnished
+242,Vadodara,391410,3,3,10127,Bhayli,House,Furnished
+243,Vadodara,391410,3,3,6875,Bhayli,Flat,Furnished
+244,Vadodara,391410,3,3,3853,Bhayli,Flat,Unfurnished
+245,Vadodara,391410,3,3,4993,Bhayli,House,Furnished
+246,Vadodara,391410,3,3,3947,Bhayli,House,Furnished
+247,Vadodara,391410,3,3,7500,Bhayli,Flat,Furnished
+248,Vadodara,391410,3,3,3693,Bhayli,Flat,Unfurnished
+249,Vadodara,391410,3,3,3273,Bhayli,Flat,Unfurnished
+250,Vadodara,391410,3,3,4526,Bhayli,Flat,Furnished
+251,Vadodara,391410,3,3,3750,Bhayli,House,Furnished
+252,Vadodara,391410,3,3,4550,Bhayli,Flat,Furnished
+253,Vadodara,391410,2,3,5404,Bhayli,Flat,Unfurnished
+254,Vadodara,391410,3,3,4267,Bhayli,Flat,Furnished
+255,Vadodara,391410,2,3,5372,Bhayli,Flat,Unfurnished
+256,Vadodara,391410,3,3,3641,Bhayli,Flat,Furnished
+257,Vadodara,391410,3,3,4333,Bhayli,Flat,Furnished
+258,Vadodara,391410,3,3,4333,Bhayli,House,Furnished
+259,Vadodara,391410,3,3,4095,Bhayli,Flat,Furnished
+260,Vadodara,391410,3,3,5412,Bhayli,Flat,Furnished
+261,Vadodara,391410,3,3,5455,Bhayli,Flat,Furnished
+262,Vadodara,391410,3,3,3462,Bhayli,Flat,Furnished
+263,Vadodara,391410,3,3,3571,Bhayli,Flat,Furnished
+264,Vadodara,391410,3,3,6034,Bhayli,Flat,Furnished
+265,Vadodara,391410,3,3,3810,Bhayli,Flat,Furnished
+266,Vadodara,391410,2,3,4457,Bhayli,Flat,Furnished
+267,Vadodara,391410,3,3,6636,Bhayli,Flat,Furnished
+268,Vadodara,391410,4,3,3438,Bhayli,House,Unfurnished
+269,Vadodara,391410,3,3,5956,Bhayli,Flat,Furnished
+270,Vadodara,391410,3,3,7373,Bhayli,Flat,Furnished
+271,Vadodara,391410,2,3,2345,Bhayli,Flat,Furnished
+272,Vadodara,391410,3,3,3444,Bhayli,Flat,Furnished
+273,Vadodara,391410,2,3,4750,Bhayli,Flat,Unfurnished
+274,Vadodara,391410,3,3,2968,Bhayli,Flat,Furnished
+275,Vadodara,391410,3,3,2462,Bhayli,House,Unfurnished
+276,Vadodara,391410,3,3,3438,Bhayli,Flat,Unfurnished
+277,Vadodara,391410,3,3,4300,Bhayli,Flat,Furnished
+278,Vadodara,391410,3,3,5545,Bhayli,Flat,Unfurnished
+279,Vadodara,391410,2,3,3059,Bhayli,Flat,Furnished
+280,Vadodara,391410,3,3,7905,Bhayli,Flat,Furnished
+281,Vadodara,391410,3,3,2759,Bhayli,Flat,Unfurnished
+282,Vadodara,391410,3,3,4883,Bhayli,Flat,Furnished
+283,Vadodara,391410,3,3,10726,Bhayli,Villa,Furnished
+284,Vadodara,391410,3,3,3994,Bhayli,Flat,Furnished
+285,Vadodara,391410,3,3,2800,Bhayli,Flat,Furnished
+286,Vadodara,391410,3,3,8268,Bhayli,Flat,Furnished
+287,Vadodara,391410,3,3,4638,Bhayli,Flat,Unfurnished
+288,Vadodara,391410,3,3,4467,Bhayli,Flat,Unfurnished
+289,Vadodara,391410,3,3,7576,Bhayli,Flat,Furnished
+290,Vadodara,391410,2,3,7857,Bhayli,Flat,Furnished
+291,Vadodara,391410,3,3,6273,Bhayli,House,Furnished
+292,Vadodara,391410,3,3,3333,Bhayli,Flat,Furnished
+293,Vadodara,391410,3,3,4615,Bhayli,Flat,Furnished
+294,Vadodara,391410,3,3,3410,Bhayli,Flat,Furnished
+295,Vadodara,391410,3,3,4314,Bhayli,Flat,Furnished
+296,Vadodara,391410,4,4,7022,Bhayli,Flat,Unfurnished
+297,Vadodara,391410,5,4,5749,Bhayli,House,Furnished
+298,Vadodara,391410,4,4,5246,Bhayli,House,Unfurnished
+299,Vadodara,391410,5,4,11290,Bhayli,Villa,Unfurnished
+300,Vadodara,391410,4,4,7143,Bhayli,House,Furnished
+301,Vadodara,391410,5,4,9000,Bhayli,Flat,Unfurnished
+302,Vadodara,391410,4,4,11312,Bhayli,Flat,Furnished
+303,Vadodara,391410,5,4,7170,Bhayli,Villa,Unfurnished
+304,Vadodara,391410,4,4,6720,Bhayli,Flat,Unfurnished
+305,Vadodara,391410,4,4,7515,Bhayli,Flat,Unfurnished
+306,Vadodara,391410,4,4,8920,Bhayli,House,Furnished
+307,Vadodara,391410,4,4,10526,Bhayli,Flat,Furnished
+308,Vadodara,391410,4,4,6250,Bhayli,Flat,Furnished
+309,Vadodara,391410,4,4,5750,Bhayli,House,Furnished
+310,Vadodara,391410,4,4,7071,Bhayli,House,Unfurnished
+311,Vadodara,391410,4,4,4838,Bhayli,Flat,Furnished
+312,Vadodara,391410,1,4,10894,Bhayli,House,Furnished
+313,Vadodara,391410,4,4,3131,Bhayli,Builder Floor,Furnished
+314,Vadodara,391410,4,4,3431,Bhayli,Flat,Furnished
+315,Vadodara,391410,4,4,10556,Bhayli,Villa,Unfurnished
+316,Vadodara,391410,4,4,9000,Bhayli,House,Furnished
+317,Vadodara,391410,4,4,11916,Bhayli,Villa,Furnished
+318,Vadodara,391410,5,5,3889,Bhayli,House,Unfurnished
+319,Vadodara,391410,5,5,8715,Bhayli,House,Furnished
+320,Vadodara,391410,5,5,4010,Bhayli,House,Unfurnished
+321,Vadodara,390022,2,2,5833,Bhayli Road,Flat,Furnished
+322,Vadodara,390022,2,2,2938,Bhayli Road,Flat,Furnished
+323,Vadodara,390022,3,3,3905,Bhayli Road,House,Furnished
+324,Vadodara,390022,2,2,3200,Bill,Flat,Unfurnished
+325,Vadodara,390022,2,2,3354,Bill,Flat,Furnished
+326,Vadodara,390022,2,2,3378,Bill,Flat,Furnished
+327,Vadodara,390022,2,2,3864,Bill,Flat,Furnished
+328,Vadodara,390022,2,2,5385,Bill,Flat,Furnished
+329,Vadodara,390022,2,2,2653,Bill,Flat,Furnished
+330,Vadodara,390022,2,2,3556,Bill,Flat,Furnished
+331,Vadodara,390022,2,2,2706,Bill,Flat,Furnished
+332,Vadodara,390022,2,2,3571,Bill,Flat,Furnished
+333,Vadodara,390022,2,2,3974,Bill,Flat,Furnished
+334,Vadodara,390022,2,2,3000,Bill,Flat,Furnished
+335,Vadodara,390022,2,3,3684,Bill,Flat,Furnished
+336,Vadodara,390022,3,3,6818,Bill,House,Unfurnished
+337,Vadodara,390022,2,3,3835,Bill,Flat,Furnished
+338,Vadodara,390022,3,3,3214,Bill,Flat,Unfurnished
+339,Vadodara,390022,2,3,3889,Bill,Flat,Furnished
+340,Vadodara,390022,4,4,6086,Bill,Villa,Unfurnished
+341,Vadodara,390022,4,4,4615,Bill,House,Unfurnished
+342,Vadodara,390022,4,4,4688,Bill,Villa,Furnished
+343,Vadodara,390022,4,4,3066,Bill,House,Furnished
+344,Vadodara,390022,4,4,3432,Bodeli,Villa,Furnished
+345,Vadodara,390022,3,2,3438,Bpc Road,House,Furnished
+346,Vadodara,390022,2,3,6420,Bpc Road,Flat,Furnished
+347,Vadodara,390022,1,2,6250,Canal Road Randhal Dham Society,House,Furnished
+348,Vadodara,390022,1,1,3910,Chapad,Villa,Furnished
+349,Vadodara,391740,1,1,4149,Chhani,Flat,Unfurnished
+350,Vadodara,391740,1,1,3529,Chhani,Flat,Furnished
+351,Vadodara,391740,2,2,2778,Chhani,Flat,Furnished
+352,Vadodara,391740,2,2,4118,Chhani,Flat,Furnished
+353,Vadodara,391740,2,2,4651,Chhani,Flat,Unfurnished
+354,Vadodara,391740,2,2,3556,Chhani,Flat,Unfurnished
+355,Vadodara,391740,2,2,5112,Chhani,Flat,Furnished
+356,Vadodara,391740,2,2,4189,Chhani,Flat,Unfurnished
+357,Vadodara,391740,2,2,3280,Chhani,Flat,Furnished
+358,Vadodara,391740,2,2,2977,Chhani,Flat,Furnished
+359,Vadodara,391740,3,3,3067,Chhani,Flat,Unfurnished
+360,Vadodara,391740,3,3,5833,Chhani,Flat,Unfurnished
+361,Vadodara,391740,3,3,5934,Chhani,Flat,Furnished
+362,Vadodara,391740,1,3,4000,Chhani,Flat,Unknown
+363,Vadodara,391740,3,3,7234,Chhani,Flat,Furnished
+364,Vadodara,391740,3,3,6742,Chhani,Flat,Furnished
+365,Vadodara,391740,3,3,8730,Chhani,Flat,Furnished
+366,Vadodara,391740,3,3,4395,Chhani,Flat,Furnished
+367,Vadodara,391740,3,3,7037,Chhani,Flat,Furnished
+368,Vadodara,391740,4,3,7087,Chhani,Flat,Furnished
+369,Vadodara,391740,3,3,12156,Chhani,Villa,Furnished
+370,Vadodara,391740,3,3,3509,Chhani,Flat,Unfurnished
+371,Vadodara,391740,3,3,5440,Chhani,Flat,Unfurnished
+372,Vadodara,390022,2,2,5103,Chhani Canel Road,Flat,Furnished
+373,Vadodara,390022,2,2,3619,Chhani Jakat Naka,Flat,Unfurnished
+374,Vadodara,390022,2,2,5286,Chhani Jakat Naka,Flat,Furnished
+375,Vadodara,390022,1,2,10000,Chhani Jakat Naka,House,Furnished
+376,Vadodara,390022,3,3,5529,Chhani Jakat Naka,Flat,Furnished
+377,Vadodara,390022,3,4,10448,Chhani Jakat Naka,House,Furnished
+378,Vadodara,390022,3,3,5938,Chikuwadi,Flat,Furnished
+379,Vadodara,390022,1,1,3000,Chokhandi,House,Furnished
+380,Vadodara,390022,3,3,3917,Dabhoi,House,Unfurnished
+381,Vadodara,390022,1,1,6000,Dabhoi Road,Flat,Furnished
+382,Vadodara,390022,1,1,3409,Dabhoi Road,Flat,Unfurnished
+383,Vadodara,390022,1,1,4255,Dabhoi Road,Flat,Furnished
+384,Vadodara,390022,2,2,2692,Dabhoi Road,House,Unfurnished
+385,Vadodara,390022,2,2,4267,Dabhoi Road,Flat,Furnished
+386,Vadodara,390022,2,2,3153,Dabhoi Road,Flat,Furnished
+387,Vadodara,390022,2,2,2435,Dabhoi Road,Flat,Furnished
+388,Vadodara,390022,2,2,2727,Dabhoi Road,Flat,Furnished
+389,Vadodara,390022,3,3,4507,Dabhoi Road,House,Unfurnished
+390,Vadodara,390022,3,3,7081,Dabhoi Road,Flat,Furnished
+391,Vadodara,390022,3,3,6202,Dabhoi Road,Villa,Unfurnished
+392,Vadodara,390022,4,3,2651,Dabhoi Road,Villa,Unfurnished
+393,Vadodara,390022,4,4,7225,Dabhoi Road,House,Furnished
+394,Vadodara,390022,3,3,3571,Dak Bunglaw,Flat,Furnished
+395,Vadodara,390022,1,2,6000,Dandia Bazar,Flat,Unfurnished
+396,Vadodara,390022,1,3,2308,Dandia Bazar,Builder Floor,Furnished
+397,Vadodara,390022,2,3,4400,Dandia Bazar,Flat,Furnished
+398,Vadodara,390022,2,4,7778,Dandia Bazar,House,Furnished
+399,Vadodara,390022,2,2,8000,Danteshwar,House,Unfurnished
+400,Vadodara,390022,2,3,3983,Danteshwar,Flat,Furnished
+401,Vadodara,390022,3,3,8763,Danteshwar,House,Furnished
+402,Vadodara,390022,1,1,2364,Dashrath,Flat,Furnished
+403,Vadodara,390022,2,2,4444,Dashrath,Flat,Furnished
+404,Vadodara,390022,3,3,4762,Dev Deep Nagar,Flat,Furnished
+405,Vadodara,390022,1,1,4583,Divyasankul Apartment,Flat,Furnished
+406,Vadodara,390002,1,1,4800,Diwalipura,Flat,Furnished
+407,Vadodara,390002,1,1,11860,Diwalipura,House,Unfurnished
+408,Vadodara,390002,2,2,6429,Diwalipura,Flat,Furnished
+409,Vadodara,390002,3,2,7967,Diwalipura,House,Unfurnished
+410,Vadodara,390002,2,2,5235,Diwalipura,Builder Floor,Furnished
+411,Vadodara,390002,2,2,3529,Diwalipura,Flat,Furnished
+412,Vadodara,390002,2,2,4875,Diwalipura,Flat,Furnished
+413,Vadodara,390002,3,2,11429,Diwalipura,House,Furnished
+414,Vadodara,390002,2,2,5310,Diwalipura,Flat,Furnished
+415,Vadodara,390002,2,2,5333,Diwalipura,House,Furnished
+416,Vadodara,390002,2,2,4545,Diwalipura,House,Unfurnished
+417,Vadodara,390002,3,3,5986,Diwalipura,Builder Floor,Unfurnished
+418,Vadodara,390002,3,3,4274,Diwalipura,Flat,Unfurnished
+419,Vadodara,390002,3,3,2941,Diwalipura,Flat,Unfurnished
+420,Vadodara,390002,3,3,9419,Diwalipura,House,Furnished
+421,Vadodara,390002,2,3,7000,Diwalipura,Villa,Unfurnished
+422,Vadodara,390002,1,3,6701,Diwalipura,House,Unfurnished
+423,Vadodara,390002,3,3,7419,Diwalipura,Villa,Furnished
+424,Vadodara,390002,4,4,9059,Diwalipura,Villa,Furnished
+425,Vadodara,390002,4,4,4000,Diwalipura,House,Furnished
+426,Vadodara,390002,3,4,3400,Diwalipura,House,Furnished
+427,Vadodara,390002,6,5,5111,Diwalipura,Flat,Furnished
+428,Vadodara,390022,2,2,3385,Earth Icon Ii,Flat,Furnished
+429,Vadodara,390022,2,2,2600,Ekta Nagar,Flat,Unfurnished
+430,Vadodara,390022,2,2,10833,Ellora Park,House,Furnished
+431,Vadodara,390022,2,2,7500,Ellora Park,Flat,Furnished
+432,Vadodara,390022,4,4,2571,Ellora Park,Flat,Furnished
+433,Vadodara,390022,2,3,4828,Ellorapark Near Balaji Hospital Subhanpura,House,Furnished
+434,Vadodara,390022,2,2,3333,Eshanya,Flat,Furnished
+435,Vadodara,390002,1,1,3385,Fatehgunj,Flat,Furnished
+436,Vadodara,390002,1,1,3667,Fatehgunj,Flat,Furnished
+437,Vadodara,390002,1,1,3333,Fatehgunj,Flat,Furnished
+438,Vadodara,390002,2,2,6887,Fatehgunj,Flat,Furnished
+439,Vadodara,390002,2,2,5647,Fatehgunj,Flat,Furnished
+440,Vadodara,390002,2,2,5000,Fatehgunj,Builder Floor,Furnished
+441,Vadodara,390002,2,2,4583,Fatehgunj,Flat,Furnished
+442,Vadodara,390002,2,2,5571,Fatehgunj,House,Furnished
+443,Vadodara,390002,1,2,3500,Fatehgunj,Builder Floor,Furnished
+444,Vadodara,390002,2,2,3750,Fatehgunj,Builder Floor,Furnished
+445,Vadodara,390002,1,2,3140,Fatehgunj,Flat,Unfurnished
+446,Vadodara,390002,2,2,2917,Fatehgunj,Flat,Furnished
+447,Vadodara,390002,3,3,7222,Fatehgunj,Flat,Unfurnished
+448,Vadodara,390002,2,3,8571,Fatehgunj,House,Furnished
+449,Vadodara,390002,2,3,7692,Fatehgunj,Flat,Furnished
+450,Vadodara,390002,2,3,5000,Fatehgunj,House,Furnished
+451,Vadodara,390002,4,6,9470,Fatehgunj,House,Furnished
+452,Vadodara,390002,4,7,4378,Fatehgunj,House,Furnished
+453,Vadodara,390002,4,9,7955,Fatehgunj,House,Unfurnished
+454,Vadodara,390022,2,3,3846,Fatehpura,House,Unfurnished
+455,Vadodara,390022,3,3,5391,Gadapura,Flat,Furnished
+456,Vadodara,390022,2,2,3500,Gorwa,Flat,Furnished
+457,Vadodara,390022,2,2,2632,Gorwa,Flat,Furnished
+458,Vadodara,390022,2,2,8017,Gorwa,House,Unfurnished
+459,Vadodara,390022,2,2,4667,Gorwa,Flat,Furnished
+460,Vadodara,390022,2,2,4000,Gorwa,Flat,Furnished
+461,Vadodara,390022,3,3,7371,Gorwa,Villa,Furnished
+462,Vadodara,390022,3,3,4114,Gorwa,Flat,Furnished
+463,Vadodara,390022,3,3,4954,Gorwa,Flat,Furnished
+464,Vadodara,390022,3,3,11616,Gorwa,House,Furnished
+465,Vadodara,390022,2,3,5325,Gorwa,Villa,Furnished
+466,Vadodara,390022,3,3,4803,Gorwa Road,Flat,Unfurnished
+467,Vadodara,390022,2,4,7273,Gorwa Road,House,Furnished
+468,Vadodara,390021,1,1,3455,Gotri,Flat,Furnished
+469,Vadodara,390021,1,1,4000,Gotri,Flat,Furnished
+470,Vadodara,390021,1,1,3025,Gotri,Flat,Furnished
+471,Vadodara,390021,1,1,3273,Gotri,Builder Floor,Furnished
+472,Vadodara,390021,1,1,4302,Gotri,Flat,Furnished
+473,Vadodara,390021,2,2,4000,Gotri,Flat,Furnished
+474,Vadodara,390021,2,2,5223,Gotri,Flat,Furnished
+475,Vadodara,390021,2,2,5714,Gotri,Flat,Unfurnished
+476,Vadodara,390021,2,2,4684,Gotri,Flat,Furnished
+477,Vadodara,390021,3,2,7222,Gotri,House,Unfurnished
+478,Vadodara,390021,2,2,3750,Gotri,Flat,Furnished
+479,Vadodara,390021,2,2,3627,Gotri,Flat,Furnished
+480,Vadodara,390021,2,2,3125,Gotri,Flat,Furnished
+481,Vadodara,390021,2,2,3509,Gotri,Flat,Unfurnished
+482,Vadodara,390021,2,2,3551,Gotri,Flat,Furnished
+483,Vadodara,390021,2,2,3333,Gotri,Flat,Furnished
+484,Vadodara,390021,2,2,2983,Gotri,Flat,Unfurnished
+485,Vadodara,390021,2,2,4769,Gotri,Flat,Unfurnished
+486,Vadodara,390021,2,2,4375,Gotri,Flat,Furnished
+487,Vadodara,390021,2,2,4315,Gotri,Flat,Furnished
+488,Vadodara,390021,2,2,5882,Gotri,Flat,Furnished
+489,Vadodara,390021,2,2,3371,Gotri,Flat,Furnished
+490,Vadodara,390021,2,2,3455,Gotri,Flat,Furnished
+491,Vadodara,390021,2,2,3791,Gotri,Flat,Furnished
+492,Vadodara,390021,2,2,5118,Gotri,Villa,Unfurnished
+493,Vadodara,390021,2,2,3167,Gotri,Flat,Unfurnished
+494,Vadodara,390021,2,2,2796,Gotri,Flat,Furnished
+495,Vadodara,390021,2,2,3418,Gotri,Flat,Furnished
+496,Vadodara,390021,1,2,2562,Gotri,Flat,Furnished
+497,Vadodara,390021,2,2,4286,Gotri,Flat,Unfurnished
+498,Vadodara,390021,2,2,8750,Gotri,House,Furnished
+499,Vadodara,390021,2,2,4661,Gotri,Flat,Furnished
+500,Vadodara,390021,2,2,6176,Gotri,Flat,Unfurnished
+501,Vadodara,390021,2,2,3876,Gotri,Flat,Furnished
+502,Vadodara,390021,2,2,4444,Gotri,Flat,Furnished
+503,Vadodara,390021,2,2,4889,Gotri,Flat,Furnished
+504,Vadodara,390021,2,2,2949,Gotri,Flat,Furnished
+505,Vadodara,390021,2,2,5609,Gotri,Flat,Furnished
+506,Vadodara,390021,2,2,3428,Gotri,Flat,Unfurnished
+507,Vadodara,390021,2,2,3846,Gotri,Flat,Furnished
+508,Vadodara,390021,2,2,3735,Gotri,Builder Floor,Furnished
+509,Vadodara,390021,2,2,3268,Gotri,Flat,Unfurnished
+510,Vadodara,390021,2,2,4500,Gotri,Flat,Furnished
+511,Vadodara,390021,2,2,5759,Gotri,Flat,Furnished
+512,Vadodara,390021,2,2,4396,Gotri,Flat,Furnished
+513,Vadodara,390021,3,2,3500,Gotri,Flat,Unfurnished
+514,Vadodara,390021,2,2,5185,Gotri,Flat,Furnished
+515,Vadodara,390021,2,2,4598,Gotri,Flat,Furnished
+516,Vadodara,390021,2,2,4972,Gotri,Flat,Furnished
+517,Vadodara,390021,1,2,3621,Gotri,Flat,Unknown
+518,Vadodara,390021,2,2,3231,Gotri,House,Unfurnished
+519,Vadodara,390021,2,2,4200,Gotri,Flat,Furnished
+520,Vadodara,390021,2,2,4286,Gotri,Flat,Furnished
+521,Vadodara,390021,2,2,3668,Gotri,Flat,Furnished
+522,Vadodara,390021,2,2,3571,Gotri,Flat,Furnished
+523,Vadodara,390021,2,2,3358,Gotri,Flat,Furnished
+524,Vadodara,390021,3,3,6240,Gotri,Flat,Furnished
+525,Vadodara,390021,3,3,6940,Gotri,Flat,Furnished
+526,Vadodara,390021,3,3,4181,Gotri,Flat,Furnished
+527,Vadodara,390021,3,3,5721,Gotri,Flat,Furnished
+528,Vadodara,390021,3,3,6297,Gotri,Flat,Unfurnished
+529,Vadodara,390021,3,3,5238,Gotri,Builder Floor,Furnished
+530,Vadodara,390021,2,3,2521,Gotri,Flat,Furnished
+531,Vadodara,390021,3,3,6502,Gotri,Flat,Unfurnished
+532,Vadodara,390021,3,3,5152,Gotri,Builder Floor,Furnished
+533,Vadodara,390021,3,3,6032,Gotri,Flat,Unfurnished
+534,Vadodara,390021,3,3,6296,Gotri,Flat,Furnished
+535,Vadodara,390021,3,3,9724,Gotri,Villa,Furnished
+536,Vadodara,390021,3,3,6897,Gotri,Flat,Furnished
+537,Vadodara,390021,3,3,5667,Gotri,Flat,Furnished
+538,Vadodara,390021,2,3,9286,Gotri,House,Furnished
+539,Vadodara,390021,3,3,3312,Gotri,Flat,Unfurnished
+540,Vadodara,390021,3,3,5200,Gotri,Flat,Furnished
+541,Vadodara,390021,3,3,3893,Gotri,Flat,Unfurnished
+542,Vadodara,390021,2,3,3878,Gotri,House,Furnished
+543,Vadodara,390021,3,3,3438,Gotri,Flat,Furnished
+544,Vadodara,390021,3,3,6328,Gotri,Flat,Unfurnished
+545,Vadodara,390021,3,3,6345,Gotri,Flat,Furnished
+546,Vadodara,390021,3,3,2952,Gotri,Flat,Unfurnished
+547,Vadodara,390021,3,3,4348,Gotri,Flat,Furnished
+548,Vadodara,390021,3,3,8177,Gotri,Flat,Furnished
+549,Vadodara,390021,3,3,7812,Gotri,Flat,Furnished
+550,Vadodara,390021,3,3,5866,Gotri,Flat,Unfurnished
+551,Vadodara,390021,3,3,5909,Gotri,Flat,Furnished
+552,Vadodara,390021,3,3,4449,Gotri,Flat,Furnished
+553,Vadodara,390021,2,3,11429,Gotri,Villa,Furnished
+554,Vadodara,390021,3,3,3793,Gotri,Flat,Furnished
+555,Vadodara,390021,3,3,3682,Gotri,Flat,Unfurnished
+556,Vadodara,390021,3,3,3484,Gotri,Flat,Furnished
+557,Vadodara,390021,2,3,4273,Gotri,Flat,Unfurnished
+558,Vadodara,390021,3,3,4694,Gotri,Flat,Unfurnished
+559,Vadodara,390021,3,3,6440,Gotri,Flat,Unfurnished
+560,Vadodara,390021,3,3,12500,Gotri,House,Furnished
+561,Vadodara,390021,3,3,4279,Gotri,Flat,Furnished
+562,Vadodara,390021,3,3,7273,Gotri,Flat,Unfurnished
+563,Vadodara,390021,3,3,6122,Gotri,Flat,Unfurnished
+564,Vadodara,390021,3,3,2992,Gotri,Flat,Unfurnished
+565,Vadodara,390021,3,3,5455,Gotri,Flat,Furnished
+566,Vadodara,390021,3,3,6526,Gotri,Flat,Unfurnished
+567,Vadodara,390021,3,3,4300,Gotri,Flat,Furnished
+568,Vadodara,390021,3,3,3655,Gotri,Flat,Furnished
+569,Vadodara,390021,2,3,2400,Gotri,Builder Floor,Furnished
+570,Vadodara,390021,3,3,2963,Gotri,Builder Floor,Furnished
+571,Vadodara,390021,3,3,3721,Gotri,Flat,Furnished
+572,Vadodara,390021,4,3,3516,Gotri,Flat,Furnished
+573,Vadodara,390021,3,3,6000,Gotri,Flat,Furnished
+574,Vadodara,390021,3,3,6589,Gotri,Flat,Furnished
+575,Vadodara,390021,3,3,4000,Gotri,Flat,Furnished
+576,Vadodara,390021,3,3,4309,Gotri,Flat,Unfurnished
+577,Vadodara,390021,2,3,5000,Gotri,Flat,Unfurnished
+578,Vadodara,390021,3,3,6337,Gotri,Flat,Furnished
+579,Vadodara,390021,2,3,5285,Gotri,House,Furnished
+580,Vadodara,390021,3,3,7391,Gotri,Flat,Furnished
+581,Vadodara,390021,3,3,5636,Gotri,Flat,Furnished
+582,Vadodara,390021,3,3,5357,Gotri,Flat,Furnished
+583,Vadodara,390021,2,3,4000,Gotri,Flat,Furnished
+584,Vadodara,390021,3,3,5625,Gotri,Flat,Unfurnished
+585,Vadodara,390021,3,3,7059,Gotri,Flat,Furnished
+586,Vadodara,390021,3,3,4089,Gotri,Flat,Furnished
+587,Vadodara,390021,3,3,6000,Gotri,House,Furnished
+588,Vadodara,390021,2,3,4045,Gotri,Flat,Furnished
+589,Vadodara,390021,2,3,3200,Gotri,Flat,Furnished
+590,Vadodara,390021,3,3,6842,Gotri,Flat,Furnished
+591,Vadodara,390021,3,3,3825,Gotri,Flat,Furnished
+592,Vadodara,390021,4,4,4474,Gotri,House,Furnished
+593,Vadodara,390021,3,4,8140,Gotri,Villa,Furnished
+594,Vadodara,390021,4,4,4233,Gotri,House,Furnished
+595,Vadodara,390021,4,4,4444,Gotri,Villa,Furnished
+596,Vadodara,390021,4,4,10938,Gotri,House,Unfurnished
+597,Vadodara,390021,2,4,6667,Gotri,House,Unfurnished
+598,Vadodara,390021,3,4,6600,Gotri,House,Furnished
+599,Vadodara,390021,3,4,3150,Gotri,Flat,Furnished
+600,Vadodara,390021,4,4,7179,Gotri,House,Unfurnished
+601,Vadodara,390021,5,5,9500,Gotri,House,Furnished
+602,Vadodara,390021,3,5,7634,Gotri,House,Furnished
+603,Vadodara,390021,3,5,8333,Gotri,House,Furnished
+604,Vadodara,390021,5,5,7269,Gotri,Villa,Furnished
+605,Vadodara,390022,2,2,3182,Gotri Road Gotri,Flat,Unfurnished
+606,Vadodara,390022,2,2,4286,Gotri Road Gotri,Flat,Furnished
+607,Vadodara,390022,1,2,5378,Gotri Road Gotri,House,Furnished
+608,Vadodara,390022,2,2,3026,Gotri Road Gotri,Flat,Furnished
+609,Vadodara,390022,2,2,4318,Gotri Road Gotri,Flat,Furnished
+610,Vadodara,390022,2,2,3560,Gotri Road Gotri,Flat,Furnished
+611,Vadodara,390022,2,2,5789,Gotri Road Gotri,Flat,Furnished
+612,Vadodara,390022,1,2,5444,Gotri Road Gotri,House,Unfurnished
+613,Vadodara,390022,3,3,10278,Gotri Road Gotri,House,Furnished
+614,Vadodara,390022,3,3,2500,Gotri Road Gotri,Flat,Furnished
+615,Vadodara,390022,3,3,5357,Gotri Road Gotri,Flat,Furnished
+616,Vadodara,390022,3,3,11382,Gotri Road Gotri,Villa,Furnished
+617,Vadodara,390022,3,3,7500,Gotri Road Gotri,Villa,Furnished
+618,Vadodara,390022,2,2,3333,Gotri Sevasi Road,Flat,Furnished
+619,Vadodara,390022,2,2,2500,Gotri Sevasi Road,Flat,Unfurnished
+620,Vadodara,390022,2,2,5630,Gotri Sevasi Road,Flat,Unfurnished
+621,Vadodara,390022,4,3,6071,Gotri Sevasi Road,Flat,Furnished
+622,Vadodara,390022,3,3,3611,Gotri Sevasi Road,House,Furnished
+623,Vadodara,390022,3,3,7895,Gotri Sevasi Road,Flat,Furnished
+624,Vadodara,390022,3,3,5102,Gotri Sevasi Road,House,Furnished
+625,Vadodara,390022,3,4,5417,Gotri Sevasi Road,Villa,Furnished
+626,Vadodara,390022,2,2,3208,Guru Gobindsinhji Marg,Flat,Unfurnished
+627,Vadodara,390022,2,2,4133,Guru Gobindsinhji Marg,Flat,Furnished
+628,Vadodara,390022,1,2,3147,Guru Gobindsinhji Marg,Flat,Furnished
+629,Vadodara,390022,2,4,3036,Guru Gobindsinhji Marg,House,Furnished
+630,Vadodara,389350,3,6,3448,Halol,House,Furnished
+631,Vadodara,390022,2,2,3093,Hari Nagar,Flat,Unfurnished
+632,Vadodara,390022,3,3,7372,Hari Nagar,Flat,Furnished
+633,Vadodara,390022,3,3,5583,Hari Nagar,Flat,Unfurnished
+634,Vadodara,390022,3,3,5347,Hari Nagar,House,Furnished
+635,Vadodara,390022,1,1,2933,Harni,Flat,Furnished
+636,Vadodara,390022,2,2,7000,Harni,Flat,Furnished
+637,Vadodara,390022,2,2,3590,Harni,Flat,Furnished
+638,Vadodara,390022,2,2,6726,Harni,Flat,Furnished
+639,Vadodara,390022,2,2,6696,Harni,Flat,Furnished
+640,Vadodara,390022,2,2,3600,Harni,Flat,Furnished
+641,Vadodara,390022,2,2,7207,Harni,Flat,Furnished
+642,Vadodara,390022,2,2,5543,Harni,Flat,Furnished
+643,Vadodara,390022,2,2,7742,Harni,Flat,Furnished
+644,Vadodara,390022,2,2,5750,Harni,Flat,Furnished
+645,Vadodara,390022,2,2,5500,Harni,Flat,Furnished
+646,Vadodara,390022,2,2,4286,Harni,Flat,Furnished
+647,Vadodara,390022,2,2,3336,Harni,Flat,Furnished
+648,Vadodara,390022,2,2,4494,Harni,Flat,Furnished
+649,Vadodara,390022,2,2,6154,Harni,Flat,Unfurnished
+650,Vadodara,390022,2,2,8462,Harni,House,Unfurnished
+651,Vadodara,390022,2,2,2969,Harni,Flat,Furnished
+652,Vadodara,390022,2,2,4637,Harni,Flat,Furnished
+653,Vadodara,390022,2,2,4000,Harni,House,Furnished
+654,Vadodara,390022,2,2,5224,Harni,Flat,Unfurnished
+655,Vadodara,390022,2,2,7733,Harni,Flat,Furnished
+656,Vadodara,390022,3,3,6182,Harni,Flat,Furnished
+657,Vadodara,390022,3,3,5285,Harni,Flat,Unfurnished
+658,Vadodara,390022,3,3,6529,Harni,Flat,Unfurnished
+659,Vadodara,390022,3,3,7652,Harni,Flat,Furnished
+660,Vadodara,390022,3,3,5603,Harni,Flat,Furnished
+661,Vadodara,390022,3,3,7619,Harni,Flat,Furnished
+662,Vadodara,390022,3,3,7500,Harni,Villa,Furnished
+663,Vadodara,390022,3,3,5365,Harni,Flat,Unfurnished
+664,Vadodara,390022,3,3,3889,Harni,Flat,Furnished
+665,Vadodara,390022,3,3,5599,Harni,Flat,Unfurnished
+666,Vadodara,390022,3,3,7143,Harni,Flat,Furnished
+667,Vadodara,390022,3,3,6056,Harni,Flat,Unfurnished
+668,Vadodara,390022,3,3,5492,Harni,Flat,Furnished
+669,Vadodara,390022,3,3,5652,Harni,Flat,Furnished
+670,Vadodara,390022,3,3,8421,Harni,Flat,Unfurnished
+671,Vadodara,390022,3,3,8370,Harni,Flat,Furnished
+672,Vadodara,390022,3,3,5877,Harni,Flat,Furnished
+673,Vadodara,390022,3,3,6548,Harni,Flat,Unfurnished
+674,Vadodara,390022,3,3,5462,Harni,Flat,Unfurnished
+675,Vadodara,390022,3,3,7351,Harni,Flat,Furnished
+676,Vadodara,390022,3,3,4916,Harni,Flat,Furnished
+677,Vadodara,390022,3,3,3125,Harni,Flat,Furnished
+678,Vadodara,390022,3,3,6620,Harni,Flat,Unfurnished
+679,Vadodara,390022,3,3,7286,Harni,Flat,Furnished
+680,Vadodara,390022,3,3,6522,Harni,Flat,Furnished
+681,Vadodara,390022,3,3,5500,Harni,Flat,Furnished
+682,Vadodara,390022,3,3,3736,Harni,Flat,Unfurnished
+683,Vadodara,390022,3,3,7600,Harni,Flat,Furnished
+684,Vadodara,390022,3,3,7944,Harni,Flat,Furnished
+685,Vadodara,390022,2,3,6471,Harni,Flat,Furnished
+686,Vadodara,390022,3,3,4000,Harni,Flat,Furnished
+687,Vadodara,390022,3,3,5506,Harni,Flat,Furnished
+688,Vadodara,390022,3,3,5348,Harni,Flat,Furnished
+689,Vadodara,390022,3,3,6620,Harni,Flat,Furnished
+690,Vadodara,390022,3,3,3529,Harni,Flat,Unfurnished
+691,Vadodara,390022,3,3,5856,Harni,Flat,Furnished
+692,Vadodara,390022,3,3,5589,Harni,Flat,Unfurnished
+693,Vadodara,390022,3,3,6452,Harni,Flat,Unfurnished
+694,Vadodara,390022,3,3,6364,Harni,Flat,Unfurnished
+695,Vadodara,390022,3,3,5159,Harni,Flat,Unfurnished
+696,Vadodara,390022,3,3,6614,Harni,Flat,Unfurnished
+697,Vadodara,390022,3,3,6445,Harni,Flat,Unfurnished
+698,Vadodara,390022,3,3,5233,Harni,Flat,Unfurnished
+699,Vadodara,390022,3,3,6462,Harni,Flat,Unfurnished
+700,Vadodara,390022,3,3,5903,Harni,Flat,Unfurnished
+701,Vadodara,390022,3,3,6384,Harni,Flat,Unfurnished
+702,Vadodara,390022,4,4,8286,Harni,House,Unfurnished
+703,Vadodara,390022,4,4,4950,Harni,Flat,Furnished
+704,Vadodara,390022,4,4,7778,Harni,House,Furnished
+705,Vadodara,390022,4,4,6556,Harni,Flat,Unfurnished
+706,Vadodara,390022,3,4,7943,Harni,House,Furnished
+707,Vadodara,390022,3,4,11719,Harni,Villa,Furnished
+708,Vadodara,390022,3,4,6818,Harni,House,Furnished
+709,Vadodara,390022,4,4,6047,Harni,House,Furnished
+710,Vadodara,390022,4,4,7242,Harni,Flat,Unfurnished
+711,Vadodara,390022,4,4,11379,Harni,Villa,Unfurnished
+712,Vadodara,390022,4,4,8428,Harni,House,Unfurnished
+713,Vadodara,390022,4,4,8333,Harni,House,Unfurnished
+714,Vadodara,390022,4,4,5969,Harni,Flat,Unfurnished
+715,Vadodara,390022,6,5,6485,Harni,Flat,Unfurnished
+716,Vadodara,390022,1,1,3846,Harni Road,Flat,Furnished
+717,Vadodara,390022,1,1,2899,Harni Road,Flat,Furnished
+718,Vadodara,390022,2,2,7545,Harni Road,House,Furnished
+719,Vadodara,390022,2,2,4211,Harni Road,Flat,Furnished
+720,Vadodara,390022,3,3,6500,Harni Road,Flat,Furnished
+721,Vadodara,390022,3,3,3137,Harni Road,House,Furnished
+722,Vadodara,390022,3,3,7500,Harni Road,Flat,Furnished
+723,Vadodara,390022,6,6,6494,Harni Road,House,Furnished
+724,Vadodara,390022,2,6,9474,Harni Road,House,Furnished
+725,Vadodara,390022,9,9,11667,Harni Road,House,Furnished
+726,Vadodara,390022,2,2,4286,Hemdeep Towers,Flat,Furnished
+727,Vadodara,390022,2,2,3802,Jambuva,Flat,Unfurnished
+728,Vadodara,390022,2,2,3889,Jambuva,House,Unfurnished
+729,Vadodara,390022,2,2,4385,Jambuva,Flat,Furnished
+730,Vadodara,390022,2,2,2632,Jambuva,Flat,Unfurnished
+731,Vadodara,390022,3,3,4367,Jambuva,House,Unfurnished
+732,Vadodara,390022,3,3,6486,Jambuva,House,Unfurnished
+733,Vadodara,390022,1,1,3396,Jarod,House,Unfurnished
+734,Vadodara,390022,2,3,3600,Jayratna Building,Flat,Furnished
+735,Vadodara,390022,2,2,3200,Jigar Kunj,House,Furnished
+736,Vadodara,390022,2,2,4143,Kadamnagar Nizampura,Flat,Furnished
+737,Vadodara,390022,1,1,3579,Kaladarshan Vadodara,Flat,Unfurnished
+738,Vadodara,390022,1,1,2667,Kalali,Flat,Furnished
+739,Vadodara,390022,2,2,2676,Kalali,Flat,Furnished
+740,Vadodara,390022,2,2,5231,Kalali,Flat,Furnished
+741,Vadodara,390022,2,2,2980,Kalali,Flat,Furnished
+742,Vadodara,390022,2,2,3882,Kalali,Flat,Furnished
+743,Vadodara,390022,2,2,3590,Kalali,House,Furnished
+744,Vadodara,390022,2,2,3232,Kalali,Flat,Furnished
+745,Vadodara,390022,2,2,4716,Kalali,Flat,Unfurnished
+746,Vadodara,390022,2,2,3421,Kalali,Flat,Furnished
+747,Vadodara,390022,2,2,3958,Kalali,House,Furnished
+748,Vadodara,390022,2,2,3036,Kalali,Flat,Furnished
+749,Vadodara,390022,2,2,2857,Kalali,Flat,Unfurnished
+750,Vadodara,390022,2,2,4426,Kalali,Flat,Unfurnished
+751,Vadodara,390022,2,2,5714,Kalali,Flat,Furnished
+752,Vadodara,390022,2,2,2852,Kalali,House,Unfurnished
+753,Vadodara,390022,2,2,6000,Kalali,Flat,Furnished
+754,Vadodara,390022,2,2,3368,Kalali,Flat,Furnished
+755,Vadodara,390022,2,2,3467,Kalali,Flat,Furnished
+756,Vadodara,390022,2,2,3111,Kalali,Flat,Unfurnished
+757,Vadodara,390022,2,2,3660,Kalali,Flat,Furnished
+758,Vadodara,390022,2,2,3218,Kalali,Flat,Furnished
+759,Vadodara,390022,2,2,4094,Kalali,Flat,Furnished
+760,Vadodara,390022,2,2,4286,Kalali,Flat,Furnished
+761,Vadodara,390022,2,2,2294,Kalali,Flat,Furnished
+762,Vadodara,390022,2,2,3500,Kalali,Flat,Furnished
+763,Vadodara,390022,2,2,3846,Kalali,Flat,Furnished
+764,Vadodara,390022,2,3,3516,Kalali,Flat,Furnished
+765,Vadodara,390022,3,3,3519,Kalali,Flat,Unfurnished
+766,Vadodara,390022,4,3,5561,Kalali,Flat,Unfurnished
+767,Vadodara,390022,4,3,3840,Kalali,Flat,Furnished
+768,Vadodara,390022,3,3,4946,Kalali,House,Unfurnished
+769,Vadodara,390022,2,3,5789,Kalali,Flat,Furnished
+770,Vadodara,390022,2,3,2899,Kalali,Flat,Unfurnished
+771,Vadodara,390022,3,3,6786,Kalali,Villa,Furnished
+772,Vadodara,390022,3,3,5000,Kalali,Flat,Furnished
+773,Vadodara,390022,2,3,2938,Kalali,Flat,Unfurnished
+774,Vadodara,390022,3,3,5000,Kalali,House,Furnished
+775,Vadodara,390022,3,3,5312,Kalali,Villa,Unfurnished
+776,Vadodara,390022,3,3,6565,Kalali,Flat,Furnished
+777,Vadodara,390022,3,3,6746,Kalali,Flat,Unfurnished
+778,Vadodara,390022,3,3,11688,Kalali,House,Furnished
+779,Vadodara,390022,3,3,6911,Kalali,Flat,Furnished
+780,Vadodara,390022,3,3,4722,Kalali,Flat,Furnished
+781,Vadodara,390022,3,3,5294,Kalali,Villa,Furnished
+782,Vadodara,390022,2,3,3200,Kalali,Flat,Furnished
+783,Vadodara,390022,3,3,4892,Kalali,Flat,Furnished
+784,Vadodara,390022,4,3,7410,Kalali,Villa,Furnished
+785,Vadodara,390022,3,3,7503,Kalali,Villa,Unfurnished
+786,Vadodara,390022,2,3,5000,Kalali,Flat,Unfurnished
+787,Vadodara,390022,3,3,6883,Kalali,Villa,Unfurnished
+788,Vadodara,390022,3,3,7429,Kalali,House,Furnished
+789,Vadodara,390022,3,3,8941,Kalali,Villa,Furnished
+790,Vadodara,390022,3,3,3249,Kalali,Flat,Furnished
+791,Vadodara,390022,2,3,4162,Kalali,Flat,Furnished
+792,Vadodara,390022,3,3,5333,Kalali,Flat,Furnished
+793,Vadodara,390022,4,3,5615,Kalali,Flat,Furnished
+794,Vadodara,390022,3,3,4643,Kalali,Villa,Furnished
+795,Vadodara,390022,3,3,6315,Kalali,Flat,Furnished
+796,Vadodara,390022,2,3,4444,Kalali,Flat,Furnished
+797,Vadodara,390022,3,3,9353,Kalali,Villa,Furnished
+798,Vadodara,390022,3,4,5769,Kalali,Villa,Furnished
+799,Vadodara,390022,3,4,5833,Kalali,House,Furnished
+800,Vadodara,390022,4,4,4833,Kalali,Flat,Unfurnished
+801,Vadodara,390022,4,4,7667,Kalali,Villa,Unfurnished
+802,Vadodara,390022,4,4,4533,Kalali,Flat,Furnished
+803,Vadodara,390022,4,4,6216,Kalali,Flat,Furnished
+804,Vadodara,390022,4,4,5470,Kalali,Villa,Unfurnished
+805,Vadodara,390022,3,4,3435,Kalali,House,Unfurnished
+806,Vadodara,390022,4,4,5882,Kalali,Villa,Furnished
+807,Vadodara,390022,4,4,5000,Kalali,Flat,Unfurnished
+808,Vadodara,390022,4,4,10889,Kalali,Villa,Unfurnished
+809,Vadodara,390022,4,4,7256,Kalali,Villa,Unfurnished
+810,Vadodara,390022,4,4,5449,Kalali,Villa,Unfurnished
+811,Vadodara,390022,4,5,4646,Kalali,Villa,Unfurnished
+812,Vadodara,390022,6,5,9246,Kalali,Villa,Unfurnished
+813,Vadodara,390022,4,4,6790,Kalali Road,Villa,Unfurnished
+814,Vadodara,390022,4,5,10938,Kalpana Nagar,House,Furnished
+815,Vadodara,390022,3,3,2292,Kamla Nagar,Flat,Unfurnished
+816,Vadodara,390022,2,2,2435,Kanha Dreams,Flat,Furnished
+817,Vadodara,390022,2,2,2435,Kanha Dreams,Flat,Unfurnished
+818,Vadodara,390022,3,3,3719,Kanha Gold Suryanagar,House,Unfurnished
+819,Vadodara,390022,2,2,3125,Kapurai Village,House,Unfurnished
+820,Vadodara,390022,2,2,4667,Karadiya,Flat,Furnished
+821,Vadodara,390022,2,4,6468,Karadiya,House,Unfurnished
+822,Vadodara,390022,1,1,6349,Karelibagh,House,Furnished
+823,Vadodara,390022,3,3,9929,Karelibagh,House,Furnished
+824,Vadodara,390022,3,3,7960,Karelibagh,Villa,Furnished
+825,Vadodara,390022,3,4,8231,Karelibagh,House,Furnished
+826,Vadodara,390018,1,1,4545,Karelibaug,Flat,Furnished
+827,Vadodara,390018,1,1,4898,Karelibaug,Flat,Unfurnished
+828,Vadodara,390018,1,1,3636,Karelibaug,Builder Floor,Furnished
+829,Vadodara,390018,1,2,5455,Karelibaug,Flat,Furnished
+830,Vadodara,390018,1,2,6210,Karelibaug,Flat,Furnished
+831,Vadodara,390018,2,2,10384,Karelibaug,Flat,Furnished
+832,Vadodara,390018,2,2,3087,Karelibaug,Flat,Furnished
+833,Vadodara,390018,2,2,8515,Karelibaug,Flat,Unfurnished
+834,Vadodara,390018,1,2,4000,Karelibaug,Flat,Unfurnished
+835,Vadodara,390018,2,2,2536,Karelibaug,House,Furnished
+836,Vadodara,390018,2,2,4236,Karelibaug,Flat,Furnished
+837,Vadodara,390018,2,2,2750,Karelibaug,Flat,Unfurnished
+838,Vadodara,390018,2,2,3125,Karelibaug,Flat,Furnished
+839,Vadodara,390018,2,2,3600,Karelibaug,Builder Floor,Furnished
+840,Vadodara,390018,2,2,6000,Karelibaug,Flat,Furnished
+841,Vadodara,390018,2,2,5500,Karelibaug,Flat,Unfurnished
+842,Vadodara,390018,2,2,5294,Karelibaug,Builder Floor,Unfurnished
+843,Vadodara,390018,1,2,5714,Karelibaug,Builder Floor,Furnished
+844,Vadodara,390018,2,2,3072,Karelibaug,Flat,Furnished
+845,Vadodara,390018,2,2,2756,Karelibaug,Flat,Unfurnished
+846,Vadodara,390018,2,2,6933,Karelibaug,Flat,Furnished
+847,Vadodara,390018,3,3,8562,Karelibaug,Flat,Unfurnished
+848,Vadodara,390018,2,3,3333,Karelibaug,Flat,Furnished
+849,Vadodara,390018,3,3,6545,Karelibaug,Flat,Furnished
+850,Vadodara,390018,3,3,6000,Karelibaug,Flat,Furnished
+851,Vadodara,390018,3,3,4815,Karelibaug,Flat,Furnished
+852,Vadodara,390018,3,3,8524,Karelibaug,Flat,Unfurnished
+853,Vadodara,390018,3,3,8544,Karelibaug,Flat,Unfurnished
+854,Vadodara,390018,3,3,3943,Karelibaug,Flat,Furnished
+855,Vadodara,390018,3,3,8219,Karelibaug,Flat,Furnished
+856,Vadodara,390018,3,3,3374,Karelibaug,Flat,Furnished
+857,Vadodara,390018,3,3,10000,Karelibaug,Villa,Furnished
+858,Vadodara,390018,3,3,4097,Karelibaug,Flat,Furnished
+859,Vadodara,390018,3,3,7917,Karelibaug,House,Furnished
+860,Vadodara,390018,3,3,5294,Karelibaug,House,Unfurnished
+861,Vadodara,390018,2,3,4583,Karelibaug,Flat,Unfurnished
+862,Vadodara,390018,2,3,7895,Karelibaug,House,Unfurnished
+863,Vadodara,390018,4,4,9615,Karelibaug,Flat,Unfurnished
+864,Vadodara,390018,3,4,6750,Karelibaug,House,Furnished
+865,Vadodara,390018,4,4,3357,Karelibaug,Flat,Furnished
+866,Vadodara,390018,4,4,9954,Karelibaug,Flat,Unfurnished
+867,Vadodara,390018,4,4,8537,Karelibaug,Flat,Unfurnished
+868,Vadodara,390018,4,4,7400,Karelibaug,House,Furnished
+869,Vadodara,390018,4,4,8333,Karelibaug,Flat,Unfurnished
+870,Vadodara,390018,3,4,6725,Karelibaug,House,Unfurnished
+871,Vadodara,390018,4,4,5357,Karelibaug,House,Furnished
+872,Vadodara,390018,4,4,10322,Karelibaug,House,Unfurnished
+873,Vadodara,390022,4,4,7031,Karjan,House,Unfurnished
+874,Vadodara,390022,2,4,5357,Karodiya,House,Furnished
+875,Vadodara,390022,3,3,4098,Kelanpur,Villa,Unfurnished
+876,Vadodara,390022,2,2,4267,Kendranagar,Flat,Furnished
+877,Vadodara,390022,2,2,3158,Kendranagar,Flat,Furnished
+878,Vadodara,390022,2,2,3429,Kendranagar,Flat,Furnished
+879,Vadodara,390022,2,2,2391,Kendranagar,Flat,Furnished
+880,Vadodara,390022,2,2,3453,Kendranagar,Flat,Furnished
+881,Vadodara,390022,2,2,4333,Kendranagar,Flat,Unfurnished
+882,Vadodara,390022,3,3,11000,Kendranagar,Villa,Furnished
+883,Vadodara,390022,3,3,8095,Kendranagar,House,Furnished
+884,Vadodara,390022,1,1,2800,Kevdabaug,Builder Floor,Furnished
+885,Vadodara,390022,2,3,2569,Khatamba,House,Furnished
+886,Vadodara,390022,3,3,2568,Khatamba,House,Furnished
+887,Vadodara,390022,4,3,9444,Khatamba,Villa,Furnished
+888,Vadodara,390022,2,2,5529,Khodiyar Nagar,Flat,Furnished
+889,Vadodara,390022,2,2,3750,Khodiyar Nagar,Flat,Furnished
+890,Vadodara,390022,2,2,3476,Khodiyar Nagar,Flat,Unfurnished
+891,Vadodara,390022,2,2,5921,Khodiyar Nagar,Flat,Furnished
+892,Vadodara,390022,2,3,4086,Khodiyar Nagar,House,Furnished
+893,Vadodara,390022,2,4,8333,Khodiyar Nagar,House,Unfurnished
+894,Vadodara,390022,3,4,8250,Khodiyar Nagar,Villa,Unfurnished
+895,Vadodara,390022,3,3,4118,Kishan Glory,Flat,Unfurnished
+896,Vadodara,390022,1,1,5489,Koyali,House,Furnished
+897,Vadodara,390022,2,2,3401,Koyali,Flat,Unfurnished
+898,Vadodara,390022,3,5,4904,Koyali,Villa,Unfurnished
+899,Vadodara,390022,2,2,4938,Krishna Empire,Flat,Unfurnished
+900,Vadodara,390022,1,2,3692,Laxmipura,Flat,Unfurnished
+901,Vadodara,390022,2,2,2786,Laxmipura,Flat,Furnished
+902,Vadodara,390022,2,2,8140,Laxmipura Road,House,Furnished
+903,Vadodara,390022,2,2,6618,Laxmipura Road,Flat,Unfurnished
+904,Vadodara,390022,2,2,3231,Laxmipura Road,Flat,Furnished
+905,Vadodara,390022,3,3,4104,Laxmipura Road,Flat,Furnished
+906,Vadodara,390022,2,2,8451,Limda,House,Furnished
+907,Vadodara,390022,2,2,2778,Madhavpura,Flat,Unfurnished
+908,Vadodara,390022,2,2,4557,Madhavpura,Flat,Furnished
+909,Vadodara,390022,2,2,4118,Madhavpura,Flat,Furnished
+910,Vadodara,390022,2,2,5641,Makar Pura,House,Unfurnished
+911,Vadodara,390022,2,2,3600,Makar Pura,Flat,Unfurnished
+912,Vadodara,390022,1,2,3350,Makar Pura,Flat,Unknown
+913,Vadodara,390022,2,2,3562,Makar Pura,Flat,Unfurnished
+914,Vadodara,390022,2,2,3217,Makar Pura,Flat,Furnished
+915,Vadodara,390022,2,2,5083,Makar Pura,Flat,Furnished
+916,Vadodara,390022,2,2,5652,Makar Pura,Flat,Furnished
+917,Vadodara,390022,2,2,6371,Makar Pura,Flat,Unfurnished
+918,Vadodara,390022,2,2,3744,Makar Pura,Flat,Furnished
+919,Vadodara,390022,2,2,4444,Makar Pura,Flat,Unfurnished
+920,Vadodara,390022,2,2,2857,Makar Pura,Flat,Furnished
+921,Vadodara,390022,2,2,4660,Makar Pura,Flat,Unfurnished
+922,Vadodara,390022,2,2,3571,Makar Pura,Flat,Furnished
+923,Vadodara,390022,2,2,10588,Makar Pura,House,Unfurnished
+924,Vadodara,390022,2,2,5340,Makar Pura,Flat,Unfurnished
+925,Vadodara,390022,2,3,4071,Makar Pura,Flat,Furnished
+926,Vadodara,390022,2,4,8969,Makar Pura,House,Furnished
+927,Vadodara,390022,1,1,8923,Makarpura,House,Furnished
+928,Vadodara,390022,2,2,8571,Makarpura,House,Furnished
+929,Vadodara,390022,8,10,8146,Makarpura,House,Furnished
+930,Vadodara,390022,1,1,3083,Mandvi,Flat,Furnished
+931,Vadodara,390022,1,1,4930,Mandvi,Flat,Furnished
+932,Vadodara,390022,1,1,2464,Mandvi,Builder Floor,Unfurnished
+933,Vadodara,390022,1,1,7778,Maneja,House,Unfurnished
+934,Vadodara,390022,2,2,4032,Maneja,Flat,Unfurnished
+935,Vadodara,390022,2,2,4702,Maneja,Flat,Furnished
+936,Vadodara,390022,1,2,3460,Maneja,Flat,Unfurnished
+937,Vadodara,390022,2,2,4231,Maneja Crossing Road,House,Furnished
+938,Vadodara,390022,2,2,7143,Manher Park Society,Flat,Furnished
+939,Vadodara,390011,1,1,3556,Manjalpur,Flat,Furnished
+940,Vadodara,390011,1,1,4356,Manjalpur,Flat,Furnished
+941,Vadodara,390011,1,1,4228,Manjalpur,Flat,Furnished
+942,Vadodara,390011,1,1,8143,Manjalpur,House,Furnished
+943,Vadodara,390011,1,1,6694,Manjalpur,House,Unfurnished
+944,Vadodara,390011,1,1,4250,Manjalpur,Flat,Furnished
+945,Vadodara,390011,1,1,3246,Manjalpur,Flat,Unfurnished
+946,Vadodara,390011,1,1,4170,Manjalpur,House,Unfurnished
+947,Vadodara,390011,1,1,10000,Manjalpur,House,Unfurnished
+948,Vadodara,390011,1,1,9375,Manjalpur,House,Unfurnished
+949,Vadodara,390011,1,1,2800,Manjalpur,Flat,Unfurnished
+950,Vadodara,390011,1,1,3273,Manjalpur,Flat,Furnished
+951,Vadodara,390011,2,2,5769,Manjalpur,Flat,Furnished
+952,Vadodara,390011,2,2,7385,Manjalpur,Flat,Furnished
+953,Vadodara,390011,2,2,6286,Manjalpur,Flat,Furnished
+954,Vadodara,390011,2,2,3800,Manjalpur,Flat,Furnished
+955,Vadodara,390011,2,2,5400,Manjalpur,Flat,Furnished
+956,Vadodara,390011,2,2,4533,Manjalpur,Flat,Furnished
+957,Vadodara,390011,2,2,2578,Manjalpur,Flat,Unfurnished
+958,Vadodara,390011,1,2,4667,Manjalpur,Flat,Unfurnished
+959,Vadodara,390011,2,2,5378,Manjalpur,Flat,Furnished
+960,Vadodara,390011,2,2,4560,Manjalpur,Flat,Furnished
+961,Vadodara,390011,2,2,2941,Manjalpur,Flat,Furnished
+962,Vadodara,390011,2,2,2975,Manjalpur,Flat,Unfurnished
+963,Vadodara,390011,2,2,3765,Manjalpur,Flat,Furnished
+964,Vadodara,390011,1,2,5000,Manjalpur,Builder Floor,Unfurnished
+965,Vadodara,390011,2,2,6129,Manjalpur,House,Unfurnished
+966,Vadodara,390011,2,2,7857,Manjalpur,Flat,Furnished
+967,Vadodara,390011,2,2,4091,Manjalpur,House,Furnished
+968,Vadodara,390011,3,2,3333,Manjalpur,House,Furnished
+969,Vadodara,390011,2,2,3222,Manjalpur,Flat,Furnished
+970,Vadodara,390011,2,2,2566,Manjalpur,Flat,Furnished
+971,Vadodara,390011,2,2,3173,Manjalpur,Flat,Furnished
+972,Vadodara,390011,2,2,6133,Manjalpur,Flat,Unfurnished
+973,Vadodara,390011,2,2,3491,Manjalpur,Flat,Furnished
+974,Vadodara,390011,1,2,2308,Manjalpur,Flat,Furnished
+975,Vadodara,390011,2,2,2889,Manjalpur,Builder Floor,Unfurnished
+976,Vadodara,390011,1,2,2909,Manjalpur,Flat,Furnished
+977,Vadodara,390011,2,2,6515,Manjalpur,Flat,Unfurnished
+978,Vadodara,390011,2,3,5913,Manjalpur,Flat,Furnished
+979,Vadodara,390011,3,3,6943,Manjalpur,Flat,Unfurnished
+980,Vadodara,390011,3,3,5634,Manjalpur,Flat,Unfurnished
+981,Vadodara,390011,3,3,8943,Manjalpur,Flat,Furnished
+982,Vadodara,390011,3,3,5789,Manjalpur,Flat,Unfurnished
+983,Vadodara,390011,3,3,5227,Manjalpur,Flat,Furnished
+984,Vadodara,390011,3,3,4054,Manjalpur,Flat,Furnished
+985,Vadodara,390011,3,3,6924,Manjalpur,Flat,Unfurnished
+986,Vadodara,390011,3,3,9821,Manjalpur,House,Furnished
+987,Vadodara,390011,3,3,3659,Manjalpur,Flat,Unfurnished
+988,Vadodara,390011,2,3,12222,Manjalpur,House,Furnished
+989,Vadodara,390011,3,3,9506,Manjalpur,House,Furnished
+990,Vadodara,390011,3,3,8000,Manjalpur,Flat,Furnished
+991,Vadodara,390011,2,3,2500,Manjalpur,Flat,Furnished
+992,Vadodara,390011,2,3,2857,Manjalpur,Flat,Furnished
+993,Vadodara,390011,2,3,10526,Manjalpur,House,Furnished
+994,Vadodara,390011,3,3,6715,Manjalpur,Flat,Furnished
+995,Vadodara,390011,3,3,5556,Manjalpur,House,Furnished
+996,Vadodara,390011,2,3,2564,Manjalpur,Builder Floor,Furnished
+997,Vadodara,390011,2,3,4381,Manjalpur,Flat,Furnished
+998,Vadodara,390011,3,3,10462,Manjalpur,House,Furnished
+999,Vadodara,390011,4,3,3824,Manjalpur,House,Furnished
+1000,Vadodara,390011,3,3,5714,Manjalpur,House,Furnished
+1001,Vadodara,390011,3,3,3500,Manjalpur,Flat,Furnished
+1002,Vadodara,390011,3,3,3582,Manjalpur,Flat,Furnished
+1003,Vadodara,390011,3,3,6155,Manjalpur,Flat,Unfurnished
+1004,Vadodara,390011,3,3,6908,Manjalpur,Flat,Unfurnished
+1005,Vadodara,390011,3,3,6415,Manjalpur,Flat,Unfurnished
+1006,Vadodara,390011,3,3,4762,Manjalpur,Flat,Unfurnished
+1007,Vadodara,390011,3,3,6111,Manjalpur,House,Unfurnished
+1008,Vadodara,390011,3,3,6676,Manjalpur,Flat,Unfurnished
+1009,Vadodara,390011,3,3,6854,Manjalpur,Flat,Unfurnished
+1010,Vadodara,390011,3,3,6192,Manjalpur,Flat,Unfurnished
+1011,Vadodara,390011,3,3,6692,Manjalpur,Flat,Unfurnished
+1012,Vadodara,390011,3,3,6746,Manjalpur,Flat,Unfurnished
+1013,Vadodara,390011,3,3,6678,Manjalpur,Flat,Unfurnished
+1014,Vadodara,390011,3,3,6723,Manjalpur,Flat,Unfurnished
+1015,Vadodara,390011,3,3,6880,Manjalpur,Flat,Unfurnished
+1016,Vadodara,390011,3,3,6749,Manjalpur,Flat,Unfurnished
+1017,Vadodara,390011,3,3,7000,Manjalpur,Flat,Furnished
+1018,Vadodara,390011,3,3,6810,Manjalpur,Flat,Unfurnished
+1019,Vadodara,390011,3,3,6476,Manjalpur,Flat,Unfurnished
+1020,Vadodara,390011,3,3,7083,Manjalpur,House,Furnished
+1021,Vadodara,390011,3,3,6636,Manjalpur,Flat,Unfurnished
+1022,Vadodara,390011,4,4,5556,Manjalpur,Flat,Unfurnished
+1023,Vadodara,390011,3,4,7389,Manjalpur,House,Furnished
+1024,Vadodara,390011,2,4,10769,Manjalpur,House,Furnished
+1025,Vadodara,390011,3,4,8092,Manjalpur,House,Furnished
+1026,Vadodara,390011,3,4,10385,Manjalpur,Flat,Furnished
+1027,Vadodara,390011,3,4,12162,Manjalpur,House,Furnished
+1028,Vadodara,390011,3,4,7799,Manjalpur,House,Furnished
+1029,Vadodara,390011,3,4,5667,Manjalpur,House,Furnished
+1030,Vadodara,390011,2,4,3409,Manjalpur,House,Unfurnished
+1031,Vadodara,390011,2,4,5000,Manjalpur,House,Furnished
+1032,Vadodara,390011,4,4,4507,Manjalpur,Flat,Unfurnished
+1033,Vadodara,390011,4,4,6427,Manjalpur,Flat,Unfurnished
+1034,Vadodara,390011,5,5,7951,Manjalpur,Villa,Unfurnished
+1035,Vadodara,390011,3,5,5556,Manjalpur,House,Unfurnished
+1036,Vadodara,390011,2,5,10625,Manjalpur,House,Furnished
+1037,Vadodara,390011,4,5,8333,Manjalpur,Flat,Furnished
+1038,Vadodara,390011,3,5,12500,Manjalpur,House,Furnished
+1039,Vadodara,390011,5,5,6075,Manjalpur,House,Furnished
+1040,Vadodara,390011,5,5,7654,Manjalpur,Villa,Unfurnished
+1041,Vadodara,390011,5,5,7704,Manjalpur,Villa,Unfurnished
+1042,Vadodara,390011,5,5,7852,Manjalpur,Villa,Unfurnished
+1043,Vadodara,390011,5,5,7802,Manjalpur,Villa,Unfurnished
+1044,Vadodara,390011,5,6,9574,Manjalpur,House,Furnished
+1045,Vadodara,390022,1,2,5600,Mathura Nagari,House,Furnished
+1046,Vadodara,390022,4,5,12500,Mujmahuda,House,Furnished
+1047,Vadodara,390022,5,6,8333,Mujmahuda,Villa,Unfurnished
+1048,Vadodara,390022,2,2,4323,Nani Bapod,Flat,Unfurnished
+1049,Vadodara,390022,2,2,2368,Nani Bapod,Flat,Unfurnished
+1050,Vadodara,390022,3,3,3750,Nani Bapod,House,Furnished
+1051,Vadodara,390022,3,4,7273,Nani Bapod,House,Furnished
+1052,Vadodara,390022,1,1,8800,Nava Bazar,House,Furnished
+1053,Vadodara,390022,1,2,3143,Nava Bazar,House,Unfurnished
+1054,Vadodara,390022,1,2,2400,Navapura,Flat,Furnished
+1055,Vadodara,390022,3,7,4545,Navapura,House,Furnished
+1056,Vadodara,390022,3,4,7609,Near Cross Ward,House,Unfurnished
+1057,Vadodara,390022,3,3,4583,Near Haveli And Jain Derasar,Flat,Furnished
+1058,Vadodara,390022,2,2,3380,Nehru Chacha Nagar,Flat,Furnished
+1059,Vadodara,390022,2,2,3812,Nehru Chacha Nagar,Flat,Furnished
+1060,Vadodara,390022,3,3,4834,Nehru Chacha Nagar,Flat,Furnished
+1061,Vadodara,390019,2,2,4444,New Alkapuri,Flat,Unfurnished
+1062,Vadodara,390019,2,2,4224,New Alkapuri,Flat,Furnished
+1063,Vadodara,390019,2,2,5963,New Alkapuri,Flat,Furnished
+1064,Vadodara,390019,2,2,4750,New Alkapuri,Flat,Furnished
+1065,Vadodara,390019,2,2,4255,New Alkapuri,Flat,Furnished
+1066,Vadodara,390019,2,2,5000,New Alkapuri,Flat,Furnished
+1067,Vadodara,390019,2,2,4833,New Alkapuri,Flat,Furnished
+1068,Vadodara,390019,2,2,3889,New Alkapuri,Flat,Unfurnished
+1069,Vadodara,390019,2,2,4500,New Alkapuri,Flat,Furnished
+1070,Vadodara,390019,2,2,4972,New Alkapuri,Flat,Furnished
+1071,Vadodara,390019,2,2,5286,New Alkapuri,Flat,Furnished
+1072,Vadodara,390019,1,2,11875,New Alkapuri,House,Furnished
+1073,Vadodara,390019,3,3,6300,New Alkapuri,Flat,Furnished
+1074,Vadodara,390019,3,3,5631,New Alkapuri,Flat,Furnished
+1075,Vadodara,390019,3,3,5714,New Alkapuri,Flat,Furnished
+1076,Vadodara,390019,3,3,4216,New Alkapuri,Flat,Furnished
+1077,Vadodara,390019,3,3,6429,New Alkapuri,Villa,Furnished
+1078,Vadodara,390019,3,3,4516,New Alkapuri,Flat,Unfurnished
+1079,Vadodara,390019,3,3,6421,New Alkapuri,Flat,Furnished
+1080,Vadodara,390019,3,3,4762,New Alkapuri,Flat,Furnished
+1081,Vadodara,390019,3,3,6410,New Alkapuri,Flat,Unfurnished
+1082,Vadodara,390019,3,3,4429,New Alkapuri,Flat,Unfurnished
+1083,Vadodara,390019,3,3,5479,New Alkapuri,Flat,Unfurnished
+1084,Vadodara,390019,3,3,5643,New Alkapuri,House,Unfurnished
+1085,Vadodara,390019,3,3,6828,New Alkapuri,Flat,Furnished
+1086,Vadodara,390019,3,3,4079,New Alkapuri,Flat,Furnished
+1087,Vadodara,390019,3,3,4851,New Alkapuri,Builder Floor,Unfurnished
+1088,Vadodara,390019,3,3,4386,New Alkapuri,Builder Floor,Unfurnished
+1089,Vadodara,390019,3,3,5993,New Alkapuri,Flat,Unfurnished
+1090,Vadodara,390019,3,3,4333,New Alkapuri,Flat,Furnished
+1091,Vadodara,390019,3,3,4286,New Alkapuri,Flat,Furnished
+1092,Vadodara,390019,3,3,4214,New Alkapuri,Flat,Furnished
+1093,Vadodara,390019,4,3,7764,New Alkapuri,Flat,Unfurnished
+1094,Vadodara,390019,3,3,4538,New Alkapuri,Flat,Unfurnished
+1095,Vadodara,390019,3,3,5833,New Alkapuri,Flat,Unfurnished
+1096,Vadodara,390019,4,3,7826,New Alkapuri,Flat,Furnished
+1097,Vadodara,390019,3,3,5167,New Alkapuri,Flat,Furnished
+1098,Vadodara,390019,3,3,4880,New Alkapuri,Flat,Furnished
+1099,Vadodara,390019,3,3,6182,New Alkapuri,Flat,Furnished
+1100,Vadodara,390019,4,3,6733,New Alkapuri,Flat,Unfurnished
+1101,Vadodara,390019,3,3,6667,New Alkapuri,Flat,Unfurnished
+1102,Vadodara,390019,3,3,6743,New Alkapuri,Flat,Unfurnished
+1103,Vadodara,390019,4,4,6905,New Alkapuri,Flat,Unfurnished
+1104,Vadodara,390019,4,4,7729,New Alkapuri,Flat,Unfurnished
+1105,Vadodara,390019,4,4,8357,New Alkapuri,House,Furnished
+1106,Vadodara,390019,4,4,4057,New Alkapuri,House,Furnished
+1107,Vadodara,390019,5,4,9909,New Alkapuri,Flat,Unfurnished
+1108,Vadodara,390019,3,4,10000,New Alkapuri,Villa,Furnished
+1109,Vadodara,390019,5,4,5208,New Alkapuri,Villa,Furnished
+1110,Vadodara,390019,4,4,7709,New Alkapuri,Flat,Unfurnished
+1111,Vadodara,390019,4,4,7713,New Alkapuri,Flat,Unfurnished
+1112,Vadodara,390019,3,4,6882,New Alkapuri,Flat,Unfurnished
+1113,Vadodara,390019,4,4,7744,New Alkapuri,Flat,Unfurnished
+1114,Vadodara,390019,4,4,7725,New Alkapuri,Flat,Unfurnished
+1115,Vadodara,390019,5,5,8929,New Alkapuri,Villa,Furnished
+1116,Vadodara,390019,5,5,7661,New Alkapuri,House,Unfurnished
+1117,Vadodara,390019,5,5,10714,New Alkapuri,House,Furnished
+1118,Vadodara,390019,6,5,8923,New Alkapuri,Flat,Unfurnished
+1119,Vadodara,390019,4,5,3472,New Alkapuri,House,Unfurnished
+1120,Vadodara,390019,6,5,9286,New Alkapuri,Flat,Unfurnished
+1121,Vadodara,390019,6,5,8571,New Alkapuri,Flat,Unfurnished
+1122,Vadodara,390022,2,2,5429,New Kareli Baug,Flat,Furnished
+1123,Vadodara,390022,2,2,4914,New Kareli Baug,Flat,Unfurnished
+1124,Vadodara,390022,2,2,3060,New Kareli Baug,Flat,Furnished
+1125,Vadodara,390022,2,2,2500,New Kareli Baug,Flat,Unfurnished
+1126,Vadodara,390022,2,2,2455,New Kareli Baug,Flat,Unfurnished
+1127,Vadodara,390022,2,3,2857,New Kareli Baug,Flat,Unfurnished
+1128,Vadodara,390022,2,3,4556,New Kareli Baug,Flat,Unfurnished
+1129,Vadodara,390022,2,3,2388,New Kareli Baug,Flat,Unfurnished
+1130,Vadodara,390022,3,3,5756,New Kareli Baug,Flat,Unfurnished
+1131,Vadodara,390022,4,4,5197,New Kareli Baug,Flat,Furnished
+1132,Vadodara,390022,4,4,4118,New Kareli Baug,House,Furnished
+1133,Vadodara,390022,1,2,4500,New Sama,Flat,Furnished
+1134,Vadodara,390022,2,2,3942,New Sama,Flat,Unfurnished
+1135,Vadodara,390022,3,2,3611,New Sama,House,Furnished
+1136,Vadodara,390022,2,2,5750,New Sama,Flat,Furnished
+1137,Vadodara,390022,2,2,3830,New Sama Road,Flat,Furnished
+1138,Vadodara,390022,1,2,9732,New Sama Road,House,Furnished
+1139,Vadodara,390022,3,3,3668,New Sama Road,House,Furnished
+1140,Vadodara,390022,2,2,4636,New Sama Road Chanakyapuri Society,Flat,Unfurnished
+1141,Vadodara,390022,2,2,7650,New Sama Road Chanakyapuri Society,Flat,Furnished
+1142,Vadodara,390022,3,3,6111,New Sama Road Chanakyapuri Society,Builder Floor,Furnished
+1143,Vadodara,390022,2,2,2639,New Vip Road Area,Flat,Furnished
+1144,Vadodara,390022,1,1,3162,New Vip Road Baikunth,Flat,Furnished
+1145,Vadodara,390022,2,2,4375,New Vip Road Baikunth,Flat,Furnished
+1146,Vadodara,390022,2,2,3385,New Vip Road Baikunth,Flat,Unfurnished
+1147,Vadodara,390022,1,2,3250,New Vip Road Baikunth,House,Furnished
+1148,Vadodara,390022,2,2,2639,New Vip Road Baikunth,Flat,Furnished
+1149,Vadodara,390022,1,2,3231,New Vip Road Baikunth,Flat,Furnished
+1150,Vadodara,390022,2,2,7205,New Vip Road Baikunth,Villa,Furnished
+1151,Vadodara,390022,2,2,3182,New Vip Road Baikunth,Flat,Unfurnished
+1152,Vadodara,390022,2,2,3103,New Vip Road Baikunth,Flat,Furnished
+1153,Vadodara,390022,2,2,4667,New Vip Road Baikunth,Builder Floor,Furnished
+1154,Vadodara,390022,3,3,3333,New Vip Road Baikunth,Flat,Furnished
+1155,Vadodara,390022,3,3,5882,New Vip Road Baikunth,Flat,Furnished
+1156,Vadodara,390022,3,3,8235,New Vip Road Baikunth,House,Unfurnished
+1157,Vadodara,390022,3,3,7556,New Vip Road Baikunth,Flat,Furnished
+1158,Vadodara,390022,3,3,4125,New Vip Road Baikunth,Flat,Furnished
+1159,Vadodara,390022,3,3,3750,New Vip Road Baikunth,Flat,Furnished
+1160,Vadodara,390022,2,3,4222,New Vip Road Baikunth,Flat,Unfurnished
+1161,Vadodara,390022,3,3,3412,New Vip Road Baikunth,Flat,Unfurnished
+1162,Vadodara,390022,1,2,3273,Nilkanth Residency Makarpura Airforce Station,Flat,Unfurnished
+1163,Vadodara,390022,3,3,10000,Nimal Babu Complex,House,Furnished
+1164,Vadodara,390022,1,1,6644,Nimeta,House,Unfurnished
+1165,Vadodara,390002,1,1,3264,Nizampura,Flat,Unfurnished
+1166,Vadodara,390002,2,2,6102,Nizampura,House,Unfurnished
+1167,Vadodara,390002,2,2,5258,Nizampura,Flat,Furnished
+1168,Vadodara,390002,2,2,3360,Nizampura,Flat,Furnished
+1169,Vadodara,390002,1,2,4054,Nizampura,Flat,Furnished
+1170,Vadodara,390002,2,2,3951,Nizampura,Flat,Furnished
+1171,Vadodara,390002,2,2,5114,Nizampura,Flat,Furnished
+1172,Vadodara,390002,2,2,4861,Nizampura,Flat,Furnished
+1173,Vadodara,390002,2,2,3294,Nizampura,Flat,Furnished
+1174,Vadodara,390002,2,3,4762,Nizampura,Flat,Furnished
+1175,Vadodara,390002,3,3,7407,Nizampura,Flat,Furnished
+1176,Vadodara,390002,3,3,6768,Nizampura,Flat,Furnished
+1177,Vadodara,390002,3,3,8462,Nizampura,Flat,Furnished
+1178,Vadodara,390002,3,3,8173,Nizampura,Flat,Furnished
+1179,Vadodara,390002,3,4,9545,Nizampura,House,Furnished
+1180,Vadodara,390002,5,5,9859,Nizampura,House,Furnished
+1181,Vadodara,390022,1,1,4400,Nizampura Main Road,Flat,Unfurnished
+1182,Vadodara,390022,3,3,10000,Nizampura Main Road,House,Furnished
+1183,Vadodara,390022,2,3,11579,Nizampura Main Road,House,Unfurnished
+1184,Vadodara,390022,3,2,6048,Old Padra Road,Villa,Furnished
+1185,Vadodara,390022,2,2,6000,Old Padra Road,House,Unfurnished
+1186,Vadodara,390022,2,2,5333,Old Padra Road,Flat,Furnished
+1187,Vadodara,390022,2,2,5976,Old Padra Road,Flat,Furnished
+1188,Vadodara,390022,2,2,3438,Old Padra Road,Flat,Furnished
+1189,Vadodara,390022,1,2,5508,Old Padra Road,House,Unfurnished
+1190,Vadodara,390022,3,3,7783,Old Padra Road,Villa,Furnished
+1191,Vadodara,390022,3,3,6842,Old Padra Road,Flat,Furnished
+1192,Vadodara,390022,2,3,5474,Old Padra Road,Flat,Furnished
+1193,Vadodara,390022,1,3,4533,Old Padra Road,Flat,Unknown
+1194,Vadodara,390022,3,3,5361,Old Padra Road,Flat,Furnished
+1195,Vadodara,390022,4,3,4348,Old Padra Road,Flat,Furnished
+1196,Vadodara,390022,2,3,6667,Old Padra Road,House,Unfurnished
+1197,Vadodara,390022,3,3,5051,Old Padra Road,Flat,Furnished
+1198,Vadodara,390022,4,4,6944,Old Padra Road,Villa,Furnished
+1199,Vadodara,390022,4,4,7955,Old Padra Road,House,Furnished
+1200,Vadodara,391440,1,1,3043,Padra,Flat,Unfurnished
+1201,Vadodara,391440,2,2,3333,Padra,Flat,Unfurnished
+1202,Vadodara,391440,2,2,3125,Padra,Flat,Unfurnished
+1203,Vadodara,390022,3,3,7732,Padra Road,House,Furnished
+1204,Vadodara,390022,3,3,3529,Padra Road,Flat,Furnished
+1205,Vadodara,390022,3,4,6122,Padra Road,House,Furnished
+1206,Vadodara,390022,4,4,8186,Padra Road,Villa,Unfurnished
+1207,Vadodara,390022,4,4,4595,Padra Road,Flat,Furnished
+1208,Vadodara,390022,2,2,3863,Panchvati,Flat,Furnished
+1209,Vadodara,390022,1,1,2761,Parth Complex,Flat,Furnished
+1210,Vadodara,390022,2,2,3386,Pashabhai Park,Flat,Furnished
+1211,Vadodara,390022,2,2,4368,Pashabhai Park,Flat,Unfurnished
+1212,Vadodara,390022,2,3,5862,Pashabhai Park,Flat,Furnished
+1213,Vadodara,390022,2,3,4516,Pratap Gunj,Flat,Furnished
+1214,Vadodara,390022,2,2,5889,Pratapgunj,Flat,Furnished
+1215,Vadodara,390022,3,3,7368,Pratapgunj,Flat,Furnished
+1216,Vadodara,390022,3,3,5417,Pratapgunj,Flat,Furnished
+1217,Vadodara,390022,2,2,2889,Pratham Upvan,House,Unfurnished
+1218,Vadodara,390022,7,5,10000,Preet Banglows Channi Canal Road,Villa,Furnished
+1219,Vadodara,390022,2,2,4286,Punit Nagar,Flat,Furnished
+1220,Vadodara,390022,2,2,3750,Purushottam Nagar,Flat,Furnished
+1221,Vadodara,390022,2,4,8095,Pushpak Township,House,Furnished
+1222,Vadodara,390022,3,3,5862,R K Flat,Flat,Furnished
+1223,Vadodara,390022,1,3,4722,Race Course Circle,Flat,Unfurnished
+1224,Vadodara,390022,3,3,8333,Race Course Circle,Flat,Furnished
+1225,Vadodara,390022,2,3,6355,Race Course Road,Flat,Furnished
+1226,Vadodara,390022,2,2,3000,Radhesharnam Flats Near Vadsar Bridge,Flat,Furnished
+1227,Vadodara,390022,2,2,3614,Rajeshwar Gold View,Flat,Furnished
+1228,Vadodara,390022,2,2,4706,Ramwadi,Flat,Furnished
+1229,Vadodara,390022,2,3,3913,Ramwadi,Flat,Furnished
+1230,Vadodara,390022,2,3,5909,Ramwadi,Flat,Furnished
+1231,Vadodara,390022,1,1,3091,Raopura,Builder Floor,Unfurnished
+1232,Vadodara,390022,4,4,3867,Raopura,Flat,Unfurnished
+1233,Vadodara,390022,2,5,4286,Raopura Road,House,Unfurnished
+1234,Vadodara,390022,4,6,4139,Raopura Road,House,Unfurnished
+1235,Vadodara,390022,2,1,4973,Rasulabad,Villa,Furnished
+1236,Vadodara,390022,2,2,3810,Rv Desai Road,Flat,Unfurnished
+1237,Vadodara,390022,2,2,4776,Rv Desai Road,Flat,Unfurnished
+1238,Vadodara,390022,1,2,2857,Rv Desai Road,Flat,Furnished
+1239,Vadodara,390022,2,2,5143,Rv Desai Road,Flat,Furnished
+1240,Vadodara,390022,2,2,5118,Rv Desai Road,Flat,Furnished
+1241,Vadodara,390022,2,2,4471,Rv Desai Road,Flat,Furnished
+1242,Vadodara,390022,1,2,3333,Rv Desai Road,Flat,Furnished
+1243,Vadodara,390022,6,8,8000,Rv Desai Road,House,Furnished
+1244,Vadodara,390022,1,2,3129,Sai Ganga Apartment,Flat,Furnished
+1245,Vadodara,390022,2,2,3304,Sai Krupa Apartment,Flat,Furnished
+1246,Vadodara,390022,1,1,10769,Saiyed Vasna,House,Furnished
+1247,Vadodara,390022,2,2,2667,Saiyed Vasna,Flat,Furnished
+1248,Vadodara,390022,2,3,6154,Saiyed Vasna,Flat,Furnished
+1249,Vadodara,390022,3,3,5185,Saiyed Vasna,Flat,Furnished
+1250,Vadodara,390022,1,1,2857,Salatwada,Flat,Unfurnished
+1251,Vadodara,390022,1,1,5143,Salatwada,Flat,Furnished
+1252,Vadodara,390024,2,2,5867,Sama,Flat,Unfurnished
+1253,Vadodara,390024,2,2,4080,Sama,Flat,Furnished
+1254,Vadodara,390024,3,3,7619,Sama,Flat,Furnished
+1255,Vadodara,390024,2,3,6545,Sama,Flat,Furnished
+1256,Vadodara,390024,3,3,3977,Sama,Flat,Furnished
+1257,Vadodara,390024,3,3,3041,Sama,Flat,Unfurnished
+1258,Vadodara,390024,4,4,2353,Sama,House,Furnished
+1259,Vadodara,390024,4,5,5000,Sama,Flat,Furnished
+1260,Vadodara,390022,2,2,6182,Sama Road,Flat,Furnished
+1261,Vadodara,390022,2,2,4221,Sama Road,Flat,Furnished
+1262,Vadodara,390022,2,2,6000,Sama Road,Flat,Furnished
+1263,Vadodara,390022,1,2,4861,Sama Road,Flat,Unfurnished
+1264,Vadodara,390022,2,3,4829,Sama Road,Flat,Furnished
+1265,Vadodara,390022,3,4,8182,Sama Road,Flat,Furnished
+1266,Vadodara,390022,1,1,5882,Sama-Savli Road,Flat,Furnished
+1267,Vadodara,390022,1,1,4358,Sama-Savli Road,Builder Floor,Furnished
+1268,Vadodara,390022,1,1,6349,Sama-Savli Road,House,Furnished
+1269,Vadodara,390022,1,1,3800,Sama-Savli Road,Flat,Furnished
+1270,Vadodara,390022,1,1,3636,Sama-Savli Road,Flat,Unfurnished
+1271,Vadodara,390022,1,1,3600,Sama-Savli Road,Flat,Unfurnished
+1272,Vadodara,390022,1,1,2361,Sama-Savli Road,Flat,Furnished
+1273,Vadodara,390022,1,1,3818,Sama-Savli Road,Flat,Furnished
+1274,Vadodara,390022,1,1,3500,Sama-Savli Road,Flat,Unknown
+1275,Vadodara,390022,1,1,4384,Sama-Savli Road,Builder Floor,Unfurnished
+1276,Vadodara,390022,1,1,3091,Sama-Savli Road,House,Furnished
+1277,Vadodara,390022,2,2,4924,Sama-Savli Road,Flat,Furnished
+1278,Vadodara,390022,2,2,6963,Sama-Savli Road,Flat,Furnished
+1279,Vadodara,390022,2,2,6840,Sama-Savli Road,Flat,Furnished
+1280,Vadodara,390022,2,2,3480,Sama-Savli Road,Flat,Unfurnished
+1281,Vadodara,390022,2,2,6553,Sama-Savli Road,Flat,Furnished
+1282,Vadodara,390022,2,2,4000,Sama-Savli Road,Flat,Unfurnished
+1283,Vadodara,390022,2,2,5455,Sama-Savli Road,Flat,Furnished
+1284,Vadodara,390022,2,2,4286,Sama-Savli Road,Flat,Furnished
+1285,Vadodara,390022,2,2,7444,Sama-Savli Road,House,Unfurnished
+1286,Vadodara,390022,2,2,5556,Sama-Savli Road,Flat,Furnished
+1287,Vadodara,390022,2,2,3636,Sama-Savli Road,Flat,Unfurnished
+1288,Vadodara,390022,2,2,5875,Sama-Savli Road,Flat,Furnished
+1289,Vadodara,390022,2,2,4881,Sama-Savli Road,Flat,Furnished
+1290,Vadodara,390022,2,2,6933,Sama-Savli Road,Flat,Furnished
+1291,Vadodara,390022,2,2,3929,Sama-Savli Road,Flat,Furnished
+1292,Vadodara,390022,2,2,4861,Sama-Savli Road,Builder Floor,Unfurnished
+1293,Vadodara,390022,2,2,3783,Sama-Savli Road,Flat,Furnished
+1294,Vadodara,390022,2,2,3600,Sama-Savli Road,Flat,Furnished
+1295,Vadodara,390022,2,2,4500,Sama-Savli Road,Flat,Furnished
+1296,Vadodara,390022,2,2,3659,Sama-Savli Road,Flat,Furnished
+1297,Vadodara,390022,2,2,4000,Sama-Savli Road,Flat,Furnished
+1298,Vadodara,390022,2,2,3823,Sama-Savli Road,Flat,Furnished
+1299,Vadodara,390022,3,2,4412,Sama-Savli Road,Flat,Furnished
+1300,Vadodara,390022,2,2,4211,Sama-Savli Road,Flat,Unfurnished
+1301,Vadodara,390022,2,2,2609,Sama-Savli Road,Flat,Furnished
+1302,Vadodara,390022,2,2,4267,Sama-Savli Road,Flat,Furnished
+1303,Vadodara,390022,2,2,2500,Sama-Savli Road,Flat,Furnished
+1304,Vadodara,390022,2,2,6000,Sama-Savli Road,Flat,Furnished
+1305,Vadodara,390022,2,2,5467,Sama-Savli Road,Flat,Furnished
+1306,Vadodara,390022,2,2,3043,Sama-Savli Road,Flat,Furnished
+1307,Vadodara,390022,2,2,6410,Sama-Savli Road,Flat,Furnished
+1308,Vadodara,390022,2,2,6200,Sama-Savli Road,House,Furnished
+1309,Vadodara,390022,2,2,4071,Sama-Savli Road,Builder Floor,Furnished
+1310,Vadodara,390022,2,2,2800,Sama-Savli Road,Builder Floor,Furnished
+1311,Vadodara,390022,2,2,4091,Sama-Savli Road,Builder Floor,Furnished
+1312,Vadodara,390022,2,2,4000,Sama-Savli Road,Builder Floor,Furnished
+1313,Vadodara,390022,2,2,3333,Sama-Savli Road,House,Unfurnished
+1314,Vadodara,390022,2,2,2366,Sama-Savli Road,Flat,Furnished
+1315,Vadodara,390022,2,2,4071,Sama-Savli Road,Flat,Furnished
+1316,Vadodara,390022,2,2,4286,Sama-Savli Road,Flat,Unfurnished
+1317,Vadodara,390022,2,2,5143,Sama-Savli Road,Flat,Furnished
+1318,Vadodara,390022,2,2,3333,Sama-Savli Road,Flat,Unfurnished
+1319,Vadodara,390022,2,2,4354,Sama-Savli Road,Flat,Furnished
+1320,Vadodara,390022,2,2,5333,Sama-Savli Road,Flat,Furnished
+1321,Vadodara,390022,2,2,3720,Sama-Savli Road,Flat,Furnished
+1322,Vadodara,390022,2,2,3330,Sama-Savli Road,Flat,Furnished
+1323,Vadodara,390022,2,2,4843,Sama-Savli Road,Flat,Furnished
+1324,Vadodara,390022,2,2,4667,Sama-Savli Road,Flat,Furnished
+1325,Vadodara,390022,2,2,2333,Sama-Savli Road,Flat,Furnished
+1326,Vadodara,390022,2,2,3100,Sama-Savli Road,Builder Floor,Furnished
+1327,Vadodara,390022,2,2,4133,Sama-Savli Road,Flat,Furnished
+1328,Vadodara,390022,2,2,4231,Sama-Savli Road,Flat,Furnished
+1329,Vadodara,390022,2,2,5000,Sama-Savli Road,Flat,Furnished
+1330,Vadodara,390022,3,3,4885,Sama-Savli Road,Flat,Unfurnished
+1331,Vadodara,390022,3,3,11423,Sama-Savli Road,Flat,Furnished
+1332,Vadodara,390022,3,3,3340,Sama-Savli Road,Builder Floor,Furnished
+1333,Vadodara,390022,3,3,9929,Sama-Savli Road,House,Furnished
+1334,Vadodara,390022,3,3,4576,Sama-Savli Road,House,Unfurnished
+1335,Vadodara,390022,3,3,6138,Sama-Savli Road,House,Furnished
+1336,Vadodara,390022,3,3,5682,Sama-Savli Road,Flat,Unfurnished
+1337,Vadodara,390022,3,3,7960,Sama-Savli Road,Villa,Furnished
+1338,Vadodara,390022,3,3,5093,Sama-Savli Road,Flat,Furnished
+1339,Vadodara,390022,3,3,3000,Sama-Savli Road,Builder Floor,Unfurnished
+1340,Vadodara,390022,4,3,3185,Sama-Savli Road,House,Unfurnished
+1341,Vadodara,390022,2,3,4000,Sama-Savli Road,House,Unfurnished
+1342,Vadodara,390022,3,3,7313,Sama-Savli Road,Flat,Furnished
+1343,Vadodara,390022,3,3,10588,Sama-Savli Road,Flat,Unfurnished
+1344,Vadodara,390022,3,3,4778,Sama-Savli Road,House,Furnished
+1345,Vadodara,390022,2,3,5000,Sama-Savli Road,Flat,Furnished
+1346,Vadodara,390022,3,3,5909,Sama-Savli Road,Flat,Furnished
+1347,Vadodara,390022,3,3,5512,Sama-Savli Road,Flat,Unfurnished
+1348,Vadodara,390022,2,3,5368,Sama-Savli Road,Flat,Unfurnished
+1349,Vadodara,390022,4,3,10667,Sama-Savli Road,Villa,Furnished
+1350,Vadodara,390022,3,3,5391,Sama-Savli Road,Flat,Furnished
+1351,Vadodara,390022,3,3,5390,Sama-Savli Road,Flat,Furnished
+1352,Vadodara,390022,3,3,4929,Sama-Savli Road,Flat,Furnished
+1353,Vadodara,390022,3,3,5426,Sama-Savli Road,Flat,Unfurnished
+1354,Vadodara,390022,3,3,3417,Sama-Savli Road,House,Unknown
+1355,Vadodara,390022,3,3,6571,Sama-Savli Road,Flat,Furnished
+1356,Vadodara,390022,3,3,4240,Sama-Savli Road,Flat,Furnished
+1357,Vadodara,390022,2,3,5697,Sama-Savli Road,Flat,Furnished
+1358,Vadodara,390022,2,3,3429,Sama-Savli Road,House,Furnished
+1359,Vadodara,390022,3,3,5909,Sama-Savli Road,Flat,Unfurnished
+1360,Vadodara,390022,3,3,5077,Sama-Savli Road,Flat,Unfurnished
+1361,Vadodara,390022,3,3,4388,Sama-Savli Road,Flat,Furnished
+1362,Vadodara,390022,3,3,5727,Sama-Savli Road,Flat,Furnished
+1363,Vadodara,390022,3,3,5537,Sama-Savli Road,Flat,Furnished
+1364,Vadodara,390022,3,3,5000,Sama-Savli Road,Flat,Furnished
+1365,Vadodara,390022,3,3,5818,Sama-Savli Road,Flat,Furnished
+1366,Vadodara,390022,3,3,4837,Sama-Savli Road,Flat,Unfurnished
+1367,Vadodara,390022,3,3,5687,Sama-Savli Road,Flat,Unfurnished
+1368,Vadodara,390022,2,3,6593,Sama-Savli Road,Flat,Furnished
+1369,Vadodara,390022,3,3,6142,Sama-Savli Road,Flat,Unfurnished
+1370,Vadodara,390022,3,3,9048,Sama-Savli Road,House,Furnished
+1371,Vadodara,390022,3,3,3199,Sama-Savli Road,Flat,Furnished
+1372,Vadodara,390022,3,3,8013,Sama-Savli Road,Flat,Unfurnished
+1373,Vadodara,390022,3,3,7933,Sama-Savli Road,Flat,Unfurnished
+1374,Vadodara,390022,3,3,5675,Sama-Savli Road,Flat,Unfurnished
+1375,Vadodara,390022,3,3,5727,Sama-Savli Road,Flat,Unfurnished
+1376,Vadodara,390022,3,3,5651,Sama-Savli Road,Flat,Unfurnished
+1377,Vadodara,390022,5,4,8485,Sama-Savli Road,House,Furnished
+1378,Vadodara,390022,4,4,11290,Sama-Savli Road,Flat,Furnished
+1379,Vadodara,390022,4,4,7064,Sama-Savli Road,Flat,Unfurnished
+1380,Vadodara,390022,4,4,7722,Sama-Savli Road,Flat,Unfurnished
+1381,Vadodara,390022,3,4,8231,Sama-Savli Road,House,Furnished
+1382,Vadodara,390022,5,4,3521,Sama-Savli Road,Flat,Unfurnished
+1383,Vadodara,390022,4,4,5660,Sama-Savli Road,Flat,Furnished
+1384,Vadodara,390022,4,4,7143,Sama-Savli Road,Flat,Unfurnished
+1385,Vadodara,390022,4,4,7636,Sama-Savli Road,Flat,Unfurnished
+1386,Vadodara,390022,4,4,6442,Sama-Savli Road,Flat,Unfurnished
+1387,Vadodara,390022,4,4,7592,Sama-Savli Road,Flat,Unfurnished
+1388,Vadodara,390022,5,5,3521,Sama-Savli Road,Flat,Unfurnished
+1389,Vadodara,390022,5,5,10000,Sama-Savli Road,House,Furnished
+1390,Vadodara,390022,4,5,6170,Sama-Savli Road,House,Furnished
+1391,Vadodara,390022,6,6,6379,Sama-Savli Road,House,Unfurnished
+1392,Vadodara,390022,1,2,3360,Samiyala,Flat,Furnished
+1393,Vadodara,390022,1,2,3271,Samiyala,Flat,Unfurnished
+1394,Vadodara,390022,1,2,3303,Samiyala,Flat,Unfurnished
+1395,Vadodara,390022,3,3,2667,Samiyala,Flat,Unfurnished
+1396,Vadodara,390022,3,3,7114,Sampat Residency,Flat,Unfurnished
+1397,Vadodara,390022,1,2,5625,Samrat Apartment Nizampura,Flat,Unknown
+1398,Vadodara,390022,2,2,4769,Samta,Flat,Furnished
+1399,Vadodara,390022,2,2,4342,Samta,Flat,Unfurnished
+1400,Vadodara,390022,2,3,6181,Samta,House,Furnished
+1401,Vadodara,390022,2,4,11212,Samta,House,Furnished
+1402,Vadodara,390022,2,2,2516,Sangam Char Rasta,Flat,Unfurnished
+1403,Vadodara,390022,3,3,5268,Sangam Char Rasta,Flat,Unfurnished
+1404,Vadodara,390022,2,2,8000,Satva Heights,Flat,Furnished
+1405,Vadodara,390022,3,3,3148,Satva Heights,Flat,Furnished
+1406,Vadodara,390022,1,1,4000,Savali,Flat,Furnished
+1407,Vadodara,391770,2,2,4881,Savli,Flat,Furnished
+1408,Vadodara,390022,1,2,3250,Sayaji Park Society,House,Furnished
+1409,Vadodara,390022,2,2,4500,Sayajiganj,Flat,Unfurnished
+1410,Vadodara,390022,1,1,3593,Sayajigunj,Flat,Unfurnished
+1411,Vadodara,390022,2,2,5462,Sayajigunj,Flat,Furnished
+1412,Vadodara,390022,2,2,3918,Sayajigunj,Flat,Furnished
+1413,Vadodara,390022,2,2,2500,Sayajigunj,Flat,Unfurnished
+1414,Vadodara,390022,2,2,5484,Sayajigunj,Flat,Furnished
+1415,Vadodara,390022,2,2,3883,Sayajigunj,Flat,Furnished
+1416,Vadodara,390022,2,2,2860,Sayajigunj,Flat,Furnished
+1417,Vadodara,390022,2,2,7500,Sayajigunj,Flat,Unfurnished
+1418,Vadodara,390022,2,2,3014,Sayajigunj,Flat,Furnished
+1419,Vadodara,390022,2,2,2588,Sayajigunj,Flat,Furnished
+1420,Vadodara,390022,2,2,3500,Sayajigunj,Flat,Furnished
+1421,Vadodara,390022,2,2,3271,Sayajigunj,Flat,Furnished
+1422,Vadodara,390022,2,2,4007,Sayajigunj,Flat,Furnished
+1423,Vadodara,390022,3,3,3790,Sayajigunj,Flat,Furnished
+1424,Vadodara,390022,3,3,6818,Sayajigunj,House,Furnished
+1425,Vadodara,390022,4,4,7353,Sayajigunj,Flat,Furnished
+1426,Vadodara,390022,2,2,4154,Sayajipura,Flat,Furnished
+1427,Vadodara,390022,2,2,4802,Sayajipura,Flat,Furnished
+1428,Vadodara,390022,2,2,5529,Sayajipura,Flat,Furnished
+1429,Vadodara,390022,2,2,3812,Sayajipura,Flat,Furnished
+1430,Vadodara,390022,2,2,4444,Sayajipura,Flat,Furnished
+1431,Vadodara,390022,2,3,3333,Sayajipura,Builder Floor,Furnished
+1432,Vadodara,390022,3,3,5093,Sayajipura,Flat,Furnished
+1433,Vadodara,390022,3,3,5567,Sayajipura,Flat,Unfurnished
+1434,Vadodara,390022,3,3,3846,Sayajipura,Flat,Furnished
+1435,Vadodara,390022,2,2,3618,Sayajipura Village,Flat,Unfurnished
+1436,Vadodara,390022,3,5,3200,Sel,House,Furnished
+1437,Vadodara,391101,1,1,4636,Sevasi,Flat,Furnished
+1438,Vadodara,391101,2,2,6154,Sevasi,Flat,Furnished
+1439,Vadodara,391101,2,2,6471,Sevasi,Flat,Furnished
+1440,Vadodara,391101,2,2,3750,Sevasi,Flat,Furnished
+1441,Vadodara,391101,2,2,4211,Sevasi,Flat,Unfurnished
+1442,Vadodara,391101,3,2,4054,Sevasi,Flat,Unfurnished
+1443,Vadodara,391101,2,2,4077,Sevasi,Flat,Furnished
+1444,Vadodara,391101,2,2,6000,Sevasi,Flat,Furnished
+1445,Vadodara,391101,2,2,4933,Sevasi,Flat,Furnished
+1446,Vadodara,391101,2,2,2787,Sevasi,Flat,Unfurnished
+1447,Vadodara,391101,2,2,5065,Sevasi,Flat,Furnished
+1448,Vadodara,391101,2,2,4462,Sevasi,Flat,Furnished
+1449,Vadodara,391101,2,2,4030,Sevasi,Flat,Furnished
+1450,Vadodara,391101,2,2,4375,Sevasi,Flat,Unfurnished
+1451,Vadodara,391101,2,2,6400,Sevasi,Flat,Furnished
+1452,Vadodara,391101,1,2,4348,Sevasi,Flat,Furnished
+1453,Vadodara,391101,2,2,4000,Sevasi,Flat,Furnished
+1454,Vadodara,391101,2,2,5368,Sevasi,Flat,Furnished
+1455,Vadodara,391101,2,2,5263,Sevasi,Flat,Furnished
+1456,Vadodara,391101,2,2,5419,Sevasi,Flat,Unfurnished
+1457,Vadodara,391101,2,2,5639,Sevasi,Flat,Unfurnished
+1458,Vadodara,391101,3,3,6278,Sevasi,Flat,Furnished
+1459,Vadodara,391101,3,3,3060,Sevasi,Flat,Unfurnished
+1460,Vadodara,391101,3,3,9800,Sevasi,Flat,Furnished
+1461,Vadodara,391101,4,3,5658,Sevasi,Flat,Furnished
+1462,Vadodara,391101,3,3,7840,Sevasi,Flat,Furnished
+1463,Vadodara,391101,3,3,6512,Sevasi,Flat,Unfurnished
+1464,Vadodara,391101,3,3,3116,Sevasi,House,Furnished
+1465,Vadodara,391101,3,3,6667,Sevasi,Flat,Unfurnished
+1466,Vadodara,391101,4,3,4291,Sevasi,House,Furnished
+1467,Vadodara,391101,4,3,3765,Sevasi,Flat,Furnished
+1468,Vadodara,391101,3,3,8824,Sevasi,Villa,Furnished
+1469,Vadodara,391101,3,3,5000,Sevasi,Flat,Furnished
+1470,Vadodara,391101,5,3,5040,Sevasi,Flat,Unfurnished
+1471,Vadodara,391101,3,3,4167,Sevasi,Flat,Furnished
+1472,Vadodara,391101,4,3,6897,Sevasi,House,Furnished
+1473,Vadodara,391101,3,3,6547,Sevasi,Flat,Furnished
+1474,Vadodara,391101,3,3,7164,Sevasi,Flat,Unfurnished
+1475,Vadodara,391101,3,3,4828,Sevasi,Flat,Furnished
+1476,Vadodara,391101,3,3,5772,Sevasi,Flat,Unfurnished
+1477,Vadodara,391101,3,3,4675,Sevasi,Flat,Furnished
+1478,Vadodara,391101,2,3,6857,Sevasi,Flat,Furnished
+1479,Vadodara,391101,3,3,3121,Sevasi,Flat,Unfurnished
+1480,Vadodara,391101,3,3,5157,Sevasi,Flat,Unfurnished
+1481,Vadodara,391101,2,3,4353,Sevasi,House,Furnished
+1482,Vadodara,391101,3,3,5556,Sevasi,Flat,Unfurnished
+1483,Vadodara,391101,3,3,5889,Sevasi,Flat,Unfurnished
+1484,Vadodara,391101,4,3,8621,Sevasi,Flat,Furnished
+1485,Vadodara,391101,3,3,6132,Sevasi,Flat,Unfurnished
+1486,Vadodara,391101,3,3,4851,Sevasi,Flat,Unfurnished
+1487,Vadodara,391101,5,4,6545,Sevasi,Flat,Unfurnished
+1488,Vadodara,391101,3,4,4668,Sevasi,Flat,Unfurnished
+1489,Vadodara,391101,3,4,5474,Sevasi,Flat,Furnished
+1490,Vadodara,391101,5,4,5987,Sevasi,Flat,Furnished
+1491,Vadodara,391101,4,4,6379,Sevasi,Flat,Unfurnished
+1492,Vadodara,391101,4,4,9333,Sevasi,Villa,Furnished
+1493,Vadodara,391101,5,4,6642,Sevasi,Flat,Unfurnished
+1494,Vadodara,391101,4,4,6364,Sevasi,Flat,Furnished
+1495,Vadodara,391101,5,4,5769,Sevasi,House,Furnished
+1496,Vadodara,391101,4,4,5648,Sevasi,Flat,Unfurnished
+1497,Vadodara,391101,5,4,10867,Sevasi,Villa,Unfurnished
+1498,Vadodara,391101,4,4,6000,Sevasi,Villa,Furnished
+1499,Vadodara,391101,3,4,4035,Sevasi,Flat,Furnished
+1500,Vadodara,391101,4,4,5688,Sevasi,Flat,Unfurnished
+1501,Vadodara,391101,4,4,9909,Sevasi,Flat,Unfurnished
+1502,Vadodara,391101,4,4,6364,Sevasi,Flat,Unfurnished
+1503,Vadodara,391101,5,4,6591,Sevasi,Flat,Unfurnished
+1504,Vadodara,391101,4,4,7096,Sevasi,Villa,Unfurnished
+1505,Vadodara,391101,5,4,6455,Sevasi,Flat,Unfurnished
+1506,Vadodara,391101,2,4,8081,Sevasi,Villa,Furnished
+1507,Vadodara,391101,4,4,6628,Sevasi,Flat,Unfurnished
+1508,Vadodara,391101,5,4,6409,Sevasi,Flat,Unfurnished
+1509,Vadodara,391101,5,4,9486,Sevasi,Villa,Furnished
+1510,Vadodara,391101,4,4,3113,Sevasi,Flat,Unfurnished
+1511,Vadodara,391101,6,5,7692,Sevasi,Villa,Unfurnished
+1512,Vadodara,391101,5,5,6623,Sevasi,Villa,Unfurnished
+1513,Vadodara,391101,5,5,7231,Sevasi,House,Unfurnished
+1514,Vadodara,391101,6,5,8730,Sevasi,House,Unfurnished
+1515,Vadodara,391101,6,5,7807,Sevasi,Flat,Unfurnished
+1516,Vadodara,390022,3,3,7326,Shankarpura,Villa,Unfurnished
+1517,Vadodara,390022,3,3,3910,Shanti Nagar,Villa,Unfurnished
+1518,Vadodara,390022,2,4,3911,Shanti Nagar,Villa,Furnished
+1519,Vadodara,390022,3,3,5455,Shashvat Flats,Flat,Furnished
+1520,Vadodara,390022,2,2,3755,Shikhar,Flat,Furnished
+1521,Vadodara,390022,1,2,7294,Shiv Bunglows,House,Unfurnished
+1522,Vadodara,390022,2,2,2687,Shiv Complex,Flat,Furnished
+1523,Vadodara,390022,1,1,4739,Shiv Niketan Appartments Old Padra Road,Flat,Furnished
+1524,Vadodara,390022,2,2,2357,Shivam Happy Homes,Flat,Furnished
+1525,Vadodara,390022,2,2,4056,Shiyabaug Shree Square,Flat,Furnished
+1526,Vadodara,390022,3,4,8947,Shree Bunglows,House,Furnished
+1527,Vadodara,390022,1,2,2605,Shree Kunj Flats Tarsali,Flat,Furnished
+1528,Vadodara,390022,2,3,3636,Shree Nidhi Residency,Flat,Furnished
+1529,Vadodara,390022,1,1,4111,Shreemay Appartment Atladara,Flat,Furnished
+1530,Vadodara,390022,3,3,4403,Shreeram Shaligram Karjan,House,Furnished
+1531,Vadodara,390022,4,5,6314,Shri Vallabha,House,Furnished
+1532,Vadodara,390022,1,2,9375,Shubh Residency Ratanpur Village Near Kapurai Choukry,House,Furnished
+1533,Vadodara,390022,4,4,10000,Siddharth Resicome Kapurai,Villa,Furnished
+1534,Vadodara,390022,2,2,6552,Sindhrot,Villa,Furnished
+1535,Vadodara,390022,2,2,3333,Sokhdakhurd,House,Furnished
+1536,Vadodara,390002,1,1,3434,Soma Talav,Flat,Furnished
+1537,Vadodara,390002,1,1,7143,Soma Talav,House,Unfurnished
+1538,Vadodara,390002,2,1,4322,Soma Talav,Flat,Furnished
+1539,Vadodara,390002,2,2,3553,Soma Talav,Flat,Furnished
+1540,Vadodara,390002,2,2,3833,Soma Talav,Flat,Furnished
+1541,Vadodara,390002,2,2,3988,Soma Talav,Flat,Furnished
+1542,Vadodara,390002,2,2,4160,Soma Talav,Flat,Furnished
+1543,Vadodara,390002,3,3,4160,Soma Talav,Flat,Furnished
+1544,Vadodara,390002,3,3,7290,Soma Talav,House,Furnished
+1545,Vadodara,390022,4,4,2750,Somnath Society,Flat,Furnished
+1546,Vadodara,390022,2,2,2842,St Colony,Flat,Furnished
+1547,Vadodara,390023,1,1,2519,Subhanpura,Flat,Unfurnished
+1548,Vadodara,390023,1,1,3089,Subhanpura,Flat,Furnished
+1549,Vadodara,390023,1,1,2545,Subhanpura,House,Unfurnished
+1550,Vadodara,390023,1,1,10200,Subhanpura,Villa,Unfurnished
+1551,Vadodara,390023,2,2,3263,Subhanpura,Flat,Unfurnished
+1552,Vadodara,390023,2,2,3241,Subhanpura,Flat,Furnished
+1553,Vadodara,390023,2,2,4333,Subhanpura,House,Furnished
+1554,Vadodara,390023,2,2,4479,Subhanpura,Flat,Furnished
+1555,Vadodara,390023,2,2,4416,Subhanpura,Flat,Unfurnished
+1556,Vadodara,390023,2,2,3187,Subhanpura,Flat,Furnished
+1557,Vadodara,390023,2,2,5455,Subhanpura,Flat,Furnished
+1558,Vadodara,390023,3,2,5779,Subhanpura,House,Unfurnished
+1559,Vadodara,390023,1,2,2900,Subhanpura,Builder Floor,Unfurnished
+1560,Vadodara,390023,1,2,2556,Subhanpura,Builder Floor,Furnished
+1561,Vadodara,390023,3,2,6218,Subhanpura,House,Furnished
+1562,Vadodara,390023,1,2,5000,Subhanpura,Flat,Furnished
+1563,Vadodara,390023,2,2,3571,Subhanpura,Flat,Furnished
+1564,Vadodara,390023,1,2,3472,Subhanpura,Flat,Unfurnished
+1565,Vadodara,390023,2,2,3506,Subhanpura,Flat,Furnished
+1566,Vadodara,390023,2,2,5488,Subhanpura,Flat,Furnished
+1567,Vadodara,390023,1,2,2548,Subhanpura,Builder Floor,Furnished
+1568,Vadodara,390023,2,2,5538,Subhanpura,Flat,Furnished
+1569,Vadodara,390023,2,2,3810,Subhanpura,Flat,Furnished
+1570,Vadodara,390023,2,3,8500,Subhanpura,House,Furnished
+1571,Vadodara,390023,3,3,4646,Subhanpura,Flat,Furnished
+1572,Vadodara,390023,3,3,3358,Subhanpura,Flat,Furnished
+1573,Vadodara,390023,3,3,6833,Subhanpura,Villa,Furnished
+1574,Vadodara,390023,2,3,4000,Subhanpura,Flat,Furnished
+1575,Vadodara,390023,3,3,7273,Subhanpura,Villa,Furnished
+1576,Vadodara,390023,3,3,9195,Subhanpura,House,Furnished
+1577,Vadodara,390023,3,3,5000,Subhanpura,Flat,Furnished
+1578,Vadodara,390023,3,3,5359,Subhanpura,Flat,Furnished
+1579,Vadodara,390023,4,3,9615,Subhanpura,Flat,Furnished
+1580,Vadodara,390023,3,3,10733,Subhanpura,Villa,Furnished
+1581,Vadodara,390023,3,3,7391,Subhanpura,Flat,Furnished
+1582,Vadodara,390023,3,3,3586,Subhanpura,Builder Floor,Furnished
+1583,Vadodara,390023,3,3,4444,Subhanpura,Flat,Furnished
+1584,Vadodara,390023,3,3,5200,Subhanpura,Flat,Unfurnished
+1585,Vadodara,390023,3,3,4167,Subhanpura,Flat,Furnished
+1586,Vadodara,390023,2,3,6000,Subhanpura,House,Furnished
+1587,Vadodara,390023,3,3,6296,Subhanpura,House,Furnished
+1588,Vadodara,390023,3,3,7846,Subhanpura,House,Furnished
+1589,Vadodara,390023,2,3,8750,Subhanpura,House,Unfurnished
+1590,Vadodara,390023,2,3,6129,Subhanpura,House,Furnished
+1591,Vadodara,390023,3,4,3400,Subhanpura,Flat,Furnished
+1592,Vadodara,390023,2,4,9600,Subhanpura,House,Furnished
+1593,Vadodara,390023,3,4,5517,Subhanpura,House,Furnished
+1594,Vadodara,390023,2,4,7778,Subhanpura,House,Unfurnished
+1595,Vadodara,390023,3,4,7540,Subhanpura,House,Furnished
+1596,Vadodara,390023,2,4,4773,Subhanpura,House,Unfurnished
+1597,Vadodara,390023,2,4,4484,Subhanpura,Flat,Furnished
+1598,Vadodara,390023,2,4,4125,Subhanpura,House,Furnished
+1599,Vadodara,390023,2,4,12500,Subhanpura,House,Furnished
+1600,Vadodara,390023,3,4,7222,Subhanpura,Villa,Furnished
+1601,Vadodara,390023,5,5,4455,Subhanpura,House,Furnished
+1602,Vadodara,390023,4,5,5600,Subhanpura,Villa,Furnished
+1603,Vadodara,390023,4,5,6900,Subhanpura,Villa,Furnished
+1604,Vadodara,390022,2,2,3765,Sun Pharma Road,Flat,Unfurnished
+1605,Vadodara,390022,2,2,4000,Sun Pharma Road,Flat,Furnished
+1606,Vadodara,390022,2,2,2467,Sun Pharma Road,Flat,Furnished
+1607,Vadodara,390022,1,2,6133,Sun Pharma Road,House,Furnished
+1608,Vadodara,390022,3,3,4062,Sun Pharma Road,Flat,Furnished
+1609,Vadodara,390022,4,3,2389,Sun Pharma Road,Flat,Unfurnished
+1610,Vadodara,390022,3,3,3571,Sun Pharma Road,Flat,Furnished
+1611,Vadodara,390022,3,3,3444,Sun Pharma Road,Flat,Furnished
+1612,Vadodara,390022,3,3,5667,Sun Pharma Road,Flat,Furnished
+1613,Vadodara,390022,3,3,3750,Sun Pharma Road,Flat,Furnished
+1614,Vadodara,390022,3,3,3462,Sun Pharma Road,Flat,Furnished
+1615,Vadodara,390022,3,3,2391,Sun Pharma Road,Flat,Furnished
+1616,Vadodara,390022,3,3,4643,Sun Pharma Road,Flat,Furnished
+1617,Vadodara,390022,3,4,9322,Sun Pharma Road,House,Furnished
+1618,Vadodara,390022,4,4,8427,Sun Pharma Road,Villa,Unfurnished
+1619,Vadodara,390022,3,4,12277,Sun Pharma Road,House,Furnished
+1620,Vadodara,390022,3,4,6667,Sun Pharma Road,House,Furnished
+1621,Vadodara,390022,3,3,3321,Suryanagar,House,Furnished
+1622,Vadodara,390022,4,4,7353,Suvarnapuri Society,House,Furnished
+1623,Vadodara,390022,3,4,2857,Suvernapuri Society Chikuwadi Alkapuri,Flat,Unfurnished
+1624,Vadodara,390022,1,1,4545,Tandalja,Flat,Unfurnished
+1625,Vadodara,390022,1,2,5909,Tandalja,Villa,Furnished
+1626,Vadodara,390022,2,2,5625,Tandalja,Flat,Furnished
+1627,Vadodara,390022,2,2,4242,Tandalja,Flat,Furnished
+1628,Vadodara,390022,2,2,3733,Tandalja,Flat,Furnished
+1629,Vadodara,390022,2,2,3043,Tandalja,Flat,Furnished
+1630,Vadodara,390022,3,3,6884,Tandalja,Flat,Furnished
+1631,Vadodara,390022,2,3,5714,Tandalja,House,Furnished
+1632,Vadodara,390022,3,3,5500,Tandalja,Flat,Unfurnished
+1633,Vadodara,390022,3,3,6542,Tandalja,Flat,Furnished
+1634,Vadodara,390022,3,3,6167,Tandalja,Flat,Furnished
+1635,Vadodara,390022,3,3,11714,Tandalja,Flat,Furnished
+1636,Vadodara,390022,3,3,6019,Tandalja,Flat,Furnished
+1637,Vadodara,390022,3,3,4417,Tandalja,Flat,Furnished
+1638,Vadodara,390022,2,3,2465,Tandalja,Flat,Furnished
+1639,Vadodara,390022,2,3,2500,Tandalja,Flat,Furnished
+1640,Vadodara,390022,3,3,3377,Tandalja,Flat,Unfurnished
+1641,Vadodara,390022,3,3,4948,Tandalja,Flat,Furnished
+1642,Vadodara,390022,4,4,3116,Tandalja,Flat,Furnished
+1643,Vadodara,390022,3,4,4615,Tandalja,Flat,Unfurnished
+1644,Vadodara,390022,4,4,5117,Tandalja,Flat,Furnished
+1645,Vadodara,390022,3,4,12000,Tandalja,House,Furnished
+1646,Vadodara,390022,5,4,4000,Tandalja,House,Furnished
+1647,Vadodara,390022,4,5,4826,Tandalja,House,Furnished
+1648,Vadodara,390009,1,1,4713,Tarsali,Flat,Furnished
+1649,Vadodara,390009,1,1,6349,Tarsali,House,Furnished
+1650,Vadodara,390009,1,1,3370,Tarsali,Flat,Unfurnished
+1651,Vadodara,390009,1,1,4384,Tarsali,Builder Floor,Unfurnished
+1652,Vadodara,390009,1,1,3778,Tarsali,Flat,Furnished
+1653,Vadodara,390009,1,1,2782,Tarsali,Flat,Unfurnished
+1654,Vadodara,390009,1,1,3513,Tarsali,Flat,Unfurnished
+1655,Vadodara,390009,2,2,6055,Tarsali,Flat,Furnished
+1656,Vadodara,390009,2,2,4385,Tarsali,Flat,Unfurnished
+1657,Vadodara,390009,2,2,4593,Tarsali,Flat,Furnished
+1658,Vadodara,390009,1,2,10563,Tarsali,House,Unfurnished
+1659,Vadodara,390009,2,2,2857,Tarsali,Flat,Furnished
+1660,Vadodara,390009,2,2,5133,Tarsali,Flat,Unfurnished
+1661,Vadodara,390009,2,2,3571,Tarsali,Flat,Furnished
+1662,Vadodara,390009,2,2,2696,Tarsali,Flat,Furnished
+1663,Vadodara,390009,2,2,6000,Tarsali,Flat,Furnished
+1664,Vadodara,390009,2,2,4129,Tarsali,Flat,Furnished
+1665,Vadodara,390009,2,2,4110,Tarsali,Flat,Furnished
+1666,Vadodara,390009,2,2,5498,Tarsali,Flat,Furnished
+1667,Vadodara,390009,2,2,2654,Tarsali,Flat,Furnished
+1668,Vadodara,390009,2,2,3385,Tarsali,Flat,Unfurnished
+1669,Vadodara,390009,2,2,6200,Tarsali,House,Furnished
+1670,Vadodara,390009,2,2,5469,Tarsali,Flat,Furnished
+1671,Vadodara,390009,2,2,4091,Tarsali,Builder Floor,Furnished
+1672,Vadodara,390009,2,2,2778,Tarsali,Flat,Unfurnished
+1673,Vadodara,390009,2,2,3125,Tarsali,Flat,Furnished
+1674,Vadodara,390009,1,2,3385,Tarsali,Flat,Furnished
+1675,Vadodara,390009,2,2,5140,Tarsali,Flat,Furnished
+1676,Vadodara,390009,2,2,2976,Tarsali,Flat,Furnished
+1677,Vadodara,390009,2,2,3077,Tarsali,Flat,Furnished
+1678,Vadodara,390009,2,2,3067,Tarsali,Flat,Furnished
+1679,Vadodara,390009,1,2,3286,Tarsali,Flat,Furnished
+1680,Vadodara,390009,2,2,4599,Tarsali,Flat,Furnished
+1681,Vadodara,390009,2,3,3264,Tarsali,Flat,Unfurnished
+1682,Vadodara,390009,3,3,4194,Tarsali,Villa,Furnished
+1683,Vadodara,390009,3,3,6972,Tarsali,Villa,Unfurnished
+1684,Vadodara,390009,2,3,6000,Tarsali,House,Furnished
+1685,Vadodara,390009,3,3,8000,Tarsali,House,Furnished
+1686,Vadodara,390009,3,3,9929,Tarsali,House,Furnished
+1687,Vadodara,390009,3,3,7960,Tarsali,Villa,Furnished
+1688,Vadodara,390009,3,3,4251,Tarsali,Flat,Unfurnished
+1689,Vadodara,390009,4,3,10667,Tarsali,Villa,Furnished
+1690,Vadodara,390009,3,3,4929,Tarsali,Flat,Furnished
+1691,Vadodara,390009,2,3,4662,Tarsali,Flat,Unfurnished
+1692,Vadodara,390009,3,3,2606,Tarsali,House,Furnished
+1693,Vadodara,390009,3,3,3333,Tarsali,Flat,Unfurnished
+1694,Vadodara,390009,3,3,3846,Tarsali,Flat,Unfurnished
+1695,Vadodara,390009,2,3,4444,Tarsali,Flat,Furnished
+1696,Vadodara,390009,2,3,3789,Tarsali,Flat,Furnished
+1697,Vadodara,390009,2,3,2941,Tarsali,Flat,Furnished
+1698,Vadodara,390009,3,3,9048,Tarsali,House,Furnished
+1699,Vadodara,390009,3,4,6044,Tarsali,Villa,Furnished
+1700,Vadodara,390009,4,4,10400,Tarsali,Villa,Furnished
+1701,Vadodara,390009,3,4,8231,Tarsali,House,Furnished
+1702,Vadodara,390009,4,4,5998,Tarsali,House,Unfurnished
+1703,Vadodara,390009,4,4,5556,Tarsali,House,Furnished
+1704,Vadodara,390009,4,4,6167,Tarsali,House,Furnished
+1705,Vadodara,390009,4,5,6170,Tarsali,House,Furnished
+1706,Vadodara,390022,2,2,3057,Tarsali Road,Flat,Furnished
+1707,Vadodara,390022,3,2,4250,Time Square Fatehgunj,Flat,Furnished
+1708,Vadodara,390022,1,1,3750,Undera,House,Unfurnished
+1709,Vadodara,390022,2,2,2706,Undera,Flat,Furnished
+1710,Vadodara,390022,2,2,2500,Undera,Flat,Furnished
+1711,Vadodara,390022,2,2,2413,Undera,Flat,Furnished
+1712,Vadodara,390022,2,2,3294,Undera,Flat,Furnished
+1713,Vadodara,390022,3,3,8500,Undera,House,Furnished
+1714,Vadodara,390022,4,4,4500,Undera,House,Furnished
+1715,Vadodara,390022,3,2,8182,Vadodara,House,Furnished
+1716,Vadodara,390022,2,2,6769,Vadodara,Flat,Furnished
+1717,Vadodara,390022,2,2,5208,Vadodara,Flat,Unfurnished
+1718,Vadodara,390022,2,3,4571,Vadodara,Flat,Furnished
+1719,Vadodara,390022,1,1,3900,Vadsar,Flat,Unfurnished
+1720,Vadodara,390022,2,2,6355,Vadsar,Flat,Furnished
+1721,Vadodara,390022,2,2,3659,Vadsar,Flat,Unfurnished
+1722,Vadodara,390022,2,2,5000,Vadsar,Flat,Unfurnished
+1723,Vadodara,390022,2,2,3923,Vadsar,Flat,Furnished
+1724,Vadodara,390022,3,3,7869,Vadsar,House,Furnished
+1725,Vadodara,390022,3,3,3848,Vadsar,Flat,Furnished
+1726,Vadodara,390022,3,3,5114,Vadsar,Flat,Furnished
+1727,Vadodara,390022,3,3,5126,Vadsar,Flat,Furnished
+1728,Vadodara,390022,3,3,4839,Vadsar,Flat,Furnished
+1729,Vadodara,390022,2,3,9677,Vadsar,House,Furnished
+1730,Vadodara,390022,2,2,2361,Vasant Vihar,Flat,Furnished
+1731,Vadodara,390022,3,3,6875,Vasant Vihar,Flat,Furnished
+1732,Vadodara,390022,3,3,4993,Vasant Vihar,House,Furnished
+1733,Vadodara,390022,4,4,5750,Vasant Vihar,House,Furnished
+1734,Vadodara,390022,2,2,3840,Vasna Road,Flat,Furnished
+1735,Vadodara,390022,2,2,4118,Vasna Road,Flat,Unfurnished
+1736,Vadodara,390022,2,2,4421,Vasna Road,Builder Floor,Furnished
+1737,Vadodara,390022,2,2,7576,Vasna Road,House,Furnished
+1738,Vadodara,390022,1,2,10685,Vasna Road,House,Furnished
+1739,Vadodara,390022,2,2,2688,Vasna Road,Flat,Furnished
+1740,Vadodara,390022,2,2,3646,Vasna Road,Flat,Furnished
+1741,Vadodara,390022,2,2,4103,Vasna Road,Flat,Furnished
+1742,Vadodara,390022,2,2,3526,Vasna Road,Builder Floor,Unfurnished
+1743,Vadodara,390022,2,2,2805,Vasna Road,Flat,Furnished
+1744,Vadodara,390022,2,2,3500,Vasna Road,Flat,Furnished
+1745,Vadodara,390022,3,3,7214,Vasna Road,Flat,Furnished
+1746,Vadodara,390022,3,3,4722,Vasna Road,Flat,Furnished
+1747,Vadodara,390022,3,3,5288,Vasna Road,Flat,Furnished
+1748,Vadodara,390022,3,3,6153,Vasna Road,Flat,Unfurnished
+1749,Vadodara,390022,2,3,3444,Vasna Road,Flat,Furnished
+1750,Vadodara,390022,3,3,6190,Vasna Road,Flat,Unfurnished
+1751,Vadodara,390022,2,3,4000,Vasna Road,Flat,Furnished
+1752,Vadodara,390022,3,3,10606,Vasna Road,Villa,Unfurnished
+1753,Vadodara,390022,3,3,7558,Vasna Road,Builder Floor,Furnished
+1754,Vadodara,390022,3,3,4483,Vasna Road,Flat,Furnished
+1755,Vadodara,390022,3,3,6923,Vasna Road,House,Furnished
+1756,Vadodara,390022,3,3,3750,Vasna Road,Flat,Furnished
+1757,Vadodara,390022,3,3,3462,Vasna Road,Flat,Furnished
+1758,Vadodara,390022,3,3,6000,Vasna Road,Villa,Furnished
+1759,Vadodara,390022,2,3,4400,Vasna Road,Flat,Furnished
+1760,Vadodara,390022,3,3,3662,Vasna Road,Flat,Furnished
+1761,Vadodara,390022,4,4,9796,Vasna Road,House,Furnished
+1762,Vadodara,390022,3,4,8587,Vasna Road,Flat,Furnished
+1763,Vadodara,390022,3,4,5500,Vasna Road,Villa,Furnished
+1764,Vadodara,390022,4,4,3580,Vasna Road,Flat,Furnished
+1765,Vadodara,390022,3,4,4850,Vasna Road,Flat,Furnished
+1766,Vadodara,390022,4,4,11348,Vasna Road,Villa,Furnished
+1767,Vadodara,390022,4,4,11538,Vasna Road,House,Furnished
+1768,Vadodara,390022,4,6,6333,Vasna Road,Flat,Furnished
+1769,Vadodara,390022,1,2,2696,Vasna-Bhayli Road,Flat,Unknown
+1770,Vadodara,390022,2,2,5204,Vasna-Bhayli Road,Flat,Furnished
+1771,Vadodara,390022,2,2,4000,Vasna-Bhayli Road,Flat,Furnished
+1772,Vadodara,390022,2,2,3333,Vasna-Bhayli Road,Flat,Unfurnished
+1773,Vadodara,390022,2,2,3846,Vasna-Bhayli Road,Flat,Unfurnished
+1774,Vadodara,390022,2,2,5067,Vasna-Bhayli Road,Flat,Furnished
+1775,Vadodara,390022,2,2,4487,Vasna-Bhayli Road,Flat,Furnished
+1776,Vadodara,390022,2,2,3111,Vasna-Bhayli Road,Flat,Unfurnished
+1777,Vadodara,390022,2,2,6118,Vasna-Bhayli Road,Flat,Unfurnished
+1778,Vadodara,390022,2,2,4375,Vasna-Bhayli Road,Flat,Unfurnished
+1779,Vadodara,390022,2,2,3182,Vasna-Bhayli Road,Flat,Furnished
+1780,Vadodara,390022,2,2,3406,Vasna-Bhayli Road,Flat,Furnished
+1781,Vadodara,390022,2,2,5556,Vasna-Bhayli Road,Flat,Furnished
+1782,Vadodara,390022,2,2,3600,Vasna-Bhayli Road,Flat,Furnished
+1783,Vadodara,390022,2,2,2419,Vasna-Bhayli Road,Flat,Furnished
+1784,Vadodara,390022,2,2,6250,Vasna-Bhayli Road,Flat,Unfurnished
+1785,Vadodara,390022,3,3,6122,Vasna-Bhayli Road,Flat,Furnished
+1786,Vadodara,390022,3,3,3548,Vasna-Bhayli Road,Flat,Unfurnished
+1787,Vadodara,390022,3,3,4543,Vasna-Bhayli Road,Flat,Furnished
+1788,Vadodara,390022,3,3,11111,Vasna-Bhayli Road,Villa,Furnished
+1789,Vadodara,390022,3,3,5168,Vasna-Bhayli Road,Flat,Unfurnished
+1790,Vadodara,390022,3,3,3889,Vasna-Bhayli Road,Flat,Furnished
+1791,Vadodara,390022,3,3,3824,Vasna-Bhayli Road,Flat,Unfurnished
+1792,Vadodara,390022,2,3,2560,Vasna-Bhayli Road,Builder Floor,Furnished
+1793,Vadodara,390022,3,3,3214,Vasna-Bhayli Road,House,Furnished
+1794,Vadodara,390022,3,3,4667,Vasna-Bhayli Road,Flat,Furnished
+1795,Vadodara,390022,3,3,4509,Vasna-Bhayli Road,Flat,Furnished
+1796,Vadodara,390022,3,3,8000,Vasna-Bhayli Road,Flat,Furnished
+1797,Vadodara,390022,3,3,5625,Vasna-Bhayli Road,Flat,Furnished
+1798,Vadodara,390022,3,3,3750,Vasna-Bhayli Road,Flat,Furnished
+1799,Vadodara,390022,3,3,10408,Vasna-Bhayli Road,Flat,Furnished
+1800,Vadodara,390022,3,3,11017,Vasna-Bhayli Road,Flat,Furnished
+1801,Vadodara,390022,3,3,6111,Vasna-Bhayli Road,Flat,Unfurnished
+1802,Vadodara,390022,3,3,3310,Vasna-Bhayli Road,Flat,Furnished
+1803,Vadodara,390022,3,3,3571,Vasna-Bhayli Road,House,Furnished
+1804,Vadodara,390022,3,3,5773,Vasna-Bhayli Road,Flat,Furnished
+1805,Vadodara,390022,2,3,4918,Vasna-Bhayli Road,Flat,Furnished
+1806,Vadodara,390022,3,3,4000,Vasna-Bhayli Road,Flat,Furnished
+1807,Vadodara,390022,3,3,4571,Vasna-Bhayli Road,House,Unfurnished
+1808,Vadodara,390022,3,3,9504,Vasna-Bhayli Road,Flat,Furnished
+1809,Vadodara,390022,3,3,5000,Vasna-Bhayli Road,House,Furnished
+1810,Vadodara,390022,3,3,4615,Vasna-Bhayli Road,House,Furnished
+1811,Vadodara,390022,3,3,2901,Vasna-Bhayli Road,Flat,Furnished
+1812,Vadodara,390022,3,3,8125,Vasna-Bhayli Road,Flat,Furnished
+1813,Vadodara,390022,3,3,5000,Vasna-Bhayli Road,Flat,Furnished
+1814,Vadodara,390022,2,3,5424,Vasna-Bhayli Road,Flat,Furnished
+1815,Vadodara,390022,3,3,4505,Vasna-Bhayli Road,Flat,Furnished
+1816,Vadodara,390022,3,3,7353,Vasna-Bhayli Road,Flat,Furnished
+1817,Vadodara,390022,3,3,5143,Vasna-Bhayli Road,Flat,Furnished
+1818,Vadodara,390022,3,3,6282,Vasna-Bhayli Road,Flat,Unfurnished
+1819,Vadodara,390022,3,3,8294,Vasna-Bhayli Road,Flat,Unfurnished
+1820,Vadodara,390022,4,4,5882,Vasna-Bhayli Road,Flat,Furnished
+1821,Vadodara,390022,5,4,6087,Vasna-Bhayli Road,Flat,Furnished
+1822,Vadodara,390022,5,4,4696,Vasna-Bhayli Road,Flat,Unfurnished
+1823,Vadodara,390022,4,4,7692,Vasna-Bhayli Road,House,Furnished
+1824,Vadodara,390022,4,4,10000,Vasna-Bhayli Road,Flat,Furnished
+1825,Vadodara,390022,4,4,10543,Vasna-Bhayli Road,Villa,Furnished
+1826,Vadodara,390022,4,4,7022,Vasna-Bhayli Road,Flat,Unfurnished
+1827,Vadodara,390022,4,4,7515,Vasna-Bhayli Road,Flat,Unfurnished
+1828,Vadodara,390022,5,5,9335,Vasna-Bhayli Road,Villa,Furnished
+1829,Vadodara,390022,5,5,3889,Vasna-Bhayli Road,House,Unfurnished
+1830,Vadodara,390022,3,6,4545,Vasna-Bhayli Road,Flat,Unfurnished
+1831,Vadodara,390022,5,6,8835,Vasna-Bhayli Road,Villa,Furnished
+1832,Vadodara,390022,10,6,9615,Vasna-Bhayli Road,Villa,Furnished
+1833,Vadodara,390022,3,3,4500,Ved Residency Soma Talav,Flat,Furnished
+1834,Vadodara,390022,1,1,5882,Vemali,Flat,Furnished
+1835,Vadodara,390022,1,1,4358,Vemali,Builder Floor,Furnished
+1836,Vadodara,390022,1,1,3800,Vemali,Flat,Furnished
+1837,Vadodara,390022,1,1,3636,Vemali,Flat,Unfurnished
+1838,Vadodara,390022,2,2,6933,Vemali,Flat,Furnished
+1839,Vadodara,390022,2,2,4861,Vemali,Builder Floor,Unfurnished
+1840,Vadodara,390022,2,2,3783,Vemali,Flat,Furnished
+1841,Vadodara,390022,2,2,3600,Vemali,Flat,Furnished
+1842,Vadodara,390022,2,2,4500,Vemali,Flat,Furnished
+1843,Vadodara,390022,2,2,3659,Vemali,Flat,Furnished
+1844,Vadodara,390022,3,3,4576,Vemali,House,Unfurnished
+1845,Vadodara,390022,3,3,6138,Vemali,House,Furnished
+1846,Vadodara,390022,3,3,3000,Vemali,Builder Floor,Unfurnished
+1847,Vadodara,390022,5,5,10000,Vemali,House,Furnished
+1848,Vadodara,390022,1,1,2750,Verai Mata Chock,Flat,Unfurnished
+1849,Vadodara,390022,2,4,7684,Viharika Park Society,House,Furnished
+1850,Vadodara,390022,1,1,3333,Vijay Nagar,Builder Floor,Furnished
+1851,Vadodara,390022,2,2,6500,Vip Road,Flat,Furnished
+1852,Vadodara,390022,2,2,3300,Vip Road,Flat,Furnished
+1853,Vadodara,390022,3,3,2909,Virod,Flat,Unfurnished
+1854,Vadodara,390022,2,2,8182,Vishwas Colony,Flat,Furnished
+1855,Vadodara,390022,3,3,6833,Vishwas Colony,Flat,Furnished
+1856,Vadodara,390022,2,3,9375,Vraj Dham Society,House,Unfurnished
+1857,Vadodara,390022,2,2,2857,Vrundavan,Flat,Unfurnished
+1858,Vadodara,390022,1,1,2667,Wadi,Flat,Furnished
+1859,Vadodara,390022,1,1,4000,Wadi,Flat,Unfurnished
+1860,Vadodara,390025,1,1,3385,Waghodia,Flat,Furnished
+1861,Vadodara,390025,1,1,4726,Waghodia,Flat,Furnished
+1862,Vadodara,390025,1,1,7759,Waghodia,Flat,Furnished
+1863,Vadodara,390025,1,1,6340,Waghodia,Flat,Furnished
+1864,Vadodara,390025,1,1,4186,Waghodia,Flat,Furnished
+1865,Vadodara,390025,2,2,4559,Waghodia,Flat,Furnished
+1866,Vadodara,390025,2,2,5526,Waghodia,House,Furnished
+1867,Vadodara,390025,2,2,4923,Waghodia,Flat,Furnished
+1868,Vadodara,390025,2,2,3647,Waghodia,Flat,Furnished
+1869,Vadodara,390025,2,2,5034,Waghodia,Flat,Furnished
+1870,Vadodara,390025,2,2,4632,Waghodia,House,Furnished
+1871,Vadodara,390025,2,2,4478,Waghodia,Flat,Furnished
+1872,Vadodara,390025,2,3,5517,Waghodia,House,Unfurnished
+1873,Vadodara,390019,1,1,11000,Waghodia Road,Villa,Furnished
+1874,Vadodara,390019,1,1,5905,Waghodia Road,House,Unfurnished
+1875,Vadodara,390019,1,1,3797,Waghodia Road,Flat,Unfurnished
+1876,Vadodara,390019,1,1,3827,Waghodia Road,Builder Floor,Unfurnished
+1877,Vadodara,390019,1,1,2786,Waghodia Road,Flat,Unfurnished
+1878,Vadodara,390019,1,1,2429,Waghodia Road,Builder Floor,Unfurnished
+1879,Vadodara,390019,1,1,5641,Waghodia Road,House,Unfurnished
+1880,Vadodara,390019,2,1,3385,Waghodia Road,Flat,Furnished
+1881,Vadodara,390019,1,1,5301,Waghodia Road,House,Unfurnished
+1882,Vadodara,390019,1,1,4709,Waghodia Road,House,Unfurnished
+1883,Vadodara,390019,1,1,3690,Waghodia Road,Builder Floor,Furnished
+1884,Vadodara,390019,2,2,3830,Waghodia Road,Flat,Furnished
+1885,Vadodara,390019,2,2,4000,Waghodia Road,Flat,Furnished
+1886,Vadodara,390019,2,2,5368,Waghodia Road,Flat,Unfurnished
+1887,Vadodara,390019,2,2,4658,Waghodia Road,Flat,Furnished
+1888,Vadodara,390019,2,2,4118,Waghodia Road,Flat,Furnished
+1889,Vadodara,390019,2,2,4500,Waghodia Road,Flat,Furnished
+1890,Vadodara,390019,2,2,3634,Waghodia Road,Flat,Furnished
+1891,Vadodara,390019,1,2,3769,Waghodia Road,Flat,Unfurnished
+1892,Vadodara,390019,1,2,3000,Waghodia Road,Flat,Furnished
+1893,Vadodara,390019,1,2,7778,Waghodia Road,House,Unfurnished
+1894,Vadodara,390019,2,2,3600,Waghodia Road,Flat,Furnished
+1895,Vadodara,390019,1,2,5261,Waghodia Road,House,Furnished
+1896,Vadodara,390019,2,2,5789,Waghodia Road,House,Unfurnished
+1897,Vadodara,390019,2,2,2883,Waghodia Road,Flat,Furnished
+1898,Vadodara,390019,2,2,2609,Waghodia Road,Flat,Furnished
+1899,Vadodara,390019,2,2,3706,Waghodia Road,Flat,Unfurnished
+1900,Vadodara,390019,2,2,4110,Waghodia Road,Flat,Unfurnished
+1901,Vadodara,390019,2,2,2991,Waghodia Road,Flat,Furnished
+1902,Vadodara,390019,2,2,3297,Waghodia Road,Flat,Unfurnished
+1903,Vadodara,390019,2,2,3538,Waghodia Road,Flat,Unfurnished
+1904,Vadodara,390019,2,2,5806,Waghodia Road,Flat,Furnished
+1905,Vadodara,390019,2,2,3636,Waghodia Road,Builder Floor,Furnished
+1906,Vadodara,390019,2,2,5778,Waghodia Road,House,Furnished
+1907,Vadodara,390019,2,2,2308,Waghodia Road,House,Furnished
+1908,Vadodara,390019,2,2,3200,Waghodia Road,Flat,Unfurnished
+1909,Vadodara,390019,2,2,3548,Waghodia Road,Flat,Furnished
+1910,Vadodara,390019,2,2,3500,Waghodia Road,Flat,Unfurnished
+1911,Vadodara,390019,3,2,2619,Waghodia Road,House,Unfurnished
+1912,Vadodara,390019,2,2,3471,Waghodia Road,Flat,Furnished
+1913,Vadodara,390019,2,2,3071,Waghodia Road,Flat,Furnished
+1914,Vadodara,390019,2,2,5000,Waghodia Road,Flat,Furnished
+1915,Vadodara,390019,2,2,2694,Waghodia Road,Flat,Furnished
+1916,Vadodara,390019,2,2,3782,Waghodia Road,Flat,Unfurnished
+1917,Vadodara,390019,1,2,4587,Waghodia Road,House,Unknown
+1918,Vadodara,390019,2,2,3048,Waghodia Road,Flat,Furnished
+1919,Vadodara,390019,2,2,3954,Waghodia Road,Flat,Furnished
+1920,Vadodara,390019,2,2,4054,Waghodia Road,Flat,Furnished
+1921,Vadodara,390019,2,2,5774,Waghodia Road,House,Furnished
+1922,Vadodara,390019,2,2,5083,Waghodia Road,Flat,Unfurnished
+1923,Vadodara,390019,2,2,3219,Waghodia Road,Flat,Furnished
+1924,Vadodara,390019,2,2,2762,Waghodia Road,Flat,Furnished
+1925,Vadodara,390019,3,3,5250,Waghodia Road,House,Unfurnished
+1926,Vadodara,390019,3,3,6207,Waghodia Road,House,Furnished
+1927,Vadodara,390019,3,3,6400,Waghodia Road,House,Furnished
+1928,Vadodara,390019,3,3,11630,Waghodia Road,House,Furnished
+1929,Vadodara,390019,3,3,7586,Waghodia Road,House,Furnished
+1930,Vadodara,390019,3,3,12000,Waghodia Road,Villa,Furnished
+1931,Vadodara,390019,3,3,6452,Waghodia Road,Villa,Unfurnished
+1932,Vadodara,390019,3,3,3362,Waghodia Road,Flat,Furnished
+1933,Vadodara,390019,2,3,12500,Waghodia Road,Villa,Furnished
+1934,Vadodara,390019,3,3,8252,Waghodia Road,House,Unfurnished
+1935,Vadodara,390019,3,3,8235,Waghodia Road,Villa,Unfurnished
+1936,Vadodara,390019,3,3,3594,Waghodia Road,House,Unfurnished
+1937,Vadodara,390019,3,3,4500,Waghodia Road,House,Furnished
+1938,Vadodara,390019,3,3,3444,Waghodia Road,Flat,Unfurnished
+1939,Vadodara,390019,2,3,4520,Waghodia Road,Flat,Furnished
+1940,Vadodara,390019,3,3,12486,Waghodia Road,House,Furnished
+1941,Vadodara,390019,3,3,5385,Waghodia Road,Flat,Furnished
+1942,Vadodara,390019,3,3,4995,Waghodia Road,House,Furnished
+1943,Vadodara,390019,4,3,4667,Waghodia Road,House,Furnished
+1944,Vadodara,390019,3,3,3819,Waghodia Road,House,Furnished
+1945,Vadodara,390019,3,3,6842,Waghodia Road,Villa,Unfurnished
+1946,Vadodara,390019,3,3,5385,Waghodia Road,Villa,Furnished
+1947,Vadodara,390019,3,3,2571,Waghodia Road,Flat,Furnished
+1948,Vadodara,390019,3,3,8974,Waghodia Road,House,Furnished
+1949,Vadodara,390019,3,3,4762,Waghodia Road,Villa,Furnished
+1950,Vadodara,390019,3,3,6986,Waghodia Road,Flat,Unfurnished
+1951,Vadodara,390019,3,3,4857,Waghodia Road,Villa,Furnished
+1952,Vadodara,390019,2,3,2500,Waghodia Road,Flat,Unfurnished
+1953,Vadodara,390019,2,3,6250,Waghodia Road,Villa,Unfurnished
+1954,Vadodara,390019,2,3,6250,Waghodia Road,House,Furnished
+1955,Vadodara,390019,3,3,7042,Waghodia Road,House,Unfurnished
+1956,Vadodara,390019,2,3,3240,Waghodia Road,Flat,Unfurnished
+1957,Vadodara,390019,3,3,5882,Waghodia Road,House,Unfurnished
+1958,Vadodara,390019,2,3,6522,Waghodia Road,House,Unfurnished
+1959,Vadodara,390019,2,3,9000,Waghodia Road,House,Furnished
+1960,Vadodara,390019,3,3,4743,Waghodia Road,House,Furnished
+1961,Vadodara,390019,3,3,6021,Waghodia Road,House,Furnished
+1962,Vadodara,390019,3,3,5293,Waghodia Road,House,Unfurnished
+1963,Vadodara,390019,3,3,6938,Waghodia Road,House,Unfurnished
+1964,Vadodara,390019,3,3,6087,Waghodia Road,House,Unfurnished
+1965,Vadodara,390019,3,3,4828,Waghodia Road,Flat,Unfurnished
+1966,Vadodara,390019,3,3,3929,Waghodia Road,Flat,Furnished
+1967,Vadodara,390019,3,4,2720,Waghodia Road,House,Unfurnished
+1968,Vadodara,390019,4,4,7733,Waghodia Road,House,Furnished
+1969,Vadodara,390019,4,4,4632,Waghodia Road,Flat,Unfurnished
+1970,Vadodara,390019,3,4,5000,Waghodia Road,House,Furnished
+1971,Vadodara,390019,5,4,4636,Waghodia Road,Villa,Unfurnished
+1972,Vadodara,390019,4,4,10000,Waghodia Road,Villa,Unfurnished
+1973,Vadodara,390019,3,4,4600,Waghodia Road,House,Furnished
+1974,Vadodara,390019,4,4,7727,Waghodia Road,Villa,Furnished
+1975,Vadodara,390019,3,4,6818,Waghodia Road,Villa,Furnished
+1976,Vadodara,390019,3,4,8946,Waghodia Road,Villa,Furnished
+1977,Vadodara,390019,4,4,6787,Waghodia Road,Villa,Furnished
+1978,Vadodara,390019,3,4,7941,Waghodia Road,House,Unfurnished
+1979,Vadodara,390019,3,4,8947,Waghodia Road,Villa,Furnished
+1980,Vadodara,390019,2,4,4250,Waghodia Road,House,Furnished
+1981,Vadodara,390019,4,4,5629,Waghodia Road,Villa,Furnished
+1982,Vadodara,390019,4,4,4235,Waghodia Road,House,Furnished
+1983,Vadodara,390019,4,4,3600,Waghodia Road,House,Furnished
+1984,Vadodara,390019,3,4,4474,Waghodia Road,House,Furnished
+1985,Vadodara,390019,4,5,11667,Waghodia Road,Villa,Furnished
+1986,Vadodara,390019,5,5,5882,Waghodia Road,House,Unfurnished
+1987,Vadodara,390019,7,6,11033,Waghodia Road,Villa,Furnished
+1988,Vadodara,390022,3,3,4563,Warasiya,House,Unfurnished
+1989,Vadodara,390022,2,4,4566,Warasiya,Flat,Unfurnished
+1990,Vadodara,390022,3,5,9000,Warasiya,Villa,Furnished
+1991,Vadodara,390022,4,5,5714,Warasiya,House,Furnished
+1992,Vadodara,390022,1,1,2667,Welcome Apartment,Flat,Furnished
+1993,Vadodara,390022,2,2,2785,Yakutpura,Flat,Unfurnished
+1994,Vadodara,390022,3,3,2569,Yakutpura,House,Furnished
+1995,Vadodara,390022,2,2,3133,Zavernagar,Flat,Furnished
+1996,Vadodara,390022,2,3,3810,Zavernagar,Flat,Furnished
