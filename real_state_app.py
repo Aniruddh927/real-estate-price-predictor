@@ -81,9 +81,9 @@ def logout():
 FALLBACK_AREA_ZIPS = {
     "Fatehgunj": [390002], "Nizampura": [390002], "Diwalipura": [390002],
     "Vasna": [390007], "Alkapuri": [390007], "Sama": [390024], "Tarsali": [390009],
-    "Makarpura": [390010], "Manjalpur": [390011], "Karelibaug": [390018],
+    "Makarpura": [390014], "Manjalpur": [390011], "Karelibaug": [390018],
     "Waghodia Road": [390025], "Akota": [390020], "Gotri": [390021],
-    "Harni": [390022], "New VIP Road": [390018], "Amit Nagar": [390023],
+    "Harni": [390022], "New VIP Road": [390021], "Amit Nagar": [390018],
     "Bhayli": [391410],
 }
 
