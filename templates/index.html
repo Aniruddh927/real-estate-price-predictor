@@ -186,7 +186,7 @@
       <label for="city">City</label>
       <input type="text" id="city" name="city" value="Vadodara" required>
 
-      <label for="area_name">Area</label>
+      <label for="area_name">Area (auto-filled from pincode)</label>
       <select id="area_name" name="area_name" required>
         <option value="Fatehgunj">Fatehgunj</option>
         <option value="Nizampura">Nizampura</option>
@@ -209,6 +209,7 @@
 
       <label for="zipcode">Zip code</label>
       <input type="number" id="zipcode" name="zipcode" placeholder="e.g. 390007" required>
+      <p id="zip-feedback" class="empty-note" style="display:none;"></p>
 
       <label for="bedroom">Bedrooms</label>
       <input type="number" id="bedroom" name="bedroom" min="1" max="10" value="2" required>
@@ -233,6 +234,7 @@
 
       <button class="submit" type="submit">Get estimate</button>
     </form>
+    <p id="area-zip-hint" class="empty-note" style="display:none;"></p>
 
     {% if prediction is defined and prediction is not none %}
     <div class="result-block">
@@ -279,6 +281,85 @@
     {% endif %}
   </section>
 </main>
+
+<script>
+  // Pincode <-> area lookup against the live dataset.
+  (function () {
+    var areaSelect = document.getElementById('area_name');
+    var zipInput = document.getElementById('zipcode');
+    var feedback = document.getElementById('zip-feedback');
+    var zipHint = document.getElementById('area-zip-hint');
+    var defaultOptions = Array.prototype.slice.call(areaSelect.options);
+
+    function showFeedback(text, ok) {
+      feedback.textContent = text;
+      feedback.style.display = text ? '' : 'none';
+      feedback.style.color = ok ? 'var(--moss-dark)' : 'var(--clay)';
+    }
+
+    function setAreas(areas) {
+      areaSelect.innerHTML = '';
+      areas.forEach(function (a) {
+        var opt = document.createElement('option');
+        opt.value = a;
+        opt.textContent = a;
+        areaSelect.appendChild(opt);
+      });
+      areaSelect.disabled = areas.length === 0;
+    }
+
+    function restoreDefaultAreas() {
+      areaSelect.innerHTML = '';
+      defaultOptions.forEach(function (o) { areaSelect.appendChild(o); });
+      areaSelect.disabled = false;
+    }
+
+    var timer = null;
+    zipInput.addEventListener('input', function () {
+      clearTimeout(timer);
+      var zip = zipInput.value.trim();
+      if (zip.length < 5) {
+        restoreDefaultAreas();
+        showFeedback('', true);
+        return;
+      }
+      timer = setTimeout(function () {
+        fetch('/api/area_lookup?zip=' + encodeURIComponent(zip))
+          .then(function (r) { return r.json(); })
+          .then(function (data) {
+            if (data.found && data.areas.length) {
+              setAreas(data.areas);
+              showFeedback('Pincode ' + zip + ' → area: ' + data.areas.join(', '), true);
+            } else {
+              restoreDefaultAreas();
+              showFeedback('Pincode ' + zip + ' not found in our data. Try 390001–390025, 391410, 391740.', false);
+            }
+          })
+          .catch(function () {
+            restoreDefaultAreas();
+            showFeedback('Could not look up pincode. Please pick an area manually.', false);
+          });
+      }, 180);
+    });
+
+    areaSelect.addEventListener('change', function () {
+      var area = areaSelect.value;
+      if (!area) { zipHint.style.display = 'none'; return; }
+      fetch('/api/area_lookup?area=' + encodeURIComponent(area))
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          if (data.found && data.zips.length) {
+            zipHint.textContent = 'Pincode' + (data.zips.length > 1 ? 's' : '') + ' for ' + area + ': ' + data.zips.join(', ');
+            zipHint.style.display = '';
+            zipHint.style.color = 'var(--moss-dark)';
+          } else {
+            zipHint.style.display = 'none';
+          }
+        })
+        .catch(function () { zipHint.style.display = 'none'; });
+    });
+  })();
+</script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>

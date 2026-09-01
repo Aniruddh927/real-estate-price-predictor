@@ -1,7 +1,7 @@
 import json
 import os
 
-from flask import Flask, render_template, request, redirect, url_for, session
+from flask import Flask, render_template, request, redirect, url_for, session, jsonify
 from model import predict_price
 from nearest_houses import find_nearest_houses
 from vadodara_coordinates import get_coordinates
@@ -73,6 +73,25 @@ def login():
 def logout():
     session.clear()
     return redirect(url_for('login'))
+
+
+@app.route("/api/area_lookup")
+def area_lookup():
+    """Map pincode -> areas (or area -> pincodes) from the live dataset."""
+    if 'user_id' not in session:
+        return jsonify({"found": False, "areas": [], "zips": []})
+    area = request.args.get("area")
+    if area:
+        zips = df[df["area_name"] == area]["zip code"].dropna().unique()
+        zips = sorted(int(z) for z in zips)
+        return jsonify({"found": len(zips) > 0, "areas": [], "zips": zips})
+    try:
+        zipcode = int(request.args.get("zip", ""))
+    except (TypeError, ValueError):
+        return jsonify({"found": False, "areas": [], "zips": []})
+    areas = df[df["zip code"] == zipcode]["area_name"].dropna().unique()
+    areas = sorted(str(a) for a in areas)
+    return jsonify({"found": len(areas) > 0, "areas": areas, "zips": []})
 
 
 @app.route("/predict", methods=["POST"])
