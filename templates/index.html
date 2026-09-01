@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vadodara Home Price Finder</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<style>
+  :root {
+    --ink: #1f2a24;
+    --paper: #f6f3ec;
+    --panel: #ffffff;
+    --line: #dedad0;
+    --moss: #3d5a45;
+    --moss-dark: #2b4032;
+    --clay: #b5651d;
+    --muted: #6b6459;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background: var(--paper);
+    color: var(--ink);
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 22px 40px;
+    border-bottom: 1px solid var(--line);
+  }
+  header h1 {
+    font-size: 1.35rem;
+    margin: 0;
+    letter-spacing: 0.2px;
+  }
+  header .place {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+  .user-line {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.9rem;
+    color: var(--muted);
+  }
+  .user-line a { color: var(--moss-dark); text-decoration: none; margin-left: 12px; }
+
+  main {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 32px 40px 64px;
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 32px;
+  }
+  @media (max-width: 800px) {
+    main { grid-template-columns: 1fr; padding: 24px 20px 48px; }
+  }
+
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 24px;
+  }
+
+  .search-panel h2 {
+    font-size: 1.05rem;
+    margin: 0 0 4px;
+  }
+  .search-panel p.hint {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.82rem;
+    color: var(--muted);
+    margin: 0 0 20px;
+  }
+
+  label {
+    display: block;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin: 14px 0 5px;
+  }
+  input, select {
+    width: 100%;
+    padding: 9px 10px;
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.92rem;
+    background: #fdfcf9;
+  }
+  input:focus, select:focus {
+    outline: 2px solid var(--moss);
+    outline-offset: 1px;
+  }
+  button.submit {
+    margin-top: 22px;
+    width: 100%;
+    padding: 11px 0;
+    background: var(--moss);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.92rem;
+    cursor: pointer;
+  }
+  button.submit:hover { background: var(--moss-dark); }
+
+  .result-block {
+    margin-top: 26px;
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+  }
+  .result-block .price {
+    font-size: 1.9rem;
+    color: var(--clay);
+    margin: 4px 0 2px;
+  }
+  .result-block .price-label {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+
+  #map {
+    height: 420px;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid var(--line);
+  }
+
+  .listings h3 {
+    font-size: 0.98rem;
+    margin: 26px 0 10px;
+  }
+  table.listings-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.86rem;
+  }
+  table.listings-table th, table.listings-table td {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--line);
+  }
+  table.listings-table th {
+    color: var(--muted);
+    font-weight: 500;
+  }
+
+  .empty-note {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: var(--muted);
+    font-size: 0.88rem;
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Vadodara Home Price Finder</h1>
+    <div class="place">price-per-sqft estimates &amp; nearby listings</div>
+  </div>
+  <div class="user-line">
+    {% if user_name %}Signed in as {{ user_name }}<a href="{{ url_for('logout') }}">Log out</a>{% endif %}
+  </div>
+</header>
+
+<main>
+  <section class="panel search-panel">
+    <h2>Estimate a price</h2>
+    <p class="hint">Enter a locality and layout to get a price-per-sqft estimate and see comparable available houses nearby.</p>
+
+    <form method="POST" action="{{ url_for('predict') }}">
+      <label for="city">City</label>
+      <input type="text" id="city" name="city" value="Vadodara" required>
+
+      <label for="area_name">Area</label>
+      <select id="area_name" name="area_name" required>
+        <option value="Fatehgunj">Fatehgunj</option>
+        <option value="Nizampura">Nizampura</option>
+        <option value="Diwalipura">Diwalipura</option>
+        <option value="Vasna">Vasna</option>
+        <option value="Alkapuri">Alkapuri</option>
+        <option value="Sama">Sama</option>
+        <option value="Tarsali">Tarsali</option>
+        <option value="Makarpura">Makarpura</option>
+        <option value="Manjalpur">Manjalpur</option>
+        <option value="Karelibaug">Karelibaug</option>
+        <option value="Waghodia Road">Waghodia Road</option>
+        <option value="Akota">Akota</option>
+        <option value="Gotri">Gotri</option>
+        <option value="Harni">Harni</option>
+        <option value="New VIP Road">New VIP Road</option>
+        <option value="Amit Nagar">Amit Nagar</option>
+        <option value="Bhayli">Bhayli</option>
+      </select>
+
+      <label for="zipcode">Zip code</label>
+      <input type="number" id="zipcode" name="zipcode" placeholder="e.g. 390007" required>
+
+      <label for="bedroom">Bedrooms</label>
+      <input type="number" id="bedroom" name="bedroom" min="1" max="10" value="2" required>
+
+      <label for="bathroom">Bathrooms</label>
+      <input type="number" id="bathroom" name="bathroom" min="1" max="10" value="2" required>
+
+      <button class="submit" type="submit">Get estimate</button>
+    </form>
+
+    {% if prediction is defined and prediction is not none %}
+    <div class="result-block">
+      <div class="price-label">Estimated price per sqft</div>
+      <div class="price">₹{{ "%.0f"|format(prediction) }}</div>
+    </div>
+    {% endif %}
+  </section>
+
+  <section class="panel">
+    <h2 style="font-size:1.05rem; margin:0 0 14px;">Nearby available houses</h2>
+    <div id="map"></div>
+
+    {% if nearest_houses %}
+    <div class="listings">
+      <h3>Closest matches ({{ nearest_houses|length }})</h3>
+      <table class="listings-table">
+        <thead>
+          <tr>
+            <th>Area</th>
+            <th>Zip</th>
+            <th>Beds</th>
+            <th>Baths</th>
+            <th>₹/sqft</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for h in nearest_houses %}
+          <tr>
+            <td>{{ h.area_name }}</td>
+            <td>{{ h.zip_code }}</td>
+            <td>{{ h.bedroom }}</td>
+            <td>{{ h.bathroom }}</td>
+            <td>{{ h.price_per_sqft }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% elif prediction is defined and prediction is not none %}
+    <p class="empty-note">No comparable listings found for that zip code or city yet.</p>
+    {% else %}
+    <p class="empty-note">Run an estimate to see nearby available houses on the map.</p>
+    {% endif %}
+  </section>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+  const searchLocation = {{ search_location_json|default('null')|safe }};
+  const nearestHouses = {{ nearest_houses_json|default('[]')|safe }};
+
+  const defaultCenter = [22.3072, 73.1812]; // Vadodara city centre
+  const map = L.map('map').setView(
+    searchLocation ? [searchLocation.lat, searchLocation.lon] : defaultCenter,
+    searchLocation ? 14 : 12
+  );
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 19
+  }).addTo(map);
+
+  if (searchLocation) {
+    L.marker([searchLocation.lat, searchLocation.lon], {
+      title: 'Your search'
+    }).addTo(map)
+      .bindPopup(
+        `<strong>${searchLocation.area_name}</strong><br>` +
+        `Estimated ₹${searchLocation.predicted_price}/sqft`
+      )
+      .openPopup();
+  }
+
+  nearestHouses.forEach(function (house) {
+    L.circleMarker([house.lat, house.lon], {
+      radius: 7,
+      color: '#3d5a45',
+      fillColor: '#3d5a45',
+      fillOpacity: 0.75
+    }).addTo(map).bindPopup(
+      `<strong>${house.area_name}</strong><br>` +
+      `${house.bedroom} bed / ${house.bathroom} bath<br>` +
+      `₹${house.price_per_sqft}/sqft`
+    );
+  });
+</script>
+
+</body>
+</html>

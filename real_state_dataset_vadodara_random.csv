@@ -1,0 +1,1501 @@
+sr no,city,zip code,No Bathroom,No bedroom,price  per squrefoot,area_name
+1,Vadodara,390002,,1,2505,Fatehgunj
+2,Vadodara,390011,1.0,1,2408,Manjalpur
+3,Vadodara,390022,1.0,3,2538,Harni
+4,Vadodara,390022,2.0,2,2377,Amit Nagar
+5,Vadodara,390022,2.0,3,2349,Amit Nagar
+6,Vadodara,390021,1.0,1,2599,Gotri
+7,Vadodara,390002,1.0,2,2642,Fatehgunj
+8,Vadodara,390007,1.0,3,2649,Diwalipura
+9,Vadodara,390002,2.0,2,2498,Nizampura
+10,Vadodara,390010,2.0,3,2319,Makarpura
+11,Vadodara,390011,3.0,3,2818,Manjalpur
+12,Vadodara,390007,1.0,1,2278,Diwalipura
+13,Vadodara,391410,1.0,2,2022,Bhayli
+14,Vadodara,390022,1.0,3,2108,Amit Nagar
+15,Vadodara,390022,2.0,2,2635,New VIP Road
+16,Vadodara,390011,2.0,3,2719,Manjalpur
+17,Vadodara,391410,2.0,4,2259,Bhayli
+18,Vadodara,390002,3.0,3,2788,Nizampura
+19,Vadodara,390022,1.0,1,1938,Amit Nagar
+20,Vadodara,390009,1.0,2,1973,Tarsali
+21,Vadodara,390022,1.0,3,2612,Harni
+22,Vadodara,390011,2.0,2,2620,Manjalpur
+23,Vadodara,390007,2.0,3,2526,Vasna
+24,Vadodara,390002,1.0,1,2192,Nizampura
+25,Vadodara,390007,1.0,2,2901,Alkapuri
+26,Vadodara,390022,1.0,3,2490,Harni
+27,Vadodara,390021,2.0,2,2736,Gotri
+28,Vadodara,391410,1.0,1,1904,Bhayli
+29,Vadodara,390007,1.0,2,2896,Alkapuri
+30,Vadodara,390002,1.0,3,2604,Fatehgunj
+31,Vadodara,390007,2.0,2,2486,Diwalipura
+32,Vadodara,390008,2.0,3,3037,Sama
+33,Vadodara,390002,3.0,3,2809,Fatehgunj
+34,Vadodara,390018,1.0,1,2125,Karelibaug
+35,Vadodara,390018,1.0,2,2424,Karelibaug
+36,Vadodara,390022,1.0,3,2370,Harni
+37,Vadodara,390010,2.0,2,2159,Makarpura
+38,Vadodara,390009,2.0,2,2014,Tarsali
+39,Vadodara,390002,3.0,3,2690,Fatehgunj
+40,Vadodara,390008,1.0,1,2538,Sama
+41,Vadodara,390007,1.0,2,2516,Diwalipura
+42,Vadodara,390020,1.0,1,2485,Akota
+43,Vadodara,390018,1.0,2,2340,Karelibaug
+44,Vadodara,391410,1.0,3,2103,Bhayli
+45,Vadodara,390007,2.0,2,2407,Diwalipura
+46,Vadodara,390010,2.0,3,2205,Makarpura
+47,Vadodara,390022,1.0,1,1979,Amit Nagar
+48,Vadodara,390020,1.0,2,2695,Akota
+49,Vadodara,390007,1.0,3,2611,Diwalipura
+50,Vadodara,390022,2.0,2,2081,Amit Nagar
+51,Vadodara,390002,2.0,3,2749,Fatehgunj
+52,Vadodara,390008,3.0,3,2925,Sama
+53,Vadodara,390022,1.0,1,2159,Harni
+54,Vadodara,390009,1.0,2,2155,Tarsali
+55,Vadodara,390018,1.0,3,2573,Karelibaug
+56,Vadodara,390007,1.0,4,2644,Vasna
+57,Vadodara,390018,2.0,2,2364,Karelibaug
+58,Vadodara,390018,2.0,3,2542,Karelibaug
+59,Vadodara,391410,2.0,4,2380,Bhayli
+60,Vadodara,390022,3.0,3,2748,Harni
+61,Vadodara,390007,3.0,4,2847,Diwalipura
+62,Vadodara,390007,1.0,1,2153,Vasna
+63,Vadodara,390022,1.0,2,2050,Amit Nagar
+64,Vadodara,390007,1.0,3,2322,Vasna
+65,Vadodara,390009,1.0,4,2433,Tarsali
+66,Vadodara,390008,2.0,2,2862,Sama
+67,Vadodara,390022,2.0,3,2564,Harni
+68,Vadodara,390022,2.0,4,2590,Amit Nagar
+69,Vadodara,390007,3.0,3,3293,Alkapuri
+70,Vadodara,390010,3.0,4,2432,Makarpura
+71,Vadodara,390022,4.0,4,2713,Amit Nagar
+72,Vadodara,390010,1.0,1,2058,Makarpura
+73,Vadodara,390007,1.0,2,2947,Alkapuri
+74,Vadodara,390008,1.0,3,2921,Sama
+75,Vadodara,390022,1.0,4,2374,Harni
+76,Vadodara,390007,3.0,4,2964,Diwalipura
+77,Vadodara,391410,2.0,4,2358,Bhayli
+78,Vadodara,390007,2.0,3,3143,Alkapuri
+79,Vadodara,391410,2.0,3,2228,Bhayli
+80,Vadodara,390019,2.0,4,2371,Waghodia Road
+81,Vadodara,390008,2.0,4,2980,Sama
+82,Vadodara,390009,2.0,3,2352,Tarsali
+83,Vadodara,390021,2.0,3,3103,Gotri
+84,Vadodara,390022,2.0,3,2523,Harni
+85,Vadodara,390021,4.0,4,3207,Gotri
+86,Vadodara,390022,3.0,4,2545,Amit Nagar
+87,Vadodara,390022,4.0,3,2832,Harni
+88,Vadodara,390002,3.0,4,2920,Nizampura
+89,Vadodara,390008,1.0,4,2862,Sama
+90,Vadodara,390018,1.0,2,2396,Karelibaug
+91,Vadodara,390022,2.0,2,2249,Amit Nagar
+92,Vadodara,390021,1.0,2,2837,Gotri
+93,Vadodara,390022,1.0,3,2767,New VIP Road
+94,Vadodara,390019,3.0,4,2611,Waghodia Road
+95,Vadodara,390007,4.0,4,2945,Diwalipura
+96,Vadodara,390010,2.0,4,2268,Makarpura
+97,Vadodara,390002,3.0,4,2967,Fatehgunj
+98,Vadodara,390021,1.0,4,3033,Gotri
+99,Vadodara,390007,3.0,2,2480,Vasna
+100,Vadodara,390002,1.0,4,2689,Nizampura
+101,Vadodara,390007,1.0,4,2583,Diwalipura
+102,Vadodara,390008,2.0,4,2962,Sama
+103,Vadodara,390008,2.0,2,2709,Sama
+104,Vadodara,390009,2.0,3,2248,Tarsali
+105,Vadodara,390022,4.0,4,3215,New VIP Road
+106,Vadodara,390022,1.0,4,2646,Harni
+107,Vadodara,390011,2.0,1,2680,Manjalpur
+108,Vadodara,390002,1.0,4,2776,Fatehgunj
+109,Vadodara,390022,3.0,4,2813,Harni
+110,Vadodara,390007,4.0,3,3343,Alkapuri
+111,Vadodara,390002,2.0,4,2677,Fatehgunj
+112,Vadodara,390020,4.0,3,2998,Akota
+113,Vadodara,390002,2.0,4,2805,Nizampura
+114,Vadodara,390007,1.0,3,2652,Vasna
+115,Vadodara,390009,3.0,4,2523,Tarsali
+116,Vadodara,390011,1.0,4,2837,Manjalpur
+117,Vadodara,390022,2.0,4,2697,Harni
+118,Vadodara,390022,4.0,3,2995,New VIP Road
+119,Vadodara,390007,3.0,4,2843,Vasna
+120,Vadodara,390022,1.0,3,2898,New VIP Road
+121,Vadodara,390002,4.0,1,2711,Fatehgunj
+122,Vadodara,390020,1.0,4,2778,Akota
+123,Vadodara,390022,1.0,3,2956,New VIP Road
+124,Vadodara,391410,1.0,4,2134,Bhayli
+125,Vadodara,390021,4.0,3,3203,Gotri
+126,Vadodara,390018,1.0,4,2807,Karelibaug
+127,Vadodara,390007,3.0,3,2521,Vasna
+128,Vadodara,390022,1.0,3,2779,New VIP Road
+129,Vadodara,390011,2.0,3,2779,Manjalpur
+130,Vadodara,390007,3.0,2,3085,Alkapuri
+131,Vadodara,390019,4.0,4,2590,Waghodia Road
+132,Vadodara,390011,3.0,4,2996,Manjalpur
+133,Vadodara,390002,2.0,4,2754,Fatehgunj
+134,Vadodara,390018,3.0,3,2703,Karelibaug
+135,Vadodara,390020,1.0,3,2647,Akota
+136,Vadodara,390022,1.0,3,2419,Amit Nagar
+137,Vadodara,390010,4.0,3,2380,Makarpura
+138,Vadodara,390022,3.0,4,2561,Amit Nagar
+139,Vadodara,390007,3.0,3,2833,Diwalipura
+140,Vadodara,390007,4.0,4,2869,Diwalipura
+141,Vadodara,390019,2.0,4,2570,Waghodia Road
+142,Vadodara,390007,4.0,2,2838,Diwalipura
+143,Vadodara,390021,1.0,4,2865,Gotri
+144,Vadodara,390021,2.0,2,2857,Gotri
+145,Vadodara,390019,4.0,3,2623,Waghodia Road
+146,Vadodara,390007,4.0,4,2900,Vasna
+147,Vadodara,390022,3.0,4,2679,Harni
+148,Vadodara,390022,1.0,3,2711,New VIP Road
+149,Vadodara,390002,3.0,4,2937,Nizampura
+150,Vadodara,391410,2.0,4,2377,Bhayli
+151,Vadodara,391410,4.0,4,2553,Bhayli
+152,Vadodara,390020,2.0,4,2981,Akota
+153,Vadodara,390008,3.0,3,2899,Sama
+154,Vadodara,390018,2.0,3,2591,Karelibaug
+155,Vadodara,390009,4.0,4,2656,Tarsali
+156,Vadodara,390022,2.0,4,2986,New VIP Road
+157,Vadodara,390009,2.0,2,2358,Tarsali
+158,Vadodara,390002,3.0,2,2723,Fatehgunj
+159,Vadodara,390022,2.0,4,2393,Amit Nagar
+160,Vadodara,390022,4.0,3,2609,Amit Nagar
+161,Vadodara,390007,1.0,4,2622,Diwalipura
+162,Vadodara,390007,3.0,1,3071,Alkapuri
+163,Vadodara,390011,4.0,4,3184,Manjalpur
+164,Vadodara,390022,4.0,4,2606,Amit Nagar
+165,Vadodara,390022,4.0,4,2767,Amit Nagar
+166,Vadodara,390011,2.0,4,2937,Manjalpur
+167,Vadodara,390007,2.0,4,2874,Diwalipura
+168,Vadodara,390010,4.0,4,2751,Makarpura
+169,Vadodara,390022,3.0,4,2568,Amit Nagar
+170,Vadodara,390007,3.0,3,2692,Diwalipura
+171,Vadodara,390010,1.0,3,2100,Makarpura
+172,Vadodara,390007,4.0,2,3147,Alkapuri
+173,Vadodara,390007,3.0,4,2883,Diwalipura
+174,Vadodara,390022,4.0,3,3131,New VIP Road
+175,Vadodara,390022,4.0,4,2705,Amit Nagar
+176,Vadodara,390022,2.0,4,2774,Harni
+177,Vadodara,390019,3.0,3,2511,Waghodia Road
+178,Vadodara,391410,1.0,3,2261,Bhayli
+179,Vadodara,390021,1.0,1,2596,Gotri
+180,Vadodara,390019,2.0,2,2535,Waghodia Road
+181,Vadodara,390022,2.0,4,2556,Amit Nagar
+182,Vadodara,390019,3.0,4,2563,Waghodia Road
+183,Vadodara,390002,4.0,3,2754,Nizampura
+184,Vadodara,391410,3.0,4,2483,Bhayli
+185,Vadodara,390002,4.0,4,3010,Fatehgunj
+186,Vadodara,390002,2.0,4,2914,Fatehgunj
+187,Vadodara,390002,3.0,2,2673,Nizampura
+188,Vadodara,390018,1.0,3,2473,Karelibaug
+189,Vadodara,390002,3.0,2,2554,Nizampura
+190,Vadodara,390002,3.0,3,2624,Nizampura
+191,Vadodara,390009,4.0,3,2460,Tarsali
+192,Vadodara,390010,3.0,4,2567,Makarpura
+193,Vadodara,390002,2.0,3,2739,Fatehgunj
+194,Vadodara,390010,4.0,2,2208,Makarpura
+195,Vadodara,390008,1.0,4,2926,Sama
+196,Vadodara,390007,4.0,1,3125,Alkapuri
+197,Vadodara,390002,2.0,4,2770,Fatehgunj
+198,Vadodara,390022,3.0,2,2344,Amit Nagar
+199,Vadodara,391410,3.0,4,2445,Bhayli
+200,Vadodara,391410,4.0,3,2297,Bhayli
+201,Vadodara,390009,2.0,4,2482,Tarsali
+202,Vadodara,390021,4.0,2,3070,Gotri
+203,Vadodara,390002,1.0,4,2807,Nizampura
+204,Vadodara,390007,1.0,4,2655,Vasna
+205,Vadodara,390022,1.0,4,2486,Harni
+206,Vadodara,390009,2.0,2,2106,Tarsali
+207,Vadodara,390022,1.0,2,2196,Amit Nagar
+208,Vadodara,390007,4.0,1,2636,Diwalipura
+209,Vadodara,390009,1.0,4,2406,Tarsali
+210,Vadodara,390002,2.0,4,3197,Fatehgunj
+211,Vadodara,390010,2.0,4,2451,Makarpura
+212,Vadodara,390011,1.0,2,2652,Manjalpur
+213,Vadodara,390007,1.0,2,2536,Diwalipura
+214,Vadodara,390022,2.0,1,2169,Amit Nagar
+215,Vadodara,390007,2.0,3,2492,Vasna
+216,Vadodara,390002,3.0,4,2958,Nizampura
+217,Vadodara,390019,2.0,3,2350,Waghodia Road
+218,Vadodara,390019,1.0,3,2309,Waghodia Road
+219,Vadodara,391410,4.0,2,2226,Bhayli
+220,Vadodara,390008,1.0,4,2917,Sama
+221,Vadodara,390010,4.0,2,2528,Makarpura
+222,Vadodara,390007,2.0,4,2482,Vasna
+223,Vadodara,390008,2.0,2,2802,Sama
+224,Vadodara,390011,3.0,4,2845,Manjalpur
+225,Vadodara,390008,4.0,3,3008,Sama
+226,Vadodara,390022,2.0,4,2798,Harni
+227,Vadodara,390009,1.0,3,2236,Tarsali
+228,Vadodara,390020,3.0,2,2683,Akota
+229,Vadodara,390002,3.0,4,2826,Nizampura
+230,Vadodara,390019,1.0,4,2521,Waghodia Road
+231,Vadodara,390021,1.0,3,2814,Gotri
+232,Vadodara,391410,1.0,4,2279,Bhayli
+233,Vadodara,390020,4.0,4,3134,Akota
+234,Vadodara,391410,4.0,4,2471,Bhayli
+235,Vadodara,390010,1.0,4,2503,Makarpura
+236,Vadodara,390010,2.0,2,2197,Makarpura
+237,Vadodara,390007,3.0,2,2948,Alkapuri
+238,Vadodara,390010,3.0,3,2377,Makarpura
+239,Vadodara,390010,4.0,4,2520,Makarpura
+240,Vadodara,390019,3.0,4,2717,Waghodia Road
+241,Vadodara,390022,4.0,3,3029,New VIP Road
+242,Vadodara,390022,4.0,4,3220,New VIP Road
+243,Vadodara,390007,3.0,4,2785,Vasna
+244,Vadodara,390010,4.0,3,2528,Makarpura
+245,Vadodara,390022,4.0,4,3122,New VIP Road
+246,Vadodara,390007,4.0,4,2950,Diwalipura
+247,Vadodara,390007,3.0,4,2697,Vasna
+248,Vadodara,390007,1.0,4,2651,Diwalipura
+249,Vadodara,390007,2.0,3,2829,Diwalipura
+250,Vadodara,390022,4.0,4,2716,Amit Nagar
+251,Vadodara,390008,1.0,4,2797,Sama
+252,Vadodara,390002,1.0,3,2713,Fatehgunj
+253,Vadodara,390022,2.0,2,2431,Amit Nagar
+254,Vadodara,390010,2.0,3,2363,Makarpura
+255,Vadodara,390007,4.0,4,2843,Diwalipura
+256,Vadodara,390002,2.0,4,2756,Nizampura
+257,Vadodara,390022,2.0,2,2904,New VIP Road
+258,Vadodara,390007,1.0,4,3146,Alkapuri
+259,Vadodara,390022,2.0,4,2740,Harni
+260,Vadodara,391410,2.0,3,2290,Bhayli
+261,Vadodara,390007,3.0,4,3307,Alkapuri
+262,Vadodara,390022,2.0,4,2495,Amit Nagar
+263,Vadodara,390022,1.0,4,2318,Harni
+264,Vadodara,390008,3.0,2,2738,Sama
+265,Vadodara,390021,2.0,4,3077,Gotri
+266,Vadodara,390020,1.0,3,2618,Akota
+267,Vadodara,390009,4.0,1,2387,Tarsali
+268,Vadodara,390007,3.0,4,3261,Alkapuri
+269,Vadodara,390007,4.0,3,2810,Diwalipura
+270,Vadodara,390011,4.0,4,3092,Manjalpur
+271,Vadodara,390009,3.0,4,2670,Tarsali
+272,Vadodara,390002,2.0,4,2721,Fatehgunj
+273,Vadodara,390007,1.0,3,2685,Diwalipura
+274,Vadodara,391410,3.0,4,2441,Bhayli
+275,Vadodara,390022,1.0,3,2742,New VIP Road
+276,Vadodara,390022,2.0,2,2482,Harni
+277,Vadodara,390021,4.0,2,3038,Gotri
+278,Vadodara,390018,1.0,4,2556,Karelibaug
+279,Vadodara,390007,2.0,4,2806,Diwalipura
+280,Vadodara,390022,2.0,4,2465,Amit Nagar
+281,Vadodara,390018,2.0,3,2580,Karelibaug
+282,Vadodara,390020,4.0,4,3190,Akota
+283,Vadodara,390007,2.0,4,2793,Vasna
+284,Vadodara,390009,3.0,2,2169,Tarsali
+285,Vadodara,390020,2.0,4,3142,Akota
+286,Vadodara,390022,4.0,3,2924,New VIP Road
+287,Vadodara,390011,1.0,4,2796,Manjalpur
+288,Vadodara,390020,4.0,4,3183,Akota
+289,Vadodara,390002,3.0,4,2965,Fatehgunj
+290,Vadodara,390021,2.0,3,2914,Gotri
+291,Vadodara,390022,4.0,2,2601,Harni
+292,Vadodara,390002,1.0,4,2716,Fatehgunj
+293,Vadodara,390002,1.0,1,2317,Fatehgunj
+294,Vadodara,390021,1.0,2,2826,Gotri
+295,Vadodara,390022,2.0,4,2732,Harni
+296,Vadodara,390020,2.0,3,2758,Akota
+297,Vadodara,391410,3.0,4,2521,Bhayli
+298,Vadodara,390007,4.0,4,3508,Alkapuri
+299,Vadodara,391410,3.0,4,2513,Bhayli
+300,Vadodara,390022,4.0,4,2937,Harni
+301,Vadodara,390022,4.0,4,3155,New VIP Road
+302,Vadodara,390019,1.0,4,2410,Waghodia Road
+303,Vadodara,390022,1.0,2,2417,Harni
+304,Vadodara,390010,2.0,2,2195,Makarpura
+305,Vadodara,390007,4.0,4,2978,Diwalipura
+306,Vadodara,390002,1.0,4,2721,Nizampura
+307,Vadodara,390022,1.0,1,2335,Harni
+308,Vadodara,390010,2.0,3,2217,Makarpura
+309,Vadodara,390011,3.0,2,2779,Manjalpur
+310,Vadodara,390007,2.0,3,3152,Alkapuri
+311,Vadodara,390021,1.0,3,2860,Gotri
+312,Vadodara,390022,1.0,3,2579,Harni
+313,Vadodara,390007,3.0,2,2554,Vasna
+314,Vadodara,390009,2.0,3,2393,Tarsali
+315,Vadodara,390002,3.0,4,3007,Nizampura
+316,Vadodara,390011,3.0,4,2992,Manjalpur
+317,Vadodara,390002,1.0,3,2691,Fatehgunj
+318,Vadodara,390007,4.0,4,2952,Diwalipura
+319,Vadodara,390021,2.0,4,3129,Gotri
+320,Vadodara,390010,3.0,2,2218,Makarpura
+321,Vadodara,390018,4.0,3,2759,Karelibaug
+322,Vadodara,390021,3.0,4,3244,Gotri
+323,Vadodara,390002,2.0,3,2596,Nizampura
+324,Vadodara,390021,3.0,3,3248,Gotri
+325,Vadodara,390010,4.0,3,2359,Makarpura
+326,Vadodara,390020,1.0,4,2751,Akota
+327,Vadodara,390018,1.0,4,2714,Karelibaug
+328,Vadodara,390010,4.0,1,2261,Makarpura
+329,Vadodara,390018,2.0,4,2756,Karelibaug
+330,Vadodara,391410,4.0,4,2587,Bhayli
+331,Vadodara,390022,2.0,4,2499,Amit Nagar
+332,Vadodara,390002,1.0,3,2549,Fatehgunj
+333,Vadodara,390018,1.0,4,2617,Karelibaug
+334,Vadodara,390002,4.0,1,2529,Nizampura
+335,Vadodara,390021,1.0,4,3098,Gotri
+336,Vadodara,390022,1.0,3,2267,Amit Nagar
+337,Vadodara,390007,4.0,1,2366,Vasna
+338,Vadodara,390007,2.0,4,2621,Vasna
+339,Vadodara,390002,1.0,2,2487,Nizampura
+340,Vadodara,390011,1.0,2,2499,Manjalpur
+341,Vadodara,390007,2.0,1,2186,Vasna
+342,Vadodara,390007,1.0,2,2972,Alkapuri
+343,Vadodara,390002,3.0,2,2652,Nizampura
+344,Vadodara,390022,1.0,3,2234,Amit Nagar
+345,Vadodara,390022,2.0,4,2658,Harni
+346,Vadodara,390007,4.0,4,2851,Vasna
+347,Vadodara,390002,1.0,4,2630,Fatehgunj
+348,Vadodara,390008,2.0,2,2613,Sama
+349,Vadodara,390010,4.0,3,2385,Makarpura
+350,Vadodara,390019,2.0,4,2531,Waghodia Road
+351,Vadodara,390022,4.0,2,2448,Amit Nagar
+352,Vadodara,391410,4.0,4,2663,Bhayli
+353,Vadodara,390009,4.0,4,2707,Tarsali
+354,Vadodara,390018,2.0,4,2686,Karelibaug
+355,Vadodara,390020,1.0,2,2598,Akota
+356,Vadodara,390022,3.0,1,2110,Amit Nagar
+357,Vadodara,390022,1.0,4,2408,Amit Nagar
+358,Vadodara,390011,2.0,3,2744,Manjalpur
+359,Vadodara,391410,4.0,3,2429,Bhayli
+360,Vadodara,390008,2.0,4,2926,Sama
+361,Vadodara,390007,3.0,3,3307,Alkapuri
+362,Vadodara,390022,3.0,3,2798,Harni
+363,Vadodara,390007,3.0,4,2880,Diwalipura
+364,Vadodara,390022,3.0,3,2696,Harni
+365,Vadodara,390018,3.0,4,2852,Karelibaug
+366,Vadodara,390022,3.0,4,3104,New VIP Road
+367,Vadodara,390008,3.0,3,2980,Sama
+368,Vadodara,390007,2.0,3,3171,Alkapuri
+369,Vadodara,390011,2.0,4,2909,Manjalpur
+370,Vadodara,390002,3.0,4,2870,Fatehgunj
+371,Vadodara,390022,2.0,4,2702,Harni
+372,Vadodara,390007,1.0,3,2475,Vasna
+373,Vadodara,390022,4.0,1,2621,Harni
+374,Vadodara,390010,2.0,4,2486,Makarpura
+375,Vadodara,390002,3.0,2,2874,Fatehgunj
+376,Vadodara,390002,1.0,4,2641,Nizampura
+377,Vadodara,390018,1.0,1,2299,Karelibaug
+378,Vadodara,390007,1.0,4,3227,Alkapuri
+379,Vadodara,390002,4.0,4,3177,Nizampura
+380,Vadodara,390022,3.0,4,3067,New VIP Road
+381,Vadodara,390002,3.0,3,2734,Fatehgunj
+382,Vadodara,390008,3.0,3,2906,Sama
+383,Vadodara,391410,3.0,4,2249,Bhayli
+384,Vadodara,390022,2.0,4,2653,Harni
+385,Vadodara,390010,3.0,3,2292,Makarpura
+386,Vadodara,390002,3.0,3,2774,Nizampura
+387,Vadodara,390011,2.0,3,2801,Manjalpur
+388,Vadodara,390022,4.0,2,3139,New VIP Road
+389,Vadodara,391410,1.0,4,2346,Bhayli
+390,Vadodara,390018,3.0,2,2478,Karelibaug
+391,Vadodara,390002,2.0,4,2719,Nizampura
+392,Vadodara,390007,2.0,2,2584,Diwalipura
+393,Vadodara,390007,4.0,3,3231,Alkapuri
+394,Vadodara,390007,4.0,4,3645,Alkapuri
+395,Vadodara,390002,3.0,4,3046,Fatehgunj
+396,Vadodara,390020,2.0,3,2778,Akota
+397,Vadodara,390022,2.0,3,2766,New VIP Road
+398,Vadodara,390020,1.0,4,2982,Akota
+399,Vadodara,390002,4.0,2,2710,Nizampura
+400,Vadodara,390007,3.0,4,3501,Alkapuri
+401,Vadodara,390008,4.0,4,3037,Sama
+402,Vadodara,390020,2.0,4,2896,Akota
+403,Vadodara,390021,1.0,4,3010,Gotri
+404,Vadodara,391410,1.0,3,2134,Bhayli
+405,Vadodara,390002,4.0,4,2939,Nizampura
+406,Vadodara,390008,2.0,4,3056,Sama
+407,Vadodara,390007,1.0,3,2334,Vasna
+408,Vadodara,390020,2.0,1,2547,Akota
+409,Vadodara,390008,3.0,3,2971,Sama
+410,Vadodara,390011,3.0,4,3036,Manjalpur
+411,Vadodara,390020,1.0,3,2794,Akota
+412,Vadodara,390020,1.0,2,2499,Akota
+413,Vadodara,391410,2.0,2,1952,Bhayli
+414,Vadodara,390002,1.0,4,2825,Nizampura
+415,Vadodara,390007,3.0,1,3030,Alkapuri
+416,Vadodara,390009,4.0,4,2563,Tarsali
+417,Vadodara,390009,3.0,4,2680,Tarsali
+418,Vadodara,390009,2.0,4,2460,Tarsali
+419,Vadodara,391410,4.0,2,2376,Bhayli
+420,Vadodara,390022,2.0,4,3056,New VIP Road
+421,Vadodara,390019,1.0,2,2385,Waghodia Road
+422,Vadodara,390007,4.0,4,2988,Vasna
+423,Vadodara,390007,4.0,4,2958,Diwalipura
+424,Vadodara,390020,1.0,4,2947,Akota
+425,Vadodara,390022,2.0,3,2978,New VIP Road
+426,Vadodara,390007,3.0,3,3383,Alkapuri
+427,Vadodara,390007,4.0,4,2893,Diwalipura
+428,Vadodara,390022,2.0,4,2562,Amit Nagar
+429,Vadodara,390020,2.0,4,3045,Akota
+430,Vadodara,390022,1.0,3,2122,Amit Nagar
+431,Vadodara,391410,3.0,1,1944,Bhayli
+432,Vadodara,390021,2.0,4,2916,Gotri
+433,Vadodara,390011,1.0,2,2526,Manjalpur
+434,Vadodara,390010,2.0,3,2335,Makarpura
+435,Vadodara,390022,4.0,3,2685,Amit Nagar
+436,Vadodara,390019,4.0,4,2737,Waghodia Road
+437,Vadodara,390007,2.0,4,2947,Diwalipura
+438,Vadodara,390009,1.0,2,1976,Tarsali
+439,Vadodara,390002,3.0,2,2477,Nizampura
+440,Vadodara,391410,1.0,4,2255,Bhayli
+441,Vadodara,390008,1.0,1,2555,Sama
+442,Vadodara,390019,3.0,4,2637,Waghodia Road
+443,Vadodara,390008,4.0,4,2994,Sama
+444,Vadodara,390022,3.0,4,2582,Amit Nagar
+445,Vadodara,390021,4.0,4,3163,Gotri
+446,Vadodara,390011,2.0,4,2960,Manjalpur
+447,Vadodara,390002,4.0,4,3063,Fatehgunj
+448,Vadodara,390002,3.0,4,2805,Nizampura
+449,Vadodara,390022,4.0,3,2504,Amit Nagar
+450,Vadodara,390007,3.0,4,2645,Vasna
+451,Vadodara,390022,1.0,4,2954,New VIP Road
+452,Vadodara,390009,2.0,2,2276,Tarsali
+453,Vadodara,390010,4.0,3,2361,Makarpura
+454,Vadodara,390022,2.0,4,2545,Amit Nagar
+455,Vadodara,390002,2.0,4,2802,Fatehgunj
+456,Vadodara,390009,4.0,3,2429,Tarsali
+457,Vadodara,390021,1.0,4,3000,Gotri
+458,Vadodara,390009,2.0,4,2357,Tarsali
+459,Vadodara,390022,4.0,2,2920,New VIP Road
+460,Vadodara,390007,4.0,4,3372,Alkapuri
+461,Vadodara,390009,3.0,4,2717,Tarsali
+462,Vadodara,390022,4.0,4,3233,New VIP Road
+463,Vadodara,390002,1.0,4,2647,Nizampura
+464,Vadodara,390009,3.0,3,2429,Tarsali
+465,Vadodara,390007,1.0,3,2420,Vasna
+466,Vadodara,390019,2.0,4,2530,Waghodia Road
+467,Vadodara,390009,2.0,4,2505,Tarsali
+468,Vadodara,390022,2.0,3,2638,Harni
+469,Vadodara,390022,4.0,4,2632,Amit Nagar
+470,Vadodara,390022,4.0,4,2828,Harni
+471,Vadodara,390022,4.0,4,3205,New VIP Road
+472,Vadodara,390019,1.0,4,2253,Waghodia Road
+473,Vadodara,390022,1.0,1,1884,Amit Nagar
+474,Vadodara,390022,2.0,1,2433,Harni
+475,Vadodara,390009,3.0,2,2428,Tarsali
+476,Vadodara,390007,3.0,4,2868,Diwalipura
+477,Vadodara,390020,4.0,3,3052,Akota
+478,Vadodara,390022,4.0,4,2708,Amit Nagar
+479,Vadodara,390022,2.0,4,2977,Harni
+480,Vadodara,390007,1.0,2,3051,Alkapuri
+481,Vadodara,390007,1.0,2,2938,Alkapuri
+482,Vadodara,390007,4.0,2,2634,Diwalipura
+483,Vadodara,390021,3.0,4,3045,Gotri
+484,Vadodara,390021,3.0,4,3208,Gotri
+485,Vadodara,390022,2.0,3,2302,Amit Nagar
+486,Vadodara,390008,2.0,3,2742,Sama
+487,Vadodara,390021,1.0,4,2952,Gotri
+488,Vadodara,391410,3.0,3,2213,Bhayli
+489,Vadodara,390007,2.0,4,2952,Diwalipura
+490,Vadodara,390002,3.0,3,2839,Nizampura
+491,Vadodara,390002,2.0,3,2669,Nizampura
+492,Vadodara,390007,2.0,3,3303,Alkapuri
+493,Vadodara,390009,1.0,3,2237,Tarsali
+494,Vadodara,390002,1.0,2,2372,Nizampura
+495,Vadodara,390010,4.0,2,2457,Makarpura
+496,Vadodara,391410,3.0,4,2489,Bhayli
+497,Vadodara,390002,1.0,3,2487,Nizampura
+498,Vadodara,390008,1.0,4,2893,Sama
+499,Vadodara,390011,3.0,2,2651,Manjalpur
+500,Vadodara,390008,2.0,4,2876,Sama
+501,Vadodara,390019,3.0,4,2723,Waghodia Road
+502,Vadodara,390011,4.0,3,3122,Manjalpur
+503,Vadodara,390018,4.0,4,2754,Karelibaug
+504,Vadodara,390020,1.0,4,2911,Akota
+505,Vadodara,390008,4.0,1,2731,Sama
+506,Vadodara,390002,2.0,4,2756,Nizampura
+507,Vadodara,390022,3.0,2,2277,Amit Nagar
+508,Vadodara,390019,1.0,4,2382,Waghodia Road
+509,Vadodara,390022,1.0,1,2024,Amit Nagar
+510,Vadodara,390022,3.0,2,2455,Harni
+511,Vadodara,390002,2.0,4,2824,Nizampura
+512,Vadodara,390019,1.0,4,2455,Waghodia Road
+513,Vadodara,390011,4.0,2,2798,Manjalpur
+514,Vadodara,390008,3.0,4,3008,Sama
+515,Vadodara,390007,3.0,3,3208,Alkapuri
+516,Vadodara,390008,2.0,3,2938,Sama
+517,Vadodara,390007,3.0,3,2655,Vasna
+518,Vadodara,390009,1.0,3,2142,Tarsali
+519,Vadodara,390021,1.0,1,2629,Gotri
+520,Vadodara,390011,4.0,2,2888,Manjalpur
+521,Vadodara,390008,2.0,4,2850,Sama
+522,Vadodara,390011,2.0,4,2949,Manjalpur
+523,Vadodara,390007,1.0,2,2390,Diwalipura
+524,Vadodara,390002,1.0,3,2631,Nizampura
+525,Vadodara,390021,1.0,3,2811,Gotri
+526,Vadodara,390009,2.0,3,2158,Tarsali
+527,Vadodara,390007,1.0,3,2284,Vasna
+528,Vadodara,390010,4.0,2,2324,Makarpura
+529,Vadodara,390022,3.0,4,2813,Harni
+530,Vadodara,390008,1.0,3,2699,Sama
+531,Vadodara,390007,4.0,3,3407,Alkapuri
+532,Vadodara,391410,1.0,4,2110,Bhayli
+533,Vadodara,390009,3.0,1,2144,Tarsali
+534,Vadodara,390007,2.0,4,3191,Alkapuri
+535,Vadodara,390007,3.0,3,3201,Alkapuri
+536,Vadodara,390008,2.0,4,3004,Sama
+537,Vadodara,390022,4.0,4,2803,Harni
+538,Vadodara,390002,3.0,4,2855,Nizampura
+539,Vadodara,390022,4.0,4,2971,Harni
+540,Vadodara,390007,3.0,4,2838,Diwalipura
+541,Vadodara,390019,3.0,4,2715,Waghodia Road
+542,Vadodara,390011,2.0,3,2668,Manjalpur
+543,Vadodara,390010,1.0,4,2358,Makarpura
+544,Vadodara,390018,1.0,4,2740,Karelibaug
+545,Vadodara,390022,2.0,4,2278,Amit Nagar
+546,Vadodara,390007,4.0,3,2778,Diwalipura
+547,Vadodara,390010,1.0,4,2362,Makarpura
+548,Vadodara,390011,3.0,4,2972,Manjalpur
+549,Vadodara,390022,4.0,3,2583,Amit Nagar
+550,Vadodara,391410,4.0,4,2476,Bhayli
+551,Vadodara,390011,4.0,4,3088,Manjalpur
+552,Vadodara,390021,2.0,4,3086,Gotri
+553,Vadodara,390022,2.0,2,2345,Amit Nagar
+554,Vadodara,390021,2.0,2,2863,Gotri
+555,Vadodara,390019,1.0,3,2360,Waghodia Road
+556,Vadodara,390002,2.0,2,2553,Fatehgunj
+557,Vadodara,391410,1.0,3,2086,Bhayli
+558,Vadodara,390009,1.0,1,1931,Tarsali
+559,Vadodara,390022,4.0,1,2526,Harni
+560,Vadodara,390018,2.0,4,2662,Karelibaug
+561,Vadodara,390007,3.0,3,2636,Vasna
+562,Vadodara,390002,1.0,4,2947,Fatehgunj
+563,Vadodara,390007,2.0,1,2338,Vasna
+564,Vadodara,390020,1.0,2,2571,Akota
+565,Vadodara,390002,1.0,2,2608,Fatehgunj
+566,Vadodara,390011,2.0,4,2863,Manjalpur
+567,Vadodara,390020,4.0,4,2947,Akota
+568,Vadodara,390008,3.0,4,2999,Sama
+569,Vadodara,390008,3.0,4,2922,Sama
+570,Vadodara,391410,3.0,3,2278,Bhayli
+571,Vadodara,390007,2.0,3,2672,Diwalipura
+572,Vadodara,390022,1.0,4,2561,Amit Nagar
+573,Vadodara,390002,4.0,3,2929,Fatehgunj
+574,Vadodara,390020,2.0,4,2930,Akota
+575,Vadodara,390002,4.0,3,2975,Fatehgunj
+576,Vadodara,390010,4.0,4,2381,Makarpura
+577,Vadodara,390018,2.0,4,2721,Karelibaug
+578,Vadodara,390002,1.0,4,2779,Nizampura
+579,Vadodara,390018,3.0,4,2657,Karelibaug
+580,Vadodara,390007,3.0,3,2863,Diwalipura
+581,Vadodara,390022,2.0,3,2950,New VIP Road
+582,Vadodara,390007,3.0,4,3353,Alkapuri
+583,Vadodara,390011,2.0,4,2957,Manjalpur
+584,Vadodara,390002,2.0,3,2874,Nizampura
+585,Vadodara,390019,3.0,3,2526,Waghodia Road
+586,Vadodara,390002,2.0,4,2872,Fatehgunj
+587,Vadodara,390002,1.0,4,2669,Nizampura
+588,Vadodara,390018,4.0,2,2544,Karelibaug
+589,Vadodara,390009,1.0,4,2435,Tarsali
+590,Vadodara,390021,4.0,4,3203,Gotri
+591,Vadodara,390002,4.0,4,2986,Nizampura
+592,Vadodara,390007,3.0,4,2697,Vasna
+593,Vadodara,390022,3.0,4,3183,New VIP Road
+594,Vadodara,390022,3.0,3,2690,Harni
+595,Vadodara,390019,1.0,3,2423,Waghodia Road
+596,Vadodara,390009,3.0,4,2494,Tarsali
+597,Vadodara,390002,2.0,4,2776,Nizampura
+598,Vadodara,390022,2.0,3,2482,Harni
+599,Vadodara,390007,2.0,4,3260,Alkapuri
+600,Vadodara,390022,3.0,3,2494,Amit Nagar
+601,Vadodara,390007,3.0,3,2828,Diwalipura
+602,Vadodara,390022,2.0,3,2487,Harni
+603,Vadodara,390009,2.0,3,2398,Tarsali
+604,Vadodara,390022,3.0,3,2582,Amit Nagar
+605,Vadodara,390009,1.0,4,2397,Tarsali
+606,Vadodara,390008,3.0,4,3259,Sama
+607,Vadodara,390007,4.0,4,3410,Alkapuri
+608,Vadodara,390011,2.0,4,2788,Manjalpur
+609,Vadodara,390019,3.0,2,2220,Waghodia Road
+610,Vadodara,390007,3.0,4,3525,Alkapuri
+611,Vadodara,390007,2.0,3,2579,Vasna
+612,Vadodara,390019,2.0,4,2545,Waghodia Road
+613,Vadodara,391410,1.0,2,2025,Bhayli
+614,Vadodara,390018,3.0,4,2689,Karelibaug
+615,Vadodara,390022,3.0,3,2880,Harni
+616,Vadodara,390007,4.0,3,3362,Alkapuri
+617,Vadodara,390022,2.0,4,2710,Harni
+618,Vadodara,390022,3.0,3,2725,Harni
+619,Vadodara,390011,3.0,4,3033,Manjalpur
+620,Vadodara,390022,2.0,4,3070,New VIP Road
+621,Vadodara,391410,4.0,2,2199,Bhayli
+622,Vadodara,390007,3.0,4,2932,Diwalipura
+623,Vadodara,390022,3.0,3,2629,Amit Nagar
+624,Vadodara,390002,1.0,3,2701,Nizampura
+625,Vadodara,390019,3.0,2,2523,Waghodia Road
+626,Vadodara,390022,4.0,3,2504,Amit Nagar
+627,Vadodara,390019,1.0,4,2371,Waghodia Road
+628,Vadodara,390019,2.0,3,2409,Waghodia Road
+629,Vadodara,390009,4.0,4,2635,Tarsali
+630,Vadodara,390011,3.0,4,3088,Manjalpur
+631,Vadodara,390007,4.0,4,2828,Diwalipura
+632,Vadodara,390020,4.0,4,3268,Akota
+633,Vadodara,390022,4.0,4,2666,Amit Nagar
+634,Vadodara,390008,2.0,4,2962,Sama
+635,Vadodara,390022,4.0,3,2459,Amit Nagar
+636,Vadodara,390020,3.0,4,2891,Akota
+637,Vadodara,390018,3.0,3,2734,Karelibaug
+638,Vadodara,390019,3.0,4,2647,Waghodia Road
+639,Vadodara,390022,1.0,3,2714,New VIP Road
+640,Vadodara,390018,3.0,4,2673,Karelibaug
+641,Vadodara,390002,4.0,3,2820,Nizampura
+642,Vadodara,390007,4.0,4,3630,Alkapuri
+643,Vadodara,390018,1.0,4,2587,Karelibaug
+644,Vadodara,390009,1.0,1,1835,Tarsali
+645,Vadodara,390022,3.0,4,2768,Harni
+646,Vadodara,390020,1.0,3,2705,Akota
+647,Vadodara,390022,2.0,4,2457,Harni
+648,Vadodara,390022,2.0,4,2495,Amit Nagar
+649,Vadodara,390002,1.0,2,2479,Fatehgunj
+650,Vadodara,391410,1.0,1,1933,Bhayli
+651,Vadodara,390007,3.0,2,3296,Alkapuri
+652,Vadodara,390002,2.0,4,2951,Fatehgunj
+653,Vadodara,390007,4.0,4,2806,Vasna
+654,Vadodara,391410,4.0,4,2430,Bhayli
+655,Vadodara,391410,2.0,4,2582,Bhayli
+656,Vadodara,390019,4.0,2,2475,Waghodia Road
+657,Vadodara,390022,2.0,4,2701,Harni
+658,Vadodara,390022,1.0,3,2828,New VIP Road
+659,Vadodara,390020,3.0,2,2798,Akota
+660,Vadodara,390002,2.0,3,2707,Fatehgunj
+661,Vadodara,391410,3.0,4,2388,Bhayli
+662,Vadodara,390020,4.0,3,2951,Akota
+663,Vadodara,390022,1.0,4,2407,Amit Nagar
+664,Vadodara,390018,2.0,4,2651,Karelibaug
+665,Vadodara,390007,3.0,2,2416,Vasna
+666,Vadodara,390020,3.0,3,2920,Akota
+667,Vadodara,390011,2.0,3,2747,Manjalpur
+668,Vadodara,390021,4.0,3,3285,Gotri
+669,Vadodara,390022,3.0,4,2551,Harni
+670,Vadodara,390010,2.0,3,2368,Makarpura
+671,Vadodara,390010,4.0,3,2562,Makarpura
+672,Vadodara,390020,4.0,4,2943,Akota
+673,Vadodara,390021,4.0,4,3249,Gotri
+674,Vadodara,390019,1.0,4,2427,Waghodia Road
+675,Vadodara,390002,4.0,3,2773,Fatehgunj
+676,Vadodara,390011,1.0,4,2740,Manjalpur
+677,Vadodara,390020,3.0,1,2550,Akota
+678,Vadodara,390019,1.0,3,2488,Waghodia Road
+679,Vadodara,390019,2.0,3,2504,Waghodia Road
+680,Vadodara,390009,3.0,2,2394,Tarsali
+681,Vadodara,390007,2.0,3,3235,Alkapuri
+682,Vadodara,390007,1.0,2,2198,Vasna
+683,Vadodara,390010,2.0,1,1963,Makarpura
+684,Vadodara,390022,3.0,2,2574,Harni
+685,Vadodara,390019,2.0,3,2310,Waghodia Road
+686,Vadodara,390002,2.0,2,2654,Fatehgunj
+687,Vadodara,390007,2.0,2,2518,Diwalipura
+688,Vadodara,390008,3.0,3,2926,Sama
+689,Vadodara,390019,4.0,4,2794,Waghodia Road
+690,Vadodara,390007,4.0,4,3020,Diwalipura
+691,Vadodara,390010,4.0,4,2548,Makarpura
+692,Vadodara,390021,2.0,4,3204,Gotri
+693,Vadodara,390021,1.0,3,2783,Gotri
+694,Vadodara,390020,4.0,3,3055,Akota
+695,Vadodara,390007,1.0,4,2763,Diwalipura
+696,Vadodara,390022,1.0,1,1992,Amit Nagar
+697,Vadodara,390002,4.0,2,2799,Fatehgunj
+698,Vadodara,390002,4.0,4,2867,Nizampura
+699,Vadodara,390022,3.0,4,2673,Amit Nagar
+700,Vadodara,390022,3.0,4,3123,New VIP Road
+701,Vadodara,390008,4.0,3,3003,Sama
+702,Vadodara,390009,4.0,4,2724,Tarsali
+703,Vadodara,390009,3.0,4,2477,Tarsali
+704,Vadodara,390020,2.0,3,2693,Akota
+705,Vadodara,390002,4.0,3,2710,Nizampura
+706,Vadodara,390020,2.0,4,3005,Akota
+707,Vadodara,390010,1.0,3,2065,Makarpura
+708,Vadodara,390002,2.0,1,2618,Fatehgunj
+709,Vadodara,391410,2.0,4,2163,Bhayli
+710,Vadodara,391410,1.0,4,2413,Bhayli
+711,Vadodara,390022,1.0,4,2629,Harni
+712,Vadodara,390007,2.0,4,2791,Diwalipura
+713,Vadodara,390007,1.0,3,2381,Vasna
+714,Vadodara,390022,4.0,2,2456,Amit Nagar
+715,Vadodara,390007,2.0,4,2647,Vasna
+716,Vadodara,390007,1.0,4,2809,Diwalipura
+717,Vadodara,390007,1.0,1,2180,Vasna
+718,Vadodara,390011,2.0,2,2654,Manjalpur
+719,Vadodara,390002,4.0,3,2817,Nizampura
+720,Vadodara,390009,1.0,4,2355,Tarsali
+721,Vadodara,390019,4.0,2,2498,Waghodia Road
+722,Vadodara,390020,3.0,4,2886,Akota
+723,Vadodara,390010,3.0,4,2369,Makarpura
+724,Vadodara,390022,1.0,3,2347,Amit Nagar
+725,Vadodara,390020,3.0,3,2925,Akota
+726,Vadodara,390020,1.0,4,2843,Akota
+727,Vadodara,390009,1.0,3,2232,Tarsali
+728,Vadodara,390007,3.0,2,2661,Diwalipura
+729,Vadodara,390022,1.0,3,2231,Amit Nagar
+730,Vadodara,390022,3.0,4,2720,Harni
+731,Vadodara,391410,4.0,3,2418,Bhayli
+732,Vadodara,390002,2.0,4,2712,Nizampura
+733,Vadodara,390002,2.0,4,2887,Fatehgunj
+734,Vadodara,390022,2.0,3,2217,Amit Nagar
+735,Vadodara,390021,3.0,4,3283,Gotri
+736,Vadodara,390022,2.0,3,2613,Harni
+737,Vadodara,390021,2.0,4,3123,Gotri
+738,Vadodara,390007,3.0,2,2718,Diwalipura
+739,Vadodara,390010,3.0,4,2640,Makarpura
+740,Vadodara,390007,4.0,3,2791,Vasna
+741,Vadodara,390020,3.0,4,2874,Akota
+742,Vadodara,390020,1.0,4,2745,Akota
+743,Vadodara,390009,3.0,3,2354,Tarsali
+744,Vadodara,390002,2.0,3,2722,Fatehgunj
+745,Vadodara,390009,4.0,4,2677,Tarsali
+746,Vadodara,390020,4.0,4,3065,Akota
+747,Vadodara,390008,3.0,4,3107,Sama
+748,Vadodara,390022,2.0,3,2502,Harni
+749,Vadodara,390022,4.0,4,3175,New VIP Road
+750,Vadodara,390019,4.0,4,2603,Waghodia Road
+751,Vadodara,390009,2.0,4,2367,Tarsali
+752,Vadodara,390007,4.0,4,2858,Diwalipura
+753,Vadodara,390010,1.0,4,2222,Makarpura
+754,Vadodara,390002,4.0,4,3075,Nizampura
+755,Vadodara,390007,1.0,4,3125,Alkapuri
+756,Vadodara,390022,1.0,1,2457,Harni
+757,Vadodara,390011,1.0,2,2594,Manjalpur
+758,Vadodara,390007,2.0,4,2817,Diwalipura
+759,Vadodara,390022,2.0,2,2163,Amit Nagar
+760,Vadodara,390011,1.0,3,2743,Manjalpur
+761,Vadodara,390022,3.0,1,2348,Harni
+762,Vadodara,390010,4.0,4,2591,Makarpura
+763,Vadodara,390007,1.0,4,2790,Vasna
+764,Vadodara,390019,4.0,2,2461,Waghodia Road
+765,Vadodara,390022,1.0,4,3063,New VIP Road
+766,Vadodara,390009,4.0,2,2307,Tarsali
+767,Vadodara,390022,4.0,4,2877,Harni
+768,Vadodara,390007,4.0,4,2989,Vasna
+769,Vadodara,390002,2.0,4,2744,Nizampura
+770,Vadodara,390019,2.0,3,2583,Waghodia Road
+771,Vadodara,390007,1.0,2,2514,Diwalipura
+772,Vadodara,390019,1.0,1,2019,Waghodia Road
+773,Vadodara,390018,4.0,2,2677,Karelibaug
+774,Vadodara,390002,3.0,4,2978,Nizampura
+775,Vadodara,390007,2.0,4,3356,Alkapuri
+776,Vadodara,390007,2.0,4,3159,Alkapuri
+777,Vadodara,390002,3.0,2,2615,Fatehgunj
+778,Vadodara,390007,2.0,3,2498,Vasna
+779,Vadodara,390007,2.0,2,3033,Alkapuri
+780,Vadodara,390002,3.0,2,2686,Nizampura
+781,Vadodara,390019,2.0,4,2566,Waghodia Road
+782,Vadodara,390020,3.0,4,2920,Akota
+783,Vadodara,390008,3.0,4,3124,Sama
+784,Vadodara,390010,4.0,3,2505,Makarpura
+785,Vadodara,390009,1.0,4,2410,Tarsali
+786,Vadodara,390007,3.0,3,2857,Diwalipura
+787,Vadodara,390007,4.0,4,3555,Alkapuri
+788,Vadodara,390022,1.0,4,2651,Harni
+789,Vadodara,390007,2.0,1,2904,Alkapuri
+790,Vadodara,390002,2.0,3,2571,Fatehgunj
+791,Vadodara,390008,4.0,3,3089,Sama
+792,Vadodara,390022,4.0,4,3249,New VIP Road
+793,Vadodara,390011,1.0,4,2834,Manjalpur
+794,Vadodara,390009,1.0,3,2115,Tarsali
+795,Vadodara,390002,4.0,1,2493,Nizampura
+796,Vadodara,390010,4.0,4,2675,Makarpura
+797,Vadodara,391410,3.0,4,2436,Bhayli
+798,Vadodara,390022,1.0,3,2891,New VIP Road
+799,Vadodara,390018,2.0,4,2703,Karelibaug
+800,Vadodara,390019,3.0,3,2513,Waghodia Road
+801,Vadodara,390009,2.0,4,2534,Tarsali
+802,Vadodara,390010,2.0,4,2354,Makarpura
+803,Vadodara,391410,2.0,3,2229,Bhayli
+804,Vadodara,390022,2.0,4,2658,Harni
+805,Vadodara,390021,4.0,2,2981,Gotri
+806,Vadodara,390020,1.0,4,2832,Akota
+807,Vadodara,390009,3.0,4,2560,Tarsali
+808,Vadodara,390019,1.0,3,2287,Waghodia Road
+809,Vadodara,390002,2.0,3,2833,Fatehgunj
+810,Vadodara,390011,1.0,3,2599,Manjalpur
+811,Vadodara,390022,4.0,2,2403,Amit Nagar
+812,Vadodara,390007,1.0,4,2520,Vasna
+813,Vadodara,390020,2.0,4,3080,Akota
+814,Vadodara,390011,1.0,4,2828,Manjalpur
+815,Vadodara,390002,1.0,3,2673,Nizampura
+816,Vadodara,390007,3.0,1,2366,Diwalipura
+817,Vadodara,390022,1.0,3,2304,Amit Nagar
+818,Vadodara,390002,1.0,3,2710,Fatehgunj
+819,Vadodara,390009,3.0,4,2547,Tarsali
+820,Vadodara,390002,3.0,4,3036,Fatehgunj
+821,Vadodara,390021,3.0,4,3143,Gotri
+822,Vadodara,390019,2.0,3,2547,Waghodia Road
+823,Vadodara,390020,4.0,4,3337,Akota
+824,Vadodara,390022,1.0,4,2927,New VIP Road
+825,Vadodara,390022,4.0,3,2710,Harni
+826,Vadodara,390002,1.0,4,2841,Nizampura
+827,Vadodara,390019,4.0,3,2742,Waghodia Road
+828,Vadodara,390019,4.0,4,2683,Waghodia Road
+829,Vadodara,390022,3.0,4,2552,Amit Nagar
+830,Vadodara,390009,1.0,3,2205,Tarsali
+831,Vadodara,390021,1.0,1,2499,Gotri
+832,Vadodara,390008,3.0,1,2617,Sama
+833,Vadodara,391410,4.0,4,2440,Bhayli
+834,Vadodara,390022,4.0,4,3161,New VIP Road
+835,Vadodara,390021,4.0,4,3277,Gotri
+836,Vadodara,390007,1.0,4,2731,Diwalipura
+837,Vadodara,390022,4.0,4,3020,Harni
+838,Vadodara,390002,3.0,4,2800,Nizampura
+839,Vadodara,390007,4.0,4,3569,Alkapuri
+840,Vadodara,390022,1.0,4,2941,New VIP Road
+841,Vadodara,390022,3.0,4,2786,Harni
+842,Vadodara,390011,1.0,3,2741,Manjalpur
+843,Vadodara,390020,3.0,2,2679,Akota
+844,Vadodara,390020,4.0,3,3034,Akota
+845,Vadodara,390019,4.0,4,2745,Waghodia Road
+846,Vadodara,390021,4.0,4,3324,Gotri
+847,Vadodara,390009,4.0,4,2656,Tarsali
+848,Vadodara,390019,2.0,4,2771,Waghodia Road
+849,Vadodara,390018,4.0,2,2563,Karelibaug
+850,Vadodara,390007,3.0,4,3342,Alkapuri
+851,Vadodara,390008,2.0,3,2814,Sama
+852,Vadodara,390009,1.0,4,2310,Tarsali
+853,Vadodara,390007,4.0,1,3033,Alkapuri
+854,Vadodara,391410,3.0,4,2547,Bhayli
+855,Vadodara,390022,4.0,4,2808,Amit Nagar
+856,Vadodara,390008,1.0,4,2859,Sama
+857,Vadodara,390022,3.0,2,2255,Amit Nagar
+858,Vadodara,390002,4.0,3,2892,Nizampura
+859,Vadodara,390010,2.0,4,2350,Makarpura
+860,Vadodara,390007,4.0,3,3407,Alkapuri
+861,Vadodara,390019,3.0,4,2658,Waghodia Road
+862,Vadodara,390008,3.0,4,2954,Sama
+863,Vadodara,390008,3.0,3,3099,Sama
+864,Vadodara,390021,2.0,3,3132,Gotri
+865,Vadodara,390019,4.0,2,2415,Waghodia Road
+866,Vadodara,390010,1.0,4,2275,Makarpura
+867,Vadodara,390021,4.0,1,2916,Gotri
+868,Vadodara,390022,3.0,4,3170,New VIP Road
+869,Vadodara,390007,1.0,4,3269,Alkapuri
+870,Vadodara,390002,4.0,3,3081,Fatehgunj
+871,Vadodara,390009,1.0,4,2344,Tarsali
+872,Vadodara,390002,4.0,1,2568,Fatehgunj
+873,Vadodara,390022,2.0,4,2926,New VIP Road
+874,Vadodara,390009,2.0,4,2384,Tarsali
+875,Vadodara,390011,4.0,4,3077,Manjalpur
+876,Vadodara,390021,1.0,4,3172,Gotri
+877,Vadodara,390002,4.0,1,2543,Nizampura
+878,Vadodara,390021,3.0,4,3210,Gotri
+879,Vadodara,390007,2.0,4,2799,Diwalipura
+880,Vadodara,390019,2.0,3,2527,Waghodia Road
+881,Vadodara,390022,2.0,2,2667,Harni
+882,Vadodara,390007,2.0,3,3122,Alkapuri
+883,Vadodara,390008,1.0,4,2866,Sama
+884,Vadodara,390007,3.0,4,2984,Diwalipura
+885,Vadodara,390007,2.0,3,3231,Alkapuri
+886,Vadodara,390008,4.0,4,3346,Sama
+887,Vadodara,390007,4.0,4,3533,Alkapuri
+888,Vadodara,390019,2.0,4,2518,Waghodia Road
+889,Vadodara,390010,4.0,3,2503,Makarpura
+890,Vadodara,390007,2.0,4,2900,Diwalipura
+891,Vadodara,390022,2.0,2,2314,Amit Nagar
+892,Vadodara,390020,1.0,4,2906,Akota
+893,Vadodara,390022,2.0,1,2206,Amit Nagar
+894,Vadodara,390007,4.0,2,2825,Diwalipura
+895,Vadodara,390002,2.0,4,2924,Nizampura
+896,Vadodara,390002,3.0,3,2868,Fatehgunj
+897,Vadodara,390002,1.0,4,2745,Fatehgunj
+898,Vadodara,390009,4.0,3,2513,Tarsali
+899,Vadodara,390007,4.0,4,2939,Vasna
+900,Vadodara,390020,4.0,4,3056,Akota
+901,Vadodara,390011,3.0,4,3023,Manjalpur
+902,Vadodara,390010,2.0,4,2365,Makarpura
+903,Vadodara,390007,3.0,3,3263,Alkapuri
+904,Vadodara,390010,3.0,3,2475,Makarpura
+905,Vadodara,390020,1.0,4,2877,Akota
+906,Vadodara,390018,4.0,4,2884,Karelibaug
+907,Vadodara,390018,1.0,4,2488,Karelibaug
+908,Vadodara,390002,2.0,2,2607,Nizampura
+909,Vadodara,390021,1.0,2,2808,Gotri
+910,Vadodara,390022,1.0,4,2605,Amit Nagar
+911,Vadodara,390022,2.0,4,3022,New VIP Road
+912,Vadodara,390002,3.0,3,2780,Nizampura
+913,Vadodara,390007,2.0,3,2542,Vasna
+914,Vadodara,390007,1.0,4,2702,Vasna
+915,Vadodara,390007,1.0,4,2551,Vasna
+916,Vadodara,390007,4.0,2,2745,Diwalipura
+917,Vadodara,390008,3.0,4,3145,Sama
+918,Vadodara,390022,3.0,3,2477,Amit Nagar
+919,Vadodara,390019,4.0,4,2690,Waghodia Road
+920,Vadodara,390021,1.0,4,3027,Gotri
+921,Vadodara,390022,2.0,3,2467,Amit Nagar
+922,Vadodara,390009,4.0,4,2538,Tarsali
+923,Vadodara,390022,3.0,4,2802,Harni
+924,Vadodara,390009,1.0,4,2297,Tarsali
+925,Vadodara,390022,3.0,2,2638,Harni
+926,Vadodara,390011,3.0,4,2853,Manjalpur
+927,Vadodara,390009,4.0,4,2580,Tarsali
+928,Vadodara,390020,4.0,4,3164,Akota
+929,Vadodara,390007,1.0,4,2701,Vasna
+930,Vadodara,390007,3.0,2,2624,Diwalipura
+931,Vadodara,390009,1.0,3,2180,Tarsali
+932,Vadodara,390018,1.0,3,2649,Karelibaug
+933,Vadodara,390020,4.0,1,2610,Akota
+934,Vadodara,390002,3.0,4,2692,Nizampura
+935,Vadodara,390022,4.0,3,2790,Harni
+936,Vadodara,390009,2.0,4,2405,Tarsali
+937,Vadodara,390020,1.0,3,2638,Akota
+938,Vadodara,391410,2.0,4,2414,Bhayli
+939,Vadodara,390008,4.0,3,3072,Sama
+940,Vadodara,390019,3.0,4,2589,Waghodia Road
+941,Vadodara,390002,3.0,3,2695,Fatehgunj
+942,Vadodara,390022,3.0,4,2669,Amit Nagar
+943,Vadodara,390008,1.0,3,2839,Sama
+944,Vadodara,390018,2.0,4,2691,Karelibaug
+945,Vadodara,390020,3.0,2,2946,Akota
+946,Vadodara,390020,1.0,4,2764,Akota
+947,Vadodara,390011,4.0,3,2813,Manjalpur
+948,Vadodara,390008,1.0,4,2848,Sama
+949,Vadodara,390022,2.0,2,2436,Harni
+950,Vadodara,390011,4.0,2,2842,Manjalpur
+951,Vadodara,390010,3.0,4,2468,Makarpura
+952,Vadodara,390019,1.0,3,2362,Waghodia Road
+953,Vadodara,390020,3.0,2,2667,Akota
+954,Vadodara,390022,2.0,4,2630,Amit Nagar
+955,Vadodara,390018,1.0,2,2343,Karelibaug
+956,Vadodara,390022,2.0,2,2341,Amit Nagar
+957,Vadodara,391410,3.0,4,2471,Bhayli
+958,Vadodara,390022,2.0,4,2741,Harni
+959,Vadodara,390021,3.0,2,2981,Gotri
+960,Vadodara,390002,1.0,4,2800,Fatehgunj
+961,Vadodara,390010,3.0,1,2158,Makarpura
+962,Vadodara,390020,1.0,3,2850,Akota
+963,Vadodara,390009,4.0,3,2518,Tarsali
+964,Vadodara,390010,1.0,4,2374,Makarpura
+965,Vadodara,390018,1.0,2,2342,Karelibaug
+966,Vadodara,390021,1.0,2,2880,Gotri
+967,Vadodara,390007,2.0,3,2609,Diwalipura
+968,Vadodara,390020,1.0,3,2892,Akota
+969,Vadodara,390007,1.0,2,2946,Alkapuri
+970,Vadodara,390002,1.0,1,2191,Nizampura
+971,Vadodara,390007,2.0,4,2662,Vasna
+972,Vadodara,391410,2.0,3,2159,Bhayli
+973,Vadodara,390021,4.0,4,3356,Gotri
+974,Vadodara,390018,4.0,4,2821,Karelibaug
+975,Vadodara,390022,3.0,4,3100,New VIP Road
+976,Vadodara,390022,3.0,4,2970,New VIP Road
+977,Vadodara,390022,1.0,3,2439,Harni
+978,Vadodara,390007,2.0,2,2172,Vasna
+979,Vadodara,390022,4.0,2,2477,Harni
+980,Vadodara,390019,3.0,4,2708,Waghodia Road
+981,Vadodara,390020,1.0,4,2931,Akota
+982,Vadodara,390007,1.0,3,3118,Alkapuri
+983,Vadodara,390002,4.0,1,2553,Fatehgunj
+984,Vadodara,390009,2.0,4,2446,Tarsali
+985,Vadodara,390007,4.0,3,2850,Diwalipura
+986,Vadodara,390021,4.0,4,3176,Gotri
+987,Vadodara,390022,3.0,4,2725,Amit Nagar
+988,Vadodara,390008,3.0,3,3039,Sama
+989,Vadodara,390018,4.0,4,2860,Karelibaug
+990,Vadodara,390007,4.0,4,2982,Diwalipura
+991,Vadodara,390008,4.0,4,3199,Sama
+992,Vadodara,390011,4.0,4,2896,Manjalpur
+993,Vadodara,390022,4.0,4,2858,Harni
+994,Vadodara,390002,4.0,4,2969,Fatehgunj
+995,Vadodara,390009,2.0,4,2360,Tarsali
+996,Vadodara,390018,1.0,2,2325,Karelibaug
+997,Vadodara,390022,3.0,4,2952,Harni
+998,Vadodara,390008,4.0,3,3108,Sama
+999,Vadodara,390018,1.0,4,2559,Karelibaug
+1000,Vadodara,390002,2.0,4,2902,Fatehgunj
+1001,Vadodara,390022,3.0,2,2456,Amit Nagar
+1002,Vadodara,390019,4.0,4,2813,Waghodia Road
+1003,Vadodara,390011,2.0,4,2905,Manjalpur
+1004,Vadodara,390007,4.0,2,3162,Alkapuri
+1005,Vadodara,390022,2.0,4,2563,Amit Nagar
+1006,Vadodara,390007,1.0,2,2485,Diwalipura
+1007,Vadodara,390009,1.0,4,2441,Tarsali
+1008,Vadodara,390020,1.0,1,2527,Akota
+1009,Vadodara,390002,2.0,2,2634,Nizampura
+1010,Vadodara,390002,3.0,3,2762,Fatehgunj
+1011,Vadodara,390021,4.0,3,3269,Gotri
+1012,Vadodara,390010,1.0,4,2328,Makarpura
+1013,Vadodara,390010,2.0,2,2327,Makarpura
+1014,Vadodara,390020,3.0,2,2718,Akota
+1015,Vadodara,390019,4.0,4,2886,Waghodia Road
+1016,Vadodara,390002,4.0,4,3048,Fatehgunj
+1017,Vadodara,390002,4.0,4,2971,Fatehgunj
+1018,Vadodara,390022,4.0,4,2636,Amit Nagar
+1019,Vadodara,390021,2.0,4,3071,Gotri
+1020,Vadodara,390008,2.0,2,2778,Sama
+1021,Vadodara,390009,3.0,4,2587,Tarsali
+1022,Vadodara,390018,4.0,4,2828,Karelibaug
+1023,Vadodara,390002,1.0,4,2708,Nizampura
+1024,Vadodara,390021,1.0,4,3203,Gotri
+1025,Vadodara,390002,3.0,3,2915,Nizampura
+1026,Vadodara,390002,4.0,3,2939,Fatehgunj
+1027,Vadodara,390019,1.0,4,2463,Waghodia Road
+1028,Vadodara,390002,1.0,1,2331,Nizampura
+1029,Vadodara,390022,1.0,1,2275,Harni
+1030,Vadodara,390010,1.0,1,1828,Makarpura
+1031,Vadodara,390018,2.0,1,2287,Karelibaug
+1032,Vadodara,391410,2.0,4,2200,Bhayli
+1033,Vadodara,390009,1.0,3,2266,Tarsali
+1034,Vadodara,390009,1.0,3,2288,Tarsali
+1035,Vadodara,390022,3.0,1,2157,Amit Nagar
+1036,Vadodara,390018,2.0,4,2842,Karelibaug
+1037,Vadodara,390002,1.0,2,2390,Fatehgunj
+1038,Vadodara,390018,2.0,4,2568,Karelibaug
+1039,Vadodara,390018,1.0,4,2630,Karelibaug
+1040,Vadodara,390010,4.0,4,2674,Makarpura
+1041,Vadodara,390008,3.0,4,3242,Sama
+1042,Vadodara,390022,1.0,3,2439,Harni
+1043,Vadodara,391410,1.0,3,2227,Bhayli
+1044,Vadodara,390002,4.0,2,2767,Fatehgunj
+1045,Vadodara,390009,3.0,4,2524,Tarsali
+1046,Vadodara,390007,3.0,3,2840,Diwalipura
+1047,Vadodara,391410,3.0,4,2499,Bhayli
+1048,Vadodara,390011,4.0,4,2938,Manjalpur
+1049,Vadodara,390010,1.0,4,2443,Makarpura
+1050,Vadodara,390007,3.0,2,3254,Alkapuri
+1051,Vadodara,390022,4.0,4,2624,Amit Nagar
+1052,Vadodara,390021,1.0,4,3046,Gotri
+1053,Vadodara,391410,1.0,4,2304,Bhayli
+1054,Vadodara,390007,3.0,1,2523,Diwalipura
+1055,Vadodara,391410,1.0,4,2210,Bhayli
+1056,Vadodara,391410,2.0,2,2030,Bhayli
+1057,Vadodara,390022,1.0,2,2148,Amit Nagar
+1058,Vadodara,390007,2.0,2,3146,Alkapuri
+1059,Vadodara,390021,1.0,2,2799,Gotri
+1060,Vadodara,390011,2.0,3,2737,Manjalpur
+1061,Vadodara,390022,1.0,4,2679,Harni
+1062,Vadodara,390021,4.0,2,2764,Gotri
+1063,Vadodara,390021,2.0,4,3203,Gotri
+1064,Vadodara,390022,3.0,4,2633,Harni
+1065,Vadodara,390007,3.0,4,2707,Vasna
+1066,Vadodara,390002,4.0,3,2799,Fatehgunj
+1067,Vadodara,390011,1.0,4,2693,Manjalpur
+1068,Vadodara,390021,2.0,1,2814,Gotri
+1069,Vadodara,390011,4.0,3,2908,Manjalpur
+1070,Vadodara,390018,4.0,4,2911,Karelibaug
+1071,Vadodara,390022,1.0,4,2406,Amit Nagar
+1072,Vadodara,390007,1.0,1,2863,Alkapuri
+1073,Vadodara,390011,2.0,4,2907,Manjalpur
+1074,Vadodara,390007,3.0,2,2365,Vasna
+1075,Vadodara,390022,2.0,4,2790,Harni
+1076,Vadodara,390010,2.0,2,2096,Makarpura
+1077,Vadodara,390021,2.0,2,2700,Gotri
+1078,Vadodara,390002,2.0,2,2501,Nizampura
+1079,Vadodara,390022,2.0,3,3055,New VIP Road
+1080,Vadodara,390002,1.0,3,2707,Fatehgunj
+1081,Vadodara,390007,1.0,2,2419,Diwalipura
+1082,Vadodara,390019,3.0,3,2479,Waghodia Road
+1083,Vadodara,390009,2.0,3,2291,Tarsali
+1084,Vadodara,390018,4.0,4,3067,Karelibaug
+1085,Vadodara,390022,3.0,4,3174,New VIP Road
+1086,Vadodara,390002,4.0,4,3069,Fatehgunj
+1087,Vadodara,390009,4.0,4,2723,Tarsali
+1088,Vadodara,390022,4.0,4,3251,New VIP Road
+1089,Vadodara,390022,1.0,4,2387,Amit Nagar
+1090,Vadodara,390010,1.0,4,2292,Makarpura
+1091,Vadodara,390022,3.0,3,3004,New VIP Road
+1092,Vadodara,390020,4.0,4,3127,Akota
+1093,Vadodara,390009,1.0,4,2425,Tarsali
+1094,Vadodara,390011,1.0,1,2425,Manjalpur
+1095,Vadodara,390010,1.0,4,2376,Makarpura
+1096,Vadodara,390019,2.0,1,2153,Waghodia Road
+1097,Vadodara,390008,3.0,3,2967,Sama
+1098,Vadodara,390002,4.0,3,2670,Nizampura
+1099,Vadodara,390002,3.0,4,3022,Fatehgunj
+1100,Vadodara,390019,3.0,3,2541,Waghodia Road
+1101,Vadodara,390009,2.0,3,2410,Tarsali
+1102,Vadodara,390007,3.0,3,2499,Diwalipura
+1103,Vadodara,390007,2.0,3,2858,Diwalipura
+1104,Vadodara,390007,1.0,3,3067,Alkapuri
+1105,Vadodara,390021,3.0,3,3160,Gotri
+1106,Vadodara,390007,1.0,4,2616,Diwalipura
+1107,Vadodara,390021,3.0,3,3115,Gotri
+1108,Vadodara,390022,1.0,3,2385,Harni
+1109,Vadodara,390007,4.0,1,3034,Alkapuri
+1110,Vadodara,390008,3.0,4,3262,Sama
+1111,Vadodara,390022,3.0,3,2993,New VIP Road
+1112,Vadodara,390020,4.0,4,3150,Akota
+1113,Vadodara,390009,3.0,4,2618,Tarsali
+1114,Vadodara,390022,4.0,4,3275,New VIP Road
+1115,Vadodara,390002,3.0,4,2904,Nizampura
+1116,Vadodara,390002,1.0,3,2663,Fatehgunj
+1117,Vadodara,390002,4.0,3,3116,Fatehgunj
+1118,Vadodara,391410,4.0,4,2525,Bhayli
+1119,Vadodara,390002,1.0,4,2728,Nizampura
+1120,Vadodara,390009,4.0,1,2335,Tarsali
+1121,Vadodara,390022,3.0,4,2689,Amit Nagar
+1122,Vadodara,390002,1.0,4,2817,Nizampura
+1123,Vadodara,390007,2.0,4,3357,Alkapuri
+1124,Vadodara,390009,4.0,2,2267,Tarsali
+1125,Vadodara,390008,4.0,4,3327,Sama
+1126,Vadodara,390002,2.0,4,2697,Nizampura
+1127,Vadodara,390002,2.0,3,2747,Fatehgunj
+1128,Vadodara,390007,4.0,4,3412,Alkapuri
+1129,Vadodara,390002,2.0,4,2794,Nizampura
+1130,Vadodara,390007,1.0,3,3110,Alkapuri
+1131,Vadodara,390022,3.0,4,2819,Harni
+1132,Vadodara,390018,4.0,3,2788,Karelibaug
+1133,Vadodara,390021,2.0,4,3245,Gotri
+1134,Vadodara,390019,1.0,4,2501,Waghodia Road
+1135,Vadodara,390007,4.0,2,2698,Diwalipura
+1136,Vadodara,390007,3.0,4,2977,Diwalipura
+1137,Vadodara,390007,2.0,4,2907,Diwalipura
+1138,Vadodara,390007,3.0,3,2650,Diwalipura
+1139,Vadodara,390002,3.0,3,2814,Nizampura
+1140,Vadodara,390002,2.0,4,2913,Fatehgunj
+1141,Vadodara,390018,2.0,2,2413,Karelibaug
+1142,Vadodara,390021,3.0,4,3314,Gotri
+1143,Vadodara,390010,3.0,4,2476,Makarpura
+1144,Vadodara,390007,2.0,3,3181,Alkapuri
+1145,Vadodara,390002,3.0,2,2664,Fatehgunj
+1146,Vadodara,390002,1.0,3,2581,Nizampura
+1147,Vadodara,390018,1.0,2,2251,Karelibaug
+1148,Vadodara,390002,1.0,3,2450,Nizampura
+1149,Vadodara,390010,1.0,1,2064,Makarpura
+1150,Vadodara,390020,1.0,4,2784,Akota
+1151,Vadodara,390020,2.0,1,2471,Akota
+1152,Vadodara,390018,1.0,3,2286,Karelibaug
+1153,Vadodara,390002,1.0,1,2312,Fatehgunj
+1154,Vadodara,390022,1.0,4,2841,New VIP Road
+1155,Vadodara,391410,4.0,2,2418,Bhayli
+1156,Vadodara,390021,1.0,4,3101,Gotri
+1157,Vadodara,390019,2.0,1,2098,Waghodia Road
+1158,Vadodara,390022,4.0,3,2753,Amit Nagar
+1159,Vadodara,390002,3.0,4,3028,Fatehgunj
+1160,Vadodara,390018,2.0,3,2541,Karelibaug
+1161,Vadodara,390018,3.0,3,2435,Karelibaug
+1162,Vadodara,390002,3.0,3,3016,Fatehgunj
+1163,Vadodara,390022,2.0,4,2575,Harni
+1164,Vadodara,390022,1.0,3,2132,Amit Nagar
+1165,Vadodara,390002,3.0,2,2722,Nizampura
+1166,Vadodara,390011,3.0,4,3210,Manjalpur
+1167,Vadodara,390022,4.0,4,3005,Harni
+1168,Vadodara,390011,3.0,4,3041,Manjalpur
+1169,Vadodara,390007,3.0,4,2794,Vasna
+1170,Vadodara,390022,3.0,3,2737,Harni
+1171,Vadodara,390020,3.0,3,2978,Akota
+1172,Vadodara,390007,1.0,3,3105,Alkapuri
+1173,Vadodara,390018,4.0,4,2889,Karelibaug
+1174,Vadodara,390011,3.0,4,2984,Manjalpur
+1175,Vadodara,390007,4.0,4,2762,Vasna
+1176,Vadodara,390021,3.0,4,3165,Gotri
+1177,Vadodara,390008,2.0,3,2718,Sama
+1178,Vadodara,390007,4.0,4,2971,Diwalipura
+1179,Vadodara,390021,2.0,4,3011,Gotri
+1180,Vadodara,390011,2.0,3,2671,Manjalpur
+1181,Vadodara,390007,1.0,2,2466,Diwalipura
+1182,Vadodara,390022,3.0,2,3005,New VIP Road
+1183,Vadodara,391410,4.0,4,2613,Bhayli
+1184,Vadodara,390008,2.0,4,2859,Sama
+1185,Vadodara,390002,2.0,3,2581,Nizampura
+1186,Vadodara,390009,2.0,2,2275,Tarsali
+1187,Vadodara,390007,2.0,3,3082,Alkapuri
+1188,Vadodara,390007,4.0,4,2810,Vasna
+1189,Vadodara,390018,1.0,4,2660,Karelibaug
+1190,Vadodara,390020,4.0,3,2913,Akota
+1191,Vadodara,390007,2.0,4,3309,Alkapuri
+1192,Vadodara,390007,2.0,3,2550,Diwalipura
+1193,Vadodara,390010,4.0,2,2266,Makarpura
+1194,Vadodara,390021,1.0,4,3039,Gotri
+1195,Vadodara,390007,4.0,1,2297,Vasna
+1196,Vadodara,390010,4.0,4,2620,Makarpura
+1197,Vadodara,390007,2.0,4,2798,Diwalipura
+1198,Vadodara,390022,2.0,2,2490,Harni
+1199,Vadodara,390009,1.0,2,2120,Tarsali
+1200,Vadodara,390002,1.0,4,2833,Nizampura
+1201,Vadodara,390019,4.0,4,2741,Waghodia Road
+1202,Vadodara,390009,1.0,4,2321,Tarsali
+1203,Vadodara,390002,4.0,2,2731,Nizampura
+1204,Vadodara,390022,4.0,4,2929,Harni
+1205,Vadodara,391410,4.0,4,2534,Bhayli
+1206,Vadodara,390022,4.0,4,3234,New VIP Road
+1207,Vadodara,390002,3.0,4,2877,Fatehgunj
+1208,Vadodara,390018,4.0,4,2820,Karelibaug
+1209,Vadodara,390002,2.0,4,2674,Nizampura
+1210,Vadodara,390002,2.0,4,3007,Fatehgunj
+1211,Vadodara,390020,4.0,2,2758,Akota
+1212,Vadodara,390019,3.0,4,2578,Waghodia Road
+1213,Vadodara,390022,2.0,3,2855,New VIP Road
+1214,Vadodara,390020,3.0,4,3121,Akota
+1215,Vadodara,390010,4.0,3,2423,Makarpura
+1216,Vadodara,390022,4.0,4,2792,Amit Nagar
+1217,Vadodara,390008,2.0,4,2939,Sama
+1218,Vadodara,390010,1.0,3,2205,Makarpura
+1219,Vadodara,390011,1.0,4,2735,Manjalpur
+1220,Vadodara,391410,1.0,4,2453,Bhayli
+1221,Vadodara,390020,1.0,1,2363,Akota
+1222,Vadodara,391410,4.0,2,2298,Bhayli
+1223,Vadodara,390021,1.0,4,3067,Gotri
+1224,Vadodara,390022,3.0,2,2567,Harni
+1225,Vadodara,390020,2.0,3,2803,Akota
+1226,Vadodara,390007,3.0,3,3248,Alkapuri
+1227,Vadodara,390002,4.0,3,2904,Fatehgunj
+1228,Vadodara,390011,3.0,4,2977,Manjalpur
+1229,Vadodara,390019,1.0,4,2547,Waghodia Road
+1230,Vadodara,390002,3.0,2,2829,Nizampura
+1231,Vadodara,390007,3.0,3,2560,Vasna
+1232,Vadodara,390021,2.0,3,2847,Gotri
+1233,Vadodara,390008,1.0,3,2772,Sama
+1234,Vadodara,390022,1.0,4,2642,Amit Nagar
+1235,Vadodara,390022,2.0,1,2588,New VIP Road
+1236,Vadodara,390018,2.0,3,2718,Karelibaug
+1237,Vadodara,390007,1.0,4,2861,Diwalipura
+1238,Vadodara,390008,4.0,2,2870,Sama
+1239,Vadodara,390010,4.0,4,2631,Makarpura
+1240,Vadodara,390002,2.0,4,2947,Nizampura
+1241,Vadodara,390011,4.0,4,3046,Manjalpur
+1242,Vadodara,390009,4.0,4,2612,Tarsali
+1243,Vadodara,390007,4.0,4,2928,Diwalipura
+1244,Vadodara,390007,3.0,4,3299,Alkapuri
+1245,Vadodara,390002,2.0,3,2612,Nizampura
+1246,Vadodara,390008,3.0,3,2850,Sama
+1247,Vadodara,390002,2.0,3,2673,Nizampura
+1248,Vadodara,390020,2.0,2,2621,Akota
+1249,Vadodara,390002,2.0,4,2871,Fatehgunj
+1250,Vadodara,390008,1.0,3,2640,Sama
+1251,Vadodara,390011,3.0,1,2630,Manjalpur
+1252,Vadodara,390007,2.0,4,3375,Alkapuri
+1253,Vadodara,390007,4.0,4,2651,Vasna
+1254,Vadodara,390009,4.0,4,2664,Tarsali
+1255,Vadodara,390018,3.0,4,2900,Karelibaug
+1256,Vadodara,390007,2.0,3,2561,Diwalipura
+1257,Vadodara,390002,3.0,4,3041,Nizampura
+1258,Vadodara,390002,4.0,4,3068,Fatehgunj
+1259,Vadodara,390022,2.0,4,2437,Amit Nagar
+1260,Vadodara,390002,2.0,2,2535,Nizampura
+1261,Vadodara,390008,2.0,2,2790,Sama
+1262,Vadodara,390022,3.0,2,2887,New VIP Road
+1263,Vadodara,390007,1.0,4,2758,Diwalipura
+1264,Vadodara,390008,4.0,3,2967,Sama
+1265,Vadodara,390020,1.0,4,2875,Akota
+1266,Vadodara,390007,3.0,1,2873,Alkapuri
+1267,Vadodara,390022,3.0,4,2580,Amit Nagar
+1268,Vadodara,390007,2.0,3,3089,Alkapuri
+1269,Vadodara,390007,4.0,3,2634,Vasna
+1270,Vadodara,390007,1.0,4,2821,Diwalipura
+1271,Vadodara,390022,4.0,3,3198,New VIP Road
+1272,Vadodara,390002,1.0,4,2815,Fatehgunj
+1273,Vadodara,390022,4.0,1,2742,New VIP Road
+1274,Vadodara,390022,4.0,4,3202,New VIP Road
+1275,Vadodara,391410,1.0,4,2369,Bhayli
+1276,Vadodara,390018,2.0,1,2323,Karelibaug
+1277,Vadodara,390018,2.0,4,2909,Karelibaug
+1278,Vadodara,390021,1.0,4,3045,Gotri
+1279,Vadodara,390022,4.0,2,2437,Amit Nagar
+1280,Vadodara,390002,4.0,4,3002,Fatehgunj
+1281,Vadodara,390021,4.0,4,3292,Gotri
+1282,Vadodara,390022,1.0,4,2596,Harni
+1283,Vadodara,391410,2.0,3,2284,Bhayli
+1284,Vadodara,390007,1.0,3,2516,Vasna
+1285,Vadodara,390021,3.0,4,3119,Gotri
+1286,Vadodara,390007,2.0,4,2680,Diwalipura
+1287,Vadodara,390007,2.0,4,2485,Vasna
+1288,Vadodara,390019,2.0,2,2336,Waghodia Road
+1289,Vadodara,390009,1.0,4,2261,Tarsali
+1290,Vadodara,390009,3.0,2,2086,Tarsali
+1291,Vadodara,390007,2.0,4,3335,Alkapuri
+1292,Vadodara,390007,3.0,4,3614,Alkapuri
+1293,Vadodara,390021,1.0,3,2879,Gotri
+1294,Vadodara,390009,3.0,4,2615,Tarsali
+1295,Vadodara,390007,2.0,3,2677,Diwalipura
+1296,Vadodara,390019,2.0,4,2541,Waghodia Road
+1297,Vadodara,390009,3.0,3,2493,Tarsali
+1298,Vadodara,390020,3.0,4,3014,Akota
+1299,Vadodara,390022,1.0,3,2504,Harni
+1300,Vadodara,390010,4.0,4,2609,Makarpura
+1301,Vadodara,390018,4.0,4,2820,Karelibaug
+1302,Vadodara,390022,2.0,4,3139,New VIP Road
+1303,Vadodara,390007,1.0,3,2564,Diwalipura
+1304,Vadodara,390020,1.0,2,2532,Akota
+1305,Vadodara,390009,1.0,3,2278,Tarsali
+1306,Vadodara,390009,1.0,2,2019,Tarsali
+1307,Vadodara,390010,4.0,3,2453,Makarpura
+1308,Vadodara,390010,2.0,4,2399,Makarpura
+1309,Vadodara,390018,2.0,2,2538,Karelibaug
+1310,Vadodara,390020,4.0,3,3043,Akota
+1311,Vadodara,390007,4.0,4,2978,Diwalipura
+1312,Vadodara,390007,1.0,4,2784,Diwalipura
+1313,Vadodara,390022,2.0,2,2915,New VIP Road
+1314,Vadodara,390008,4.0,2,2970,Sama
+1315,Vadodara,390009,3.0,4,2541,Tarsali
+1316,Vadodara,390010,3.0,3,2242,Makarpura
+1317,Vadodara,390009,3.0,4,2444,Tarsali
+1318,Vadodara,391410,1.0,4,2233,Bhayli
+1319,Vadodara,390007,4.0,2,3165,Alkapuri
+1320,Vadodara,390019,3.0,4,2623,Waghodia Road
+1321,Vadodara,390022,3.0,3,3015,New VIP Road
+1322,Vadodara,390021,2.0,3,3018,Gotri
+1323,Vadodara,390010,4.0,2,2314,Makarpura
+1324,Vadodara,390009,1.0,4,2404,Tarsali
+1325,Vadodara,390002,4.0,3,2906,Fatehgunj
+1326,Vadodara,390007,1.0,4,3032,Alkapuri
+1327,Vadodara,390007,3.0,1,2415,Diwalipura
+1328,Vadodara,390022,1.0,3,2817,New VIP Road
+1329,Vadodara,390007,3.0,4,2631,Vasna
+1330,Vadodara,390010,2.0,4,2454,Makarpura
+1331,Vadodara,390022,2.0,3,2508,Amit Nagar
+1332,Vadodara,390009,4.0,4,2740,Tarsali
+1333,Vadodara,390009,4.0,4,2611,Tarsali
+1334,Vadodara,390022,3.0,4,3274,New VIP Road
+1335,Vadodara,390022,3.0,4,3153,New VIP Road
+1336,Vadodara,390007,3.0,4,2710,Vasna
+1337,Vadodara,390018,1.0,4,2555,Karelibaug
+1338,Vadodara,390018,4.0,4,2853,Karelibaug
+1339,Vadodara,390020,4.0,4,3095,Akota
+1340,Vadodara,390008,3.0,4,3105,Sama
+1341,Vadodara,390002,1.0,4,2724,Nizampura
+1342,Vadodara,390007,4.0,4,3480,Alkapuri
+1343,Vadodara,390010,2.0,4,2439,Makarpura
+1344,Vadodara,390007,2.0,4,3407,Alkapuri
+1345,Vadodara,390007,3.0,4,2975,Diwalipura
+1346,Vadodara,390007,3.0,4,3256,Alkapuri
+1347,Vadodara,390002,1.0,4,2530,Fatehgunj
+1348,Vadodara,390008,2.0,3,2954,Sama
+1349,Vadodara,390020,4.0,2,2747,Akota
+1350,Vadodara,390022,3.0,4,2770,Harni
+1351,Vadodara,390021,1.0,4,2905,Gotri
+1352,Vadodara,390007,4.0,4,3318,Alkapuri
+1353,Vadodara,390007,2.0,4,2849,Diwalipura
+1354,Vadodara,390021,1.0,4,3078,Gotri
+1355,Vadodara,390018,4.0,1,2438,Karelibaug
+1356,Vadodara,390020,4.0,4,2897,Akota
+1357,Vadodara,390008,3.0,4,3041,Sama
+1358,Vadodara,390021,2.0,3,3005,Gotri
+1359,Vadodara,390007,1.0,2,2317,Diwalipura
+1360,Vadodara,390020,1.0,1,2487,Akota
+1361,Vadodara,390008,3.0,4,3089,Sama
+1362,Vadodara,390007,4.0,3,3402,Alkapuri
+1363,Vadodara,390021,2.0,4,3111,Gotri
+1364,Vadodara,390022,2.0,3,2832,New VIP Road
+1365,Vadodara,390007,4.0,3,2958,Diwalipura
+1366,Vadodara,390002,4.0,4,2966,Nizampura
+1367,Vadodara,390022,2.0,4,3048,New VIP Road
+1368,Vadodara,390018,1.0,4,2526,Karelibaug
+1369,Vadodara,390011,3.0,4,2950,Manjalpur
+1370,Vadodara,390018,3.0,3,2580,Karelibaug
+1371,Vadodara,390020,1.0,3,2714,Akota
+1372,Vadodara,390007,3.0,1,2504,Vasna
+1373,Vadodara,391410,1.0,4,2137,Bhayli
+1374,Vadodara,390007,1.0,1,2675,Alkapuri
+1375,Vadodara,390019,3.0,2,2512,Waghodia Road
+1376,Vadodara,391410,4.0,4,2511,Bhayli
+1377,Vadodara,390022,1.0,4,2350,Amit Nagar
+1378,Vadodara,390021,3.0,2,3024,Gotri
+1379,Vadodara,390021,4.0,3,3095,Gotri
+1380,Vadodara,390007,3.0,4,3054,Diwalipura
+1381,Vadodara,390020,3.0,4,3101,Akota
+1382,Vadodara,390002,3.0,4,2896,Fatehgunj
+1383,Vadodara,390022,1.0,3,3024,New VIP Road
+1384,Vadodara,390022,3.0,1,2695,New VIP Road
+1385,Vadodara,390010,1.0,3,2247,Makarpura
+1386,Vadodara,390007,1.0,4,3237,Alkapuri
+1387,Vadodara,390021,1.0,3,2997,Gotri
+1388,Vadodara,390008,3.0,4,3231,Sama
+1389,Vadodara,390021,1.0,4,3013,Gotri
+1390,Vadodara,390007,2.0,1,2192,Vasna
+1391,Vadodara,390007,3.0,3,2651,Vasna
+1392,Vadodara,390007,1.0,3,2369,Vasna
+1393,Vadodara,390009,1.0,4,2541,Tarsali
+1394,Vadodara,390010,4.0,4,2592,Makarpura
+1395,Vadodara,390002,1.0,4,2677,Nizampura
+1396,Vadodara,390018,2.0,1,2327,Karelibaug
+1397,Vadodara,390022,3.0,3,2339,Amit Nagar
+1398,Vadodara,390009,1.0,4,2273,Tarsali
+1399,Vadodara,390020,3.0,3,3018,Akota
+1400,Vadodara,390009,2.0,3,2261,Tarsali
+1401,Vadodara,390022,4.0,2,2326,Amit Nagar
+1402,Vadodara,390022,2.0,4,2548,Amit Nagar
+1403,Vadodara,390020,1.0,4,2967,Akota
+1404,Vadodara,390019,1.0,3,2395,Waghodia Road
+1405,Vadodara,391410,3.0,2,2270,Bhayli
+1406,Vadodara,390018,1.0,4,2542,Karelibaug
+1407,Vadodara,390009,1.0,2,1972,Tarsali
+1408,Vadodara,390009,1.0,3,2365,Tarsali
+1409,Vadodara,390020,2.0,3,2791,Akota
+1410,Vadodara,390008,3.0,4,3067,Sama
+1411,Vadodara,390022,3.0,3,3130,New VIP Road
+1412,Vadodara,390022,1.0,4,3010,New VIP Road
+1413,Vadodara,390002,2.0,3,2711,Nizampura
+1414,Vadodara,390007,2.0,3,2715,Vasna
+1415,Vadodara,391410,2.0,4,2292,Bhayli
+1416,Vadodara,390021,3.0,2,3014,Gotri
+1417,Vadodara,390022,4.0,3,2755,Harni
+1418,Vadodara,390010,2.0,4,2424,Makarpura
+1419,Vadodara,390019,4.0,3,2738,Waghodia Road
+1420,Vadodara,390018,3.0,4,2836,Karelibaug
+1421,Vadodara,390002,4.0,3,2948,Fatehgunj
+1422,Vadodara,390022,1.0,4,3057,New VIP Road
+1423,Vadodara,390002,3.0,2,2647,Fatehgunj
+1424,Vadodara,390020,3.0,4,2964,Akota
+1425,Vadodara,390007,1.0,4,2616,Diwalipura
+1426,Vadodara,390007,3.0,4,2563,Vasna
+1427,Vadodara,390022,2.0,4,2885,Harni
+1428,Vadodara,390009,3.0,2,2181,Tarsali
+1429,Vadodara,390022,2.0,3,2900,New VIP Road
+1430,Vadodara,390021,2.0,4,3075,Gotri
+1431,Vadodara,390002,3.0,2,2658,Nizampura
+1432,Vadodara,390007,4.0,4,3053,Diwalipura
+1433,Vadodara,390022,3.0,4,2667,Amit Nagar
+1434,Vadodara,390009,3.0,3,2358,Tarsali
+1435,Vadodara,390018,3.0,3,2645,Karelibaug
+1436,Vadodara,390011,3.0,4,3015,Manjalpur
+1437,Vadodara,390002,3.0,4,2868,Nizampura
+1438,Vadodara,390010,4.0,4,2725,Makarpura
+1439,Vadodara,390008,4.0,4,3224,Sama
+1440,Vadodara,390022,2.0,4,3116,New VIP Road
+1441,Vadodara,390018,4.0,3,2810,Karelibaug
+1442,Vadodara,390022,4.0,4,2786,Amit Nagar
+1443,Vadodara,390008,4.0,4,3196,Sama
+1444,Vadodara,390007,2.0,4,2683,Diwalipura
+1445,Vadodara,390018,1.0,4,2646,Karelibaug
+1446,Vadodara,390022,2.0,4,2441,Amit Nagar
+1447,Vadodara,390011,4.0,2,2772,Manjalpur
+1448,Vadodara,390007,1.0,4,3263,Alkapuri
+1449,Vadodara,390002,2.0,4,2961,Fatehgunj
+1450,Vadodara,390007,1.0,3,3082,Alkapuri
+1451,Vadodara,390021,2.0,1,2738,Gotri
+1452,Vadodara,390021,3.0,2,3083,Gotri
+1453,Vadodara,390010,4.0,4,2602,Makarpura
+1454,Vadodara,390020,4.0,4,3364,Akota
+1455,Vadodara,390019,1.0,4,2511,Waghodia Road
+1456,Vadodara,390021,3.0,4,3032,Gotri
+1457,Vadodara,390019,2.0,3,2488,Waghodia Road
+1458,Vadodara,390009,1.0,4,2394,Tarsali
+1459,Vadodara,390011,4.0,3,3066,Manjalpur
+1460,Vadodara,390007,2.0,4,2861,Diwalipura
+1461,Vadodara,390011,3.0,3,2848,Manjalpur
+1462,Vadodara,390022,1.0,3,2370,Harni
+1463,Vadodara,391410,2.0,2,2071,Bhayli
+1464,Vadodara,390021,2.0,2,2763,Gotri
+1465,Vadodara,390022,2.0,3,2868,New VIP Road
+1466,Vadodara,390002,2.0,4,2853,Nizampura
+1467,Vadodara,390002,2.0,3,2870,Fatehgunj
+1468,Vadodara,390020,3.0,4,3076,Akota
+1469,Vadodara,390022,4.0,3,2442,Amit Nagar
+1470,Vadodara,390020,3.0,4,3080,Akota
+1471,Vadodara,390002,2.0,3,2828,Fatehgunj
+1472,Vadodara,390010,4.0,3,2395,Makarpura
+1473,Vadodara,390022,2.0,4,2488,Amit Nagar
+1474,Vadodara,390002,4.0,4,2981,Nizampura
+1475,Vadodara,390009,2.0,4,2379,Tarsali
+1476,Vadodara,390007,2.0,3,2728,Diwalipura
+1477,Vadodara,390002,3.0,4,2929,Fatehgunj
+1478,Vadodara,390019,4.0,4,2768,Waghodia Road
+1479,Vadodara,390011,3.0,4,2910,Manjalpur
+1480,Vadodara,390022,1.0,3,2791,New VIP Road
+1481,Vadodara,390022,3.0,2,2395,Amit Nagar
+1482,Vadodara,390021,2.0,3,2936,Gotri
+1483,Vadodara,390020,4.0,3,3155,Akota
+1484,Vadodara,390002,3.0,4,2854,Nizampura
+1485,Vadodara,390011,3.0,3,2880,Manjalpur
+1486,Vadodara,390018,3.0,3,2744,Karelibaug
+1487,Vadodara,390022,3.0,4,2462,Amit Nagar
+1488,Vadodara,390002,4.0,4,2822,Nizampura
+1489,Vadodara,390007,2.0,4,2513,Vasna
+1490,Vadodara,390007,1.0,4,2824,Diwalipura
+1491,Vadodara,390022,2.0,3,2870,New VIP Road
+1492,Vadodara,390018,4.0,4,3110,Karelibaug
+1493,Vadodara,390007,3.0,4,2839,Diwalipura
+1494,Vadodara,390022,3.0,3,3027,New VIP Road
+1495,Vadodara,390022,4.0,3,3239,New VIP Road
+1496,Vadodara,390022,4.0,4,3411,New VIP Road
+1497,Vadodara,390011,2.0,4,3086,Manjalpur
+1498,Vadodara,390008,2.0,3,2979,Sama
+1499,Vadodara,390019,3.0,3,2602,Waghodia Road
+1500,Vadodara,390010,4.0,3,2503,Makarpura
