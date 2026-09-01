@@ -89,8 +89,10 @@ def area_lookup():
         zipcode = int(request.args.get("zip", ""))
     except (TypeError, ValueError):
         return jsonify({"found": False, "areas": [], "zips": []})
-    areas = df[df["zip code"] == zipcode]["area_name"].dropna().unique()
-    areas = sorted(str(a) for a in areas)
+    # Most frequent areas first; cap at 8 so pincodes like 390022 (50+ names,
+    # many society names) don't flood the dropdown.
+    counts = df[df["zip code"] == zipcode]["area_name"].dropna().value_counts()
+    areas = [str(a) for a in counts.head(8).index]
     return jsonify({"found": len(areas) > 0, "areas": areas, "zips": []})
 
 

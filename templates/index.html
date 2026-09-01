@@ -355,19 +355,19 @@
 
     areaSelect.addEventListener('change', function () {
       var area = areaSelect.value;
-      if (!area) { zipHint.style.display = 'none'; return; }
+      if (!area) { showFeedback('', true); return; }
       fetch('/api/area_lookup?area=' + encodeURIComponent(area))
         .then(function (r) { return r.json(); })
         .then(function (data) {
           if (data.found && data.zips.length) {
-            zipHint.textContent = 'Pincode' + (data.zips.length > 1 ? 's' : '') + ' for ' + area + ': ' + data.zips.join(', ');
-            zipHint.style.display = '';
-            zipHint.style.color = 'var(--moss-dark)';
+            zipInput.value = data.zips[0];
+            var extra = data.zips.length > 1 ? ' (also ' + data.zips.slice(1).join(', ') + ')' : '';
+            showFeedback('Area ' + area + ' → pincode ' + data.zips[0] + extra, true);
           } else {
-            zipHint.style.display = 'none';
+            showFeedback('No pincode found for ' + area, false);
           }
         })
-        .catch(function () { zipHint.style.display = 'none'; });
+        .catch(function () { showFeedback('Could not look up pincode for ' + area, false); });
     });
   })();
 </script>
