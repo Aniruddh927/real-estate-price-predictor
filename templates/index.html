@@ -182,54 +182,57 @@
     <p class="empty-note" style="color: var(--clay);">{{ error }}</p>
     {% endif %}
 
+    {% set a = request.form.get('area_name', '') %}
     <form method="POST" action="{{ url_for('predict') }}">
       <label for="city">City</label>
-      <input type="text" id="city" name="city" value="Vadodara" required>
+      <input type="text" id="city" name="city" value="{{ request.form.get('city', 'Vadodara') }}" required>
 
       <label for="area_name">Area (auto-filled from pincode)</label>
       <select id="area_name" name="area_name" required>
-        <option value="Fatehgunj">Fatehgunj</option>
-        <option value="Nizampura">Nizampura</option>
-        <option value="Diwalipura">Diwalipura</option>
-        <option value="Vasna">Vasna</option>
-        <option value="Alkapuri">Alkapuri</option>
-        <option value="Sama">Sama</option>
-        <option value="Tarsali">Tarsali</option>
-        <option value="Makarpura">Makarpura</option>
-        <option value="Manjalpur">Manjalpur</option>
-        <option value="Karelibaug">Karelibaug</option>
-        <option value="Waghodia Road">Waghodia Road</option>
-        <option value="Akota">Akota</option>
-        <option value="Gotri">Gotri</option>
-        <option value="Harni">Harni</option>
-        <option value="New VIP Road">New VIP Road</option>
-        <option value="Amit Nagar">Amit Nagar</option>
-        <option value="Bhayli">Bhayli</option>
+        <option value="Fatehgunj"{% if a == 'Fatehgunj' %} selected{% endif %}>Fatehgunj</option>
+        <option value="Nizampura"{% if a == 'Nizampura' %} selected{% endif %}>Nizampura</option>
+        <option value="Diwalipura"{% if a == 'Diwalipura' %} selected{% endif %}>Diwalipura</option>
+        <option value="Vasna"{% if a == 'Vasna' %} selected{% endif %}>Vasna</option>
+        <option value="Alkapuri"{% if a == 'Alkapuri' %} selected{% endif %}>Alkapuri</option>
+        <option value="Sama"{% if a == 'Sama' %} selected{% endif %}>Sama</option>
+        <option value="Tarsali"{% if a == 'Tarsali' %} selected{% endif %}>Tarsali</option>
+        <option value="Makarpura"{% if a == 'Makarpura' %} selected{% endif %}>Makarpura</option>
+        <option value="Manjalpur"{% if a == 'Manjalpur' %} selected{% endif %}>Manjalpur</option>
+        <option value="Karelibaug"{% if a == 'Karelibaug' %} selected{% endif %}>Karelibaug</option>
+        <option value="Waghodia Road"{% if a == 'Waghodia Road' %} selected{% endif %}>Waghodia Road</option>
+        <option value="Akota"{% if a == 'Akota' %} selected{% endif %}>Akota</option>
+        <option value="Gotri"{% if a == 'Gotri' %} selected{% endif %}>Gotri</option>
+        <option value="Harni"{% if a == 'Harni' %} selected{% endif %}>Harni</option>
+        <option value="New VIP Road"{% if a == 'New VIP Road' %} selected{% endif %}>New VIP Road</option>
+        <option value="Amit Nagar"{% if a == 'Amit Nagar' %} selected{% endif %}>Amit Nagar</option>
+        <option value="Bhayli"{% if a == 'Bhayli' %} selected{% endif %}>Bhayli</option>
       </select>
 
       <label for="zipcode">Zip code</label>
-      <input type="number" id="zipcode" name="zipcode" placeholder="e.g. 390007" required>
+      <input type="number" id="zipcode" name="zipcode" placeholder="e.g. 390007" value="{{ request.form.get('zipcode', '') }}" required>
       <p id="zip-feedback" class="empty-note" style="display:none;"></p>
 
+      {% set t = request.form.get('property_type', '') %}
+      {% set f = request.form.get('furnishing', '') %}
       <label for="bedroom">Bedrooms</label>
-      <input type="number" id="bedroom" name="bedroom" min="1" max="10" value="2" required>
+      <input type="number" id="bedroom" name="bedroom" min="1" max="10" value="{{ request.form.get('bedroom', '2') }}" required>
 
       <label for="bathroom">Bathrooms</label>
-      <input type="number" id="bathroom" name="bathroom" min="1" max="10" value="2" required>
+      <input type="number" id="bathroom" name="bathroom" min="1" max="10" value="{{ request.form.get('bathroom', '2') }}" required>
 
       <label for="property_type">Property type</label>
       <select id="property_type" name="property_type" required>
-        <option value="Flat">Flat / Apartment</option>
-        <option value="House">House</option>
-        <option value="Villa">Villa</option>
-        <option value="Builder Floor">Builder Floor</option>
+        <option value="Flat"{% if t == 'Flat' %} selected{% endif %}>Flat / Apartment</option>
+        <option value="House"{% if t == 'House' %} selected{% endif %}>House</option>
+        <option value="Villa"{% if t == 'Villa' %} selected{% endif %}>Villa</option>
+        <option value="Builder Floor"{% if t == 'Builder Floor' %} selected{% endif %}>Builder Floor</option>
       </select>
 
       <label for="furnishing">Furnishing</label>
       <select id="furnishing" name="furnishing" required>
-        <option value="Furnished">Furnished</option>
-        <option value="Semi-Furnished">Semi-Furnished</option>
-        <option value="Unfurnished">Unfurnished</option>
+        <option value="Furnished"{% if f == 'Furnished' %} selected{% endif %}>Furnished</option>
+        <option value="Semi-Furnished"{% if f == 'Semi-Furnished' %} selected{% endif %}>Semi-Furnished</option>
+        <option value="Unfurnished"{% if f == 'Unfurnished' %} selected{% endif %}>Unfurnished</option>
       </select>
 
       <button class="submit" type="submit">Get estimate</button>
@@ -315,6 +318,24 @@
     }
 
     var timer = null;
+    function lookupZip(zip) {
+      fetch('/api/area_lookup?zip=' + encodeURIComponent(zip))
+        .then(function (r) { return r.json(); })
+        .then(function (data) {
+          if (data.found && data.areas.length) {
+            setAreas(data.areas);
+            showFeedback('Pincode ' + zip + ' → area: ' + data.areas.join(', '), true);
+          } else {
+            restoreDefaultAreas();
+            showFeedback('Pincode ' + zip + ' not found in our data. Try 390001–390025, 391410, 391740.', false);
+          }
+        })
+        .catch(function () {
+          restoreDefaultAreas();
+          showFeedback('Could not look up pincode. Please pick an area manually.', false);
+        });
+    }
+
     zipInput.addEventListener('input', function () {
       clearTimeout(timer);
       var zip = zipInput.value.trim();
@@ -323,24 +344,14 @@
         showFeedback('', true);
         return;
       }
-      timer = setTimeout(function () {
-        fetch('/api/area_lookup?zip=' + encodeURIComponent(zip))
-          .then(function (r) { return r.json(); })
-          .then(function (data) {
-            if (data.found && data.areas.length) {
-              setAreas(data.areas);
-              showFeedback('Pincode ' + zip + ' → area: ' + data.areas.join(', '), true);
-            } else {
-              restoreDefaultAreas();
-              showFeedback('Pincode ' + zip + ' not found in our data. Try 390001–390025, 391410, 391740.', false);
-            }
-          })
-          .catch(function () {
-            restoreDefaultAreas();
-            showFeedback('Could not look up pincode. Please pick an area manually.', false);
-          });
-      }, 180);
+      timer = setTimeout(function () { lookupZip(zip); }, 180);
     });
+
+    // Server echoed a pincode back after a prediction? Rebuild the area list.
+    var echoedZip = zipInput.value.trim();
+    if (echoedZip.length >= 5) {
+      lookupZip(echoedZip);
+    }
 
     areaSelect.addEventListener('change', function () {
       var area = areaSelect.value;
