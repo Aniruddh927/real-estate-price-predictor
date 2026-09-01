@@ -178,7 +178,9 @@
 <main>
   <section class="panel search-panel">
     <h2>Estimate a price</h2>
-    <p class="hint">Enter a locality and layout to get a price-per-sqft estimate and see comparable available houses nearby.</p>
+    {% if error %}
+    <p class="empty-note" style="color: var(--clay);">{{ error }}</p>
+    {% endif %}
 
     <form method="POST" action="{{ url_for('predict') }}">
       <label for="city">City</label>

@@ -77,14 +77,18 @@ def logout():
 
 @app.route("/predict", methods=["POST"])
 def predict():
-    if 'user_id' not in session:
-        return redirect(url_for('login'))
-
-    city = request.form["city"]
-    area_name = request.form.get("area_name", "not specified")
-    zipcode = int(request.form["zipcode"])
-    bathroom = int(request.form["bathroom"])
-    bedroom = int(request.form["bedroom"])
+    try:
+        city = request.form["city"]
+        area_name = request.form.get("area_name", "not specified")
+        zipcode = int(request.form["zipcode"])
+        bathroom = int(request.form["bathroom"])
+        bedroom = int(request.form["bedroom"])
+    except (KeyError, ValueError):
+        return render_template(
+            "index.html",
+            error="Please fill in all fields with valid numbers (e.g. zip 390007, beds 2).",
+            user_name=session.get('user_name')
+        )
 
     input_data = {
         "city": city,
