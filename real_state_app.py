@@ -127,10 +127,16 @@ def predict():
         bedroom = int(request.form["bedroom"])
         property_type = request.form.get("property_type", "Flat")
         furnishing = request.form.get("furnishing", "Unknown")
+        status = request.form.get("status", "Ready to Move")
+        transaction = request.form.get("transaction", "Resale")
+        facing = request.form.get("facing", "Other")
+        ownership = request.form.get("ownership", "Freehold")
+        floor = int(request.form.get("floor", 2) or 2)
+        area_sqft = float(request.form.get("area_sqft", 1000) or 1000)
     except (KeyError, ValueError):
         return render_template(
             "index.html",
-            error="Please fill in all fields with valid numbers (e.g. zip 390007, beds 2).",
+            error="Please fill in all fields with valid numbers (e.g. zip 390007, beds 2, area 1000).",
             user_name=session.get('user_name')
         )
 
@@ -142,6 +148,12 @@ def predict():
         "No bedroom": bedroom,
         "property type": property_type,
         "furnishing": furnishing,
+        "status": status,
+        "transaction": transaction,
+        "facing": facing,
+        "ownership": ownership,
+        "floor": floor,
+        "area sqft": area_sqft,
     }
 
     # Predict price

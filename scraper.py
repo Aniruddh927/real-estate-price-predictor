@@ -178,7 +178,11 @@ def parse_mb_cards(html):
                     price = int(float(pm.group(1).replace(",", "")) * PRICE_UNIT[unit])
 
         area = None
-        am = re.search(r'data-summary="carpet-area"[^>]*>.*?mb-srp__card__summary--value">([\d,]+)', chunk, re.S)
+        am = re.search(r'data-summary="super-area"[^>]*>.*?mb-srp__card__summary--value">([\d,]+)', chunk, re.S)
+        if am:
+            area = int(am.group(1).replace(",", ""))
+        if area is None:
+            am = re.search(r'data-summary="carpet-area"[^>]*>.*?mb-srp__card__summary--value">([\d,]+)', chunk, re.S)
         if am:
             area = int(am.group(1).replace(",", ""))
         if area is None:
@@ -196,6 +200,22 @@ def parse_mb_cards(html):
         if fm:
             furn = fm.group(1).strip()
 
+        def summary_value(key):
+            m = re.search(r'data-summary="%s"[^>]*>.*?mb-srp__card__summary--value">([^<]+)' % key,
+                          chunk, re.S)
+            return m.group(1).strip() if m else None
+
+        status = summary_value("status")
+        txn = summary_value("transaction")
+        facing = summary_value("facing")
+        own = summary_value("ownership")
+        floor = None
+        fm2 = re.search(r'data-summary="floor"[^>]*>.*?mb-srp__card__summary--value">([^<]+)', chunk, re.S)
+        if fm2:
+            fm3 = re.search(r"(\d+)", fm2.group(1))
+            if fm3:
+                floor = int(fm3.group(1))
+
         if bhk_m is None or price is None or area is None or locality is None:
             continue
         bhk = int(bhk_m.group(1))
@@ -211,6 +231,12 @@ def parse_mb_cards(html):
             "per_sqft": round(per_sqft),
             "ptype": ptype,
             "furn": furn or "Unknown",
+            "status": status or "Unknown",
+            "txn": txn or "Unknown",
+            "facing": facing or "Unknown",
+            "floor": floor,
+            "own": own or "Unknown",
+            "area": area,
         })
     return rows
 
@@ -235,10 +261,17 @@ def save_csv(all_rows, out, zips, fallback_zip):
             "area_name": r["locality"],
             "property type": r.get("ptype", "Flat"),
             "furnishing": r.get("furn", "Unknown"),
+            "status": r.get("status", "Unknown"),
+            "transaction": r.get("txn", "Unknown"),
+            "facing": r.get("facing", "Unknown"),
+            "floor": r.get("floor", ""),
+            "ownership": r.get("own", "Unknown"),
+            "area sqft": r.get("area", ""),
         })
     df = pd.DataFrame(records, columns=[
         "sr no", "city", "zip code", "No Bathroom", "No bedroom",
         "price  per squrefoot", "area_name", "property type", "furnishing",
+        "status", "transaction", "facing", "floor", "ownership", "area sqft",
     ])
     df.to_csv(out, index=False)
     print(f"[saved {len(df)} rows to {out}]", flush=True)
@@ -298,6 +331,12 @@ def main():
                 "per_sqft": int(r["price  per squrefoot"]),
                 "ptype": r.get("property type", "Flat"),
                 "furn": r.get("furnishing", "Unknown"),
+                "status": r.get("status", "Unknown"),
+                "txn": r.get("transaction", "Unknown"),
+                "facing": r.get("facing", "Unknown"),
+                "floor": r.get("floor", ""),
+                "own": r.get("ownership", "Unknown"),
+                "area": r.get("area sqft", ""),
             })
         print(f"resumed {len(all_rows)} existing rows")
     except FileNotFoundError:

@@ -220,6 +220,39 @@
       <label for="bathroom">Bathrooms</label>
       <input type="number" id="bathroom" name="bathroom" min="1" max="10" value="{{ request.form.get('bathroom', '2') }}" required>
 
+      <label for="area_sqft">Area (sq ft)</label>
+      <input type="number" id="area_sqft" name="area_sqft" min="200" max="20000" value="{{ request.form.get('area_sqft', '1000') }}" required>
+
+      <label for="floor">Floor</label>
+      <input type="number" id="floor" name="floor" min="0" max="20" value="{{ request.form.get('floor', '2') }}" required>
+
+      <label for="status">Possession status</label>
+      <select id="status" name="status" required>
+        <option value="Ready to Move"{% if request.form.get('status') == 'Ready to Move' %} selected{% endif %}>Ready to Move</option>
+        <option value="Under Construction"{% if request.form.get('status') == 'Under Construction' %} selected{% endif %}>Under Construction</option>
+      </select>
+
+      <label for="transaction">Transaction type</label>
+      <select id="transaction" name="transaction" required>
+        <option value="Resale"{% if request.form.get('transaction') == 'Resale' %} selected{% endif %}>Resale</option>
+        <option value="New"{% if request.form.get('transaction') == 'New' %} selected{% endif %}>New Property</option>
+      </select>
+
+      <label for="facing">Facing</label>
+      <select id="facing" name="facing" required>
+        <option value="East"{% if request.form.get('facing') == 'East' %} selected{% endif %}>East</option>
+        <option value="West"{% if request.form.get('facing') == 'West' %} selected{% endif %}>West</option>
+        <option value="North"{% if request.form.get('facing') == 'North' %} selected{% endif %}>North</option>
+        <option value="South"{% if request.form.get('facing') == 'South' %} selected{% endif %}>South</option>
+        <option value="Other"{% if request.form.get('facing') == 'Other' %} selected{% endif %}>Other</option>
+      </select>
+
+      <label for="ownership">Ownership</label>
+      <select id="ownership" name="ownership" required>
+        <option value="Freehold"{% if request.form.get('ownership') == 'Freehold' %} selected{% endif %}>Freehold</option>
+        <option value="Other"{% if request.form.get('ownership') == 'Other' %} selected{% endif %}>Other</option>
+      </select>
+
       <label for="property_type">Property type</label>
       <select id="property_type" name="property_type" required>
         <option value="Flat"{% if t == 'Flat' %} selected{% endif %}>Flat / Apartment</option>

@@ -2,8 +2,9 @@ import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
 
 # Features used by the model
-CATEGORICAL_FEATURES = ['city', 'area_name', 'zip code', 'property type', 'furnishing']
-NUMERIC_FEATURES = ['No Bathroom', 'No bedroom']
+CATEGORICAL_FEATURES = ['city', 'area_name', 'zip code', 'property type', 'furnishing',
+                        'status', 'transaction', 'facing', 'ownership']
+NUMERIC_FEATURES = ['No Bathroom', 'No bedroom', 'floor', 'area sqft']
 TARGET = 'price  per squrefoot'
 
 
